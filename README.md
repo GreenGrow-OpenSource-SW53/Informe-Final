@@ -407,19 +407,25 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 <br>
 Luego de realizar una investigación en el mercado peruano, hemos encontrado tres proyectos similares a GreenGrow. Por ello, los concideramos como potenciales competidores. Estos son:
 <br>
+
 **Hidroponika:**
+
 <br>
 Es un Web browser que cuenta con una gama completa de productos y servicios de calidad relacionados con la hidrocultura. Además, posee soluciones nutritivas para todo tipo de plantas, desde tu propio huerto.
 <br>
 <img src="https://i.imgur.com/sPqvU40.pngwidth=600&amp;height=600" style="max-width: 460px; width: 25%;">
 <br>
+
 **Intagri:**
+
 <br>
 Es un portal que ofrece distintos tipos de información acerca de los distintos tipos de cultivos. Además, ofrece también distintas conferencias y cursos dictados por expertos acerca de la agricultura.
 <br>
 <img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" style="max-width: 600px; width: 40%;">
 <br>
+
 **Mundo Hidroponia:**
+
 <br>
 Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
 <br>
