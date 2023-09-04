@@ -15,9 +15,9 @@ Sección SW53
 
 **Profesor**: Elio Jefferrson Navarrete Vilca
 
-**StartUp Name:** GrowGenius
+**StartUp Name**: GrowGenius
 
-**Producto:** GreenGrow
+**Producto**: GreenGrow
 
 ### Team Members:
 | Member | Code |
