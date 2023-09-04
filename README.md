@@ -9,7 +9,7 @@ Ciclo 2023-02
 #### Desarrollo de Aplicaciones Open Source - SW53
 <hr>
 
-# <center>COURSE PROJECT</center>
+# <center>Desarrollo de Aplicaciones Open Source</center>
 ## TB1 REPORT
 
 ## StartUp Name: GreenGrow
