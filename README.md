@@ -1,5 +1,11 @@
-#### Universidad Peruana de Ciencias Aplicadas
-#### Ingeniería de Software
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+
+Universidad Peruana de Ciencias Aplicadas
+
+Ingeniería de Software
+
+Ciclo 2023-02
+
 #### Desarrollo de Aplicaciones Open Source - SW53
 <hr>
 
