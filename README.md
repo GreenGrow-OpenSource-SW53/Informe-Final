@@ -400,3 +400,351 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 | Demográfico | Edad: Personas mayores de edad. Nivel de Ingreso: No es relevante, ya que depende de los factores que se elijan. Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. | Edad: Deben ser mayores de edad, preferiblemente mayores de 30 años. Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. Estudios: Debe contar con secundaria completa o superior.
 
 <br><br>
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+Luego de realizar una investigación en el mercado peruano, hemos encontrado tres proyectos similares a GreenGrow. Por ello, los concideramos como potenciales competidores. Estos son:
+
+**Hidroponika:**
+
+Es un Web browser que cuenta con una gama completa de productos y servicios de calidad relacionados con la hidrocultura. Además, posee soluciones nutritivas para todo tipo de plantas, desde tu propio huerto.
+<img src="https://i.imgur.com/sPqvU40.pngwidth=600&amp;height=600" style="max-width: 460px; width: 25%;">
+
+**Intagri:**
+
+Es un portal que ofrece distintos tipos de información acerca de los distintos tipos de cultivos. Además, ofrece también distintas conferencias y cursos dictados por expertos acerca de la agricultura.
+<img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" style="max-width: 600px; width: 40%;">
+
+**Mundo Hidroponia:**
+
+Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
+<img src="https://i.imgur.com/pY6oo3B.jpg?width=1447&amp;height=814" style="max-width: 600px; width: 60%;">
+
+### 2.1.1. Análisis competitivo
+
+
+<table>|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+<tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">GreenGrow<br><img src="https://i.imgur.com/jwNgfz4.jpg?width=2002&amp;height=1345" alt="GreenGrow" width="70px"></td><td colspan="1" valign="top" style="font-weight: bold;">Hidroponika<br><img src="https://i.imgur.com/sPqvU40.png?width=600&amp;height=600" alt="Hidroponika" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Intagri<br><img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" alt="Intagri" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Mundo Hidroponia<br><img src="https://i.imgur.com/pY6oo3B.jpg?width=1447&amp;height=814" alt="Mundo Hidropnia" width="60px"></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top">Aplicación web donde los clientes podrán informarse acerca de la hidroponía, mantenerse informado cada dia sobre diversos temas de la hidroponía y poder realizar cursos interactivos donde aprenda distintas técnicas o materiales a usar.</td><td colspan="1" valign="top">Es una página web que cuenta con una gran variedad de productos y servicios relacionados a la hidroponía, de gran calidad y para distintos lugares.Además posee distintos cursos para iniciar en la hidroponía.</td><td colspan="1" valign="top">Es una página web que ofrece distintos tipos de información sobre agricultura.  Ofrecen capacitaciones y cursos donde explican distintos tipos de métodos a utilizar en la agricultura. Estos cursos los dictan de manera presencial o virtual dependiendo del área que dicten.</td><td colspan="1" valign="top">Es una página web que ofrece distintos productos para la hidroponia como nutrientes para las plantas, huertas donde irán instaladas estas plantas y semillas de distintos tipos.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">Una mejor variedad de productos acorde a la economía de las personas y a los distintos lugares del Perú. Además de un continuo seguimiento de nuestros clientes para poder aclarar alguna duda o problema que pueda surgir.</td><td colspan="1" valign="top">Una gran cantidad de productos, packs, soluciones y demás para la hidroponia. Tiene una sólida interfaz donde explican los servicios que ofrece la empresa y los beneficios de realizar hidroponia.</td><td colspan="1" valign="top">Una ventaja que ellos tienen a diferencia de otros es la gran cantidad de cursos que dictan, esto hace que muchas personas elijan sus servicios para aprender más acerca de distintos temas de agricultura y también sobre de la hidroponia.</td><td colspan="1" valign="top">Gran variedad de semillas y nutrientes para la hidroponia. Esto hace que sean un lugar concurrido para las personas que tengan este tipo de huertos.</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">Personas de todo el Perú que quieran comenzar a utilizar la técnica de hidroponía para cultivar en sus casas o personas que necesitan materiales para seguir ciudadano sus cultivos</td><td colspan="1" valign="top">Personas de todo el Perú que quieran obtener sus productos o empezar en la hidroponía en sus hogares u otros lugares.</td><td colspan="1" valign="top">Personas que estén interesadas en aprender más sobre la hidroponía, dispuestos a llevar cursos y asistir en charlas que Intagri ofrece.</td><td colspan="1" valign="top">Personas que se dedican a cultivar plantas con la técnica de hidroponía.</td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad a través de redes sociales</td><td colspan="1" valign="top">En las principales redes sociales.</td><td colspan="1" valign="top">En las principales redes sociales, linkedin y en empresas aliadas como Fertilab y Proain.</td><td colspan="1" valign="top">Publicidad a través de las principales redes sociales</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">Brindar un servicio de calidad mediante la información que mostraremos en nuestra página, La creación de cursos didácticos de distintos temas de la hidroponía, además de la creación de comunidades donde las personas puedan contar sus experiencias o recomendar distintas cosas.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta hidro huertos de distintos tamaños y para distintos tipos de plantas.</td><td colspan="1" valign="top">Los productos que ellos ofrecen son los cursos y capacitaciones sobre distintos temas acerca de la agricultura.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta huertos de distintos tamaños y para distintos tipos de plantas.</td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Los precios y costos por nuestros cursos se mostrarán en la pantalla de compra del producto. Asimismo trataremos de mantener los precios lo más accesible para todo público.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son las soluciones desde los 20 soles hasta los más caros que son los hidro huertos que pueden pasar los 1000 soles.</td><td colspan="1" valign="top">Sus precios varían entre los cursos que son los más cómodos hasta los diplomados internacionales que valen mucho dinero.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son los nutrientes y semillas hasta los más caros que son los huertos que pueden costar una gran cantidad de dinero dependiendo del tamaño de estos.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">Se contará con una página web en donde se encontrará todo lo que ofrecemos e información acerca de nosotros </td><td colspan="1" valign="top">Se hacen envíos a todo el Perú mediante empresas de courier tanto para Lima metropolitana hasta los distintos departamentos del país.</td><td colspan="1" valign="top">La mayoría de cursos que dictan son virtuales pero los seminarios o congresos que ellos dicten son presenciales.</td><td colspan="1" valign="top">Ofrecen sus servicios por medio de empresas de courier en el territorio argentino.</td></tr><tr><td colspan="1" rowspan="5">Análisis SWOT</td><td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Brindar información de distintos temas sobre la hidroponía, además de estar validadas por un especialista. Comunicación constante con los clientes.</td><td colspan="1" valign="top">Una gran variedad de productos para ofrecer a todos sus clientes.</td><td colspan="1" valign="top">Una gran variedad de cursos de distintos temas que pueden atraer a distintas personas. Capacitaciones y ponencias de manera presencial hacen que sean más reconocidos por sus demás competidores.</td><td colspan="1" valign="top">Gran variedad de semillas para la plantación de estas, distintos nutrientes que ayudan a la planta a crecer y gran variedad de huertos de distintos tamaños y para distintos propocitos.</td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Falta de credibilidad por ser una startup nueva y no ser tan reconocida en el medio.</td><td colspan="1" valign="top">Falta de comunicación con los clientes. Sus únicos medios de comunicación son las redes sociales y whatsapp, por lo que se puede tardar a la hora de responder algún mensaje.</td><td colspan="1" valign="top">Al tener un catálogo muy amplio de cursos y temas que ofrecen, no pueden enfocarse en un tema en específico por lo que algunas ocasiones no resolverán la duda al cliente.</td><td colspan="1" valign="top">Algunas personas no podrán conocer qué tipos de nutrientes necesitan para sus plantas o que tipos de huertas se acomodan más a su lugar de plantación.</td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Falta de información por especialistas en el tema.. Falta de plataformas que ofrezcan servicios de hidroponía a nivel nacional.</td><td colspan="1" valign="top">Falta de lugares o webs donde una persona pueda encontrar todo lo relacionado a la hidroponía, soluciones, semillas, huertos, etc.</td><td colspan="1" valign="top">Falta de lugares donde dicten cursos de una gran variedad de temas. Los eventos presenciales muchas veces no son tan completos como sí lo es el de Intagri.</td><td colspan="1" valign="top">Al tener una gran variedad de productos podrán satisfacer las necesidades de sus clientes.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Las personas en primera instancia no confiarán en nosotros por ser una nueva empresa. Falta de socios los cuales nos puedan ayudar en el tema económico de la startup.</td><td colspan="1" valign="top">Algunas personas no contarán con el presupuesto suficiente para poder comprar las estaciones esenciales donde cultivar las plantas utilizando esta técnica.</td><td colspan="1" valign="top">Algunas personas no podrán acceder a sus cursos presenciales por falta de tiempo o por la locación de estas capacitaciones.</td><td colspan="1" valign="top">Los mismos productos podrán ser encontrados en otros tipos de páginas</td></tr></tbody>  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+Debido a las diversas opciones que tienen los usuarios para poder satisfacer la necesidad del usuario cuando busque un lugar donde encontrar todo lo relacionado a la hidroponía y poder estar en una posición competitiva decidimos realizar los siguientes métodos:
+
+#### Liderazgo en costes:
+ - Tenemos la capacidad de producir y ofrecer nuestro producto de manera gratuita, sin agregar limitaciones a sus funciones principales. De igual manera se ofrecerán a nuestros clientes distintos cursos, los podremos ofrecer de distintos precios según la categoría de estos, para que puedan ser accesible para todo tipo de persona. Nos orientamos principalmente a satisfacer las necesidades de las personas en busca de investigaciones, información y cursos que les ayuden a tener más conocimientos acerca de la hidroponia.
+
+#### Estrategia de diferenciación:
+ - Tenemos en cuenta que, si queremos sobresalir de entre nuestros competidores, debemos establecer funcionalidades que otras aplicaciones no tengan o mejorarlas. Alguna de estas características es sobre el gran catálogo de temas, opiniones e investigaciones acerca de esta técnica de hidroponía. Todo esto vendrá respaldado por especialistas en el tema, es decir que cada punto que el usuario observe estará validado y puede ser usado en alguna investigación o simplemente para poder informarse. Asimismo contaremos con una amplia cantidad de cursos en línea que serán dictadas por los especialistas que confíen en nosotros y nos ayuden a formar una mejor plataforma de información.
+ 
+#### Estrategia de enfoque:
+ - Somos conscientes que el crecimiento de la tecnología y el incremento en el uso de computadoras y smartphones, han generado una gran demanda en los servicios de gestión y guía agrícola. Por ello, tenemos en cuenta que una buena plataforma web sería de gran ayuda para las personas que desde sus propios dispositivos puedan investigar y conocer más acerca de nuestro tema principal.
+
+#### Táctica de expansión:
+
+ - A pesar de que la aplicación funciona de manera gratuita. No planeamos saturar de anuncios por cada operación que se realice con ella. Planeamos expandir su uso a través de buenas calificaciones y anuncios.
+
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestro segmento objetivo, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Adquisición de información general**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es su ocupación?
+4. Actualmente, ¿en qué lugar reside?
+
+**Preguntas Segmento 1: Personas que deseen iniciar en la hidroponía**
+
+1. ¿Por qué deseas empezar una granja en casa?
+2. En tu caso, ¿cómo quisieras que sea tu proyecto de hidroponía doméstica?
+3. ¿Cuáles son los principales inconvenientes que se le presentan para conseguir información acerca de hidroponía y granjas en casa?
+4. ¿Qué beneficios podría obtener al poder reunir la información necesaria de forma más eficiente?
+5. ¿Te sería de utilidad una aplicación en la cual puedas obtener este tipo de servicios, además de contar con comunidades y guías de expertos?
+6. ¿Qué facilidades y características considera que deben estar presente en una aplicación como la descrita?
+
+
+**Segmento 2: Expertos que desean brindar sus conocimientos a los principiantes**
+
+1. ¿Cómo iniciaste con el tema de hidroponía y granjas domésticas? ¿Es complicado?
+2. ¿Cómo llevas a cabo tu proyecto actual?
+3. ¿Cuáles son los principales inconvenientes que se le presentan al mantener una proyecto de hidroponía doméstica?
+4. ¿Es de tu interés brindar apoyo hacia las personas principiantes en hidroponía?
+5. ¿Te sería de utilidad una aplicación en la cual puedas conectarte con los principiantes, además de contar con comunidades?
+6. ¿Qué facilidades y características considera que deben estar presente en una aplicación como la descrita?
+
+
+### 2.2.2. Registro de entrevistas
+
+<span class="size" style="font-size:20px">**Segmento 01: Personas que deseen iniciar en la hidroponía**</span>
+
+**Entrevista 01**
+
+Entrevistado 1: 
+
+Nombre y apellidos: Jorge Gonzales
+
+Edad: 21 años
+
+Ubicación: Distrito de Santiago de Surco, Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/HfDYnLv.jpg?width=1595&amp;height=897" alt="Canvas" width="90%">
+
+Inicio: 00:04   
+
+Fin: 05:04
+
+
+**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+**Resumen de la entrevista:**
+Nuestro entrevistado fue Jorge Gonzales, estudiante de Ingeniería de Software y principiante en el tema de hidroponía casera. Nos comentó que desea iniciar su propio proyecto para poder despejarse de la rutina de sus estudios, además de poder ser una forma de aumentar su concentración y mejorar sus capacidades. Desea poder aprender de una forma rápida y didáctica, debido a que no dispone con mucho tiempo por sus estudios. Uno de los inconvenientes que se le presentan es la información extensa y 
+difícil de entender para principiantes, por lo que le sería de mucha utilidad una aplicación en la que pueda aprender de manera activa y continua, además de compartir publicaciones y experiencias mediante comunidades.
+
+
+**Entrevista 02**
+
+Nombre y apellidos: Sebastián Jesús Ramírez Zapata
+
+Edad: 22 años
+
+Ubicación: Ancón, Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/QxEwEFb.jpg?width=1595&amp;height=897" alt="Canvas" width="90%">
+
+Inicio: 05:08     
+
+Fin: 10:48
+
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+**Resumen de la entrevista:**
+En la entrevista, Sebastián Jesús Ramírez Zapata, un ingeniero de software de 22 años, expresa su interés en iniciar una granja de hidroponía en su hogar. La motivación surgió tras ver vídeos sobre hidroponía y su viabilidad en espacios pequeños. Él busca cultivar frutas y hierbas en un espacio de aproximadamente 2x1 metros. Sebastián enfrenta dificultades al encontrar información especializada en hidroponía y granjas domésticas. Anhela una aplicación que ofrezca detalles precisos, guías paso a paso, comunidades de usuarios y adaptabilidad a las condiciones locales. Destaca la importancia de comprender las diferencias climáticas y la humedad en el cultivo. En resumen, Sebastián busca una solución integral que lo ayude a implementar su proyecto de granja hidropónica en casa, proporcionando información precisa y herramientas personalizadas.
+
+**Entrevista 03**
+
+Nombre y apellidos: Freddy Arellano
+
+Edad: 38 años
+
+Ubicación: Breña, Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/r5z86D3.jpg?width=1105&amp;height=552" alt="Canvas" width="90%">
+
+Inicio: 10:50                    
+
+Fin: 12:54
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+Resumen de la entrevista:
+
+En la entrevista el señor Freddy nos comenta que quiere iniciar en la hidroponía ya que desde siempre le han interesado las plantaciones y la agricultura en general. Nos comenta que muchas veces la falta de información que hay por las redes sociales o en páginas web es un gran inconveniente para él y para otras personas más que comparten sus mismos gustos por la hidroponia.
+
+**Entrevista 04**
+
+Nombre y apellidos: Oliver Jesús Tuesta Yoplac
+
+Edad: 19 años
+
+Ubicación: Chorrillos, Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/zui3Xgd.jpg?width=1547&amp;height=690" alt="Canvas" width="90%">
+
+Inicio: 12:55                   
+
+Fin: 16:28
+
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+**Resumen de la entrevista:**
+
+En la entrevista Oliver nos cuenta que está interesado en la hidroponía porque le importa la calidad de los alimentos, y que con una granja en casa tendría más control sobre esta, además de reducir la “huella ecológica”. Al ser un estudiante universitario, no cuenta con mucho tiempo libre, por lo que menciona que le gustaría que su granja fuera eficiente y de bajo mantenimiento. Durante su búsqueda de información, se encontró con mucha ambigüedad y falta de guías, y consejos para principiantes en esta actividad. Oliver menciona que una aplicación que facilite su búsqueda de información. y que además cuente con comunidades y expertos, le sería definitivamente útil. Otras características que le gustaría es un foro activo donde se pueda realizar preguntas y ser atendido por la comunidad y/o expertos, también le gustaría que el contenido de la aplicación fuera moderado o validado por los expertos.
+
+
+<span class="size" style="font-size:20px">**Segmento 02: Expertos que desean brindar sus conocimientos a los principiantes**</span>
+
+**Entrevista 01**
+
+Nombre y apellidos: Paolo Espejo
+
+Edad: 20 años
+
+Ubicación: Huancayo, Junín
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/9dVMKDN.png?width=1105&amp;height=521" alt="Canvas" width="90%">
+
+Inicio: 16:32     
+
+Fin: 21:18
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+**Resumen de la entrevista:**
+
+Nuestro entrevistado fue Paolo Espejo, quien se dedica a la cosecha y venta de plantas. Empezó en el trabajo del sector agrícola gracias a un familiar, pero que al inicio es muy complicado ya que existe un desconocimiento general por parte de los principiantes. Por lo tanto, mencionó que está interesado en brindar sus conocimientos a los principiantes para que no cometan los mismos errores, además de que puedan ir desarrollándose en el tema hasta llegar a ser expertos. Considera que es necesaria una aplicación en la que pueda tener comunicación con estas personas, y en la que pueda publicar las enseñanzas necesarias para iniciar con sus proyectos.
+
+**Entrevista 02**
+
+Nombre y apellidos: Karina Campos
+
+Edad: 35  años
+
+Ubicación: Surquillo, Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/NO1C0MS.png?width=1875&amp;height=896" alt="Canvas" width="90%">
+
+Inicio: 21:22
+
+Fin: 23:12
+
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+**Resumen de la entrevista:**
+
+La entrevistada Karina Campos nos comenta que inició en el mundo de la hidroponía ya que desde siempre le gustaron las actividades de cosecha y cultivar plantas.Esto hizo que  al enterarse que había una técnica de plantación que funcionaba en base al crecimiento en huertas y mediante sustancias como minerales y soluciones las plantas podrían crecer en un espacio como su casa. Además nos comenta que está dispuesta a poder enseñar a los que quieren iniciar en la plantación mediante la hidroponía, además nos cuenta qué le parecería bien que exista una plataforma donde ella pueda dar a conocer sus conocimientos y experiencias sobre distintos cuidados que debe de tener esta técnica.
+
+**Entrevista 03**
+
+Nombre y apellidos: Leonel Alessandro Ortega Espinoza
+
+Edad: 19 años
+
+Ubicación: Sayán
+
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/xuSvuQ4.png?width=1562&amp;height=550" alt="Canvas" width="90%">
+
+Inicio: 23:14
+
+Fin: 27:17
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+Resumen de la entrevista:
+
+Leonel nos cuenta que su familia tiene un negocio familiar relacionado a la hidroponía y que ya ha trabajado en proyectos propios y del trabajo. Nos comenta que estaría dispuesto a ayudar en informar a los principiantes en este negocio, pues cuando era principiante no encontraba mucha información externa sobre la hidroponía. Finalmente menciona que le gustaría la idea de la aplicación.
+
+### 2.2.3. Análisis de entrevistas
+
+**Segmento 1:  Personas que deseen iniciar en la hidroponía**
+
+ - **Interés en la hidroponía casera:** Todos los entrevistados muestran un interés en la hidroponía casera como un proyecto que les permitiría despejarse de la rutina y mejorar sus habilidades.
+ - **Limitación de tiempo:** En todas las entrevistas, se menciona la limitación de tiempo debido a las responsabilidades de los estudios o el trabajo. Esto sugiere que las soluciones propuestas deben ser eficientes y de aprendizaje rápido.
+ - **Dificultad en encontrar información:** Todos los entrevistados enfrentan dificultades al encontrar información específica y de calidad sobre la hidroponía casera, lo que sugiere una brecha en el acceso a recursos educativos.
+ - **Necesidad de información práctica y didáctica:** Tanto Jorge como Sebastián e incluso Oliver, expresan la necesidad de información que sea fácil de entender y aplicar en la práctica, lo que indica una preferencia por soluciones didácticas y aplicables.
+ - **Comunidad y compartir experiencias:** Todos los entrevistados valoran la posibilidad de conectarse con comunidades de personas interesadas en la hidroponía casera para compartir experiencias y obtener apoyo.
+ - **Personalización y adaptabilidad:** Sebastián menciona la importancia de que la información y las herramientas sean adaptables a las condiciones locales, incluyendo factores climáticos y de humedad.
+ - **Aplicación o plataforma educativa:** En todas las entrevistas, se sugiere la idea de una aplicación o plataforma en línea que brinde información, guías paso a paso y facilite la conexión con comunidades.
+
+
+**Segmento 2: Expertos que desean brindar sus conocimientos a los principiantes**
+
+Las entrevistas presentan similitudes en términos de la temática central y los puntos clave que los entrevistados discuten:
+
+ - **Temática Central:** Agricultura y Cultivo de Plantas: Todas las entrevistas giran en torno al tema de la agricultura y el cultivo de plantas, enfocándose en aspectos específicos como la cosecha, el cultivo de plantas y el deseo de compartir conocimientos.
+ - **Influencia Familiar y Pasión por la Agricultura:** En las tres entrevistas, los entrevistados mencionan haber sido influenciados por sus intereses y relaciones familiares para involucrarse en la agricultura y el cultivo de plantas. Paolo Espejo menciona que comenzó en el trabajo agrícola gracias a un familiar, mientras que Karina Campos señala que siempre le gustaron las actividades de cosecha y cultivo.
+ - **Deseo de Compartir Conocimientos:** Tanto Paolo Espejo, Karina Campos y Leonel Ortega expresan un interés en compartir sus conocimientos con aquellos que deseen iniciar en la agricultura o en una técnica específica, como la hidroponía. Los tres entrevistados desean ayudar a los principiantes a evitar cometer los mismos errores y a desarrollarse en el campo.
+ - **Necesidad de una Plataforma de Comunicación y Enseñanza:** Los entrevistados mencionan la idea de una plataforma en la que puedan comunicarse y compartir sus conocimientos con otros. Paolo Espejo menciona la necesidad de una aplicación para brindar enseñanzas a los principiantes, mientras que Karina Campos sugiere la idea de una plataforma para dar a conocer sus experiencias y cuidados específicos en hidroponía.
+ - **Enfoque en la Educación y el Desarrollo de Principiantes:** Todos ellos reconocen la dificultad y el desconocimiento que enfrentan los principiantes en el campo de la agricultura. Ambos entrevistados están motivados por ayudar a los principiantes a aprender y desarrollarse, brindándoles la orientación y la información necesaria.
+ - **Interés en Contribuir a la Expertise:** Todos los entrevistados ven la oportunidad de contribuir a la formación de nuevos expertos en el campo agrícola. Paolo Espejo quiere que los principiantes evolucionen hasta convertirse en expertos, y Karina Campos quiere enseñar sobre la hidroponía y otros cuidados específicos.
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+Los User Personas son fundamentales para el éxito del proyecto GreenGrow, ya que brindan una comprensión profunda y concreta de las necesidades, deseos, frustraciones y comportamientos de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia de aprendizaje altamente enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: desde brindar recursos claros y accesibles a principiantes, hasta ofrecer herramientas para que los expertos compartan su conocimiento
+
+**User Persona del segmento: Personas que deseen iniciar en la hidroponía**
+<img src="https://i.imgur.com/PSlIthL.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+
+**User Persona del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<img src="https://i.imgur.com/Q9gcD49.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+### 2.3.2. User Task Matrix
+En esta User Task Matrix, se describen las tareas típicas que realizan los dos segmentos de usuarios: personas que deseen iniciar en la hidroponía y expertos que desean brindar sus conocimientos. Se evalúa la frecuencia y la severidad de cada tarea, lo que ayuda a priorizar y entender cuáles son las áreas clave en las que el producto GreenGrow podría intervenir para satisfacer las necesidades y los objetivos de ambos segmentos.
+
+**Segmento Objetivo:** Personas que deseen iniciar en la hidroponía
+
+
+| Tarea | Frecuencia | Severidad |
+|:----------:|:----------:|:----------:|
+| Investigar sobre la hidroponía| Casi siempre | Baja |
+|Buscar recursos en línea| Casi siempre | Media|
+| Consultar con amigos y expertos| A veces | Baja |
+| Seleccionar el tipo de cultivo | A veces   | Media |
+| Adquirir suministros y equipos| A veces  | Alta |
+| Montar el sistema hidropónico | A veces  | Media |
+| Cultivar y mantener las plantas| Casi siempre| Alta |
+| Solucionar problemas (plagas, nutrientes)| A veces | Media |
+| Participar en una comunidad de aprendizaje|A veces|Baja|
+| Experimentar con nuevas técnicas| Rara Vez | Baja |
+|Evaluar el éxito del cultivo |Casi siempre | Media |
+
+
+**Segmento Objetivo:** Expertos que desean brindar sus conocimientos a los principiantes
+
+| Tarea | Frecuencia | Severidad |
+|:----------:|:----------:|:----------:|
+|Compartir consejos en foros y redes sociales |Casi siempre | Baja |
+|Presentar en eventos de agricultura | A veces  | Media|
+| Responder consultas personales|  A veces | Alta |
+| Buscar plataformas para cursos en línea| A veces| Media |
+|Crear contenido educativo (artículos, videos)| A veces | Alta |
+| Diseñar y estructurar cursos|Rara vez|Alta|
+| Ofrecer cursos en línea |Rara vez|Alta|
+| Mantener y actualizar contenido	 |Rara vez|Media|
+| Colaborar con otros expertos |Rara vez|Baja|
+| Evaluar la eficacia de la enseñanza |Rara vez|Baja|
+
+### 2.3.3. User Journey Mapping
+
+**User Journey Mapping del segmento: Personas que deseen iniciar en la hidroponía**
+<img src="https://i.imgur.com/iFcacsq.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+
+**User Journey Mapping del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<img src="https://i.imgur.com/uF8o7iK.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+### 2.3.4. Empathy Mapping
+
+Los Mapas de Empatía son esenciales para el proyecto GreenGrow, ya que permiten una comprensión profunda y holística de las experiencias, pensamientos y emociones de los usuarios clave. Estos mapas ofrecen una visión integral de cómo los usuarios piensan, sienten, ven, escuchan, dicen y hacen en relación con la hidroponía y la agricultura en interiores. Al proporcionar una representación visual y detallada de sus perspectivas y necesidades, los Mapas de Empatía guían el desarrollo de la plataforma al asegurar que se aborden los problemas reales y se cumplan las expectativas de los usuarios.
+
+
+**Empathy Map del segmento: Personas que deseen iniciar en la hidroponía**
+<img src="https://i.imgur.com/eBSLWNG.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+
+**Empathy Map del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<img src="https://i.imgur.com/S0EtpMe.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+### 2.3.5. As-is Scenario Mapping
+Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan una visión detallada de los pasos, pensamientos y emociones de los usuarios antes de conocer el producto. Estos escenarios permiten comprender sus necesidades y desafíos actuales, lo que ayuda al equipo a diseñar una experiencia más efectiva y enfocada en resolver problemas reales. Al analizar los AS-IS, el producto puede ser desarrollado de manera que satisfaga las expectativas y proporcione soluciones alineadas con las experiencias actuales de los usuarios, resultando en un producto más exitoso y relevante.
+
+**As-is Scenario Map del segmento: Personas que deseen iniciar en la hidroponía**
+<img src="https://i.imgur.com/OIsMvCL.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+
+**As-is Scenario Map del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
+
+<img src="https://i.imgur.com/9sZtJDe.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
