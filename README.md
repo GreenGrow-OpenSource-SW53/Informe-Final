@@ -28,7 +28,10 @@ Sección SW53
 | Cáceres Bueno, Arnol Omar | u20201b338 |
 | Yance Gutierrez, Franco Felix | u202013614 |
 
-### <center>Ciclo 2023-02</center>
+Link al video de exposición:
+
+Agosto del 2023
+
 <br><br>
 
 # Registro de Versiones del Informe
