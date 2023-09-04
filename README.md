@@ -207,7 +207,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt="Pozo Rodrigo" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148303043629162647/054020181E187.jpg" alt="Pozo Rodrigo" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -231,7 +231,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt="Arenas José"  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148370399395074108/Diseno_sin_titulo.png" alt="Arenas José"  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -255,7 +255,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt="Cáceres Arnol"  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148239074021351464/intranet_2020.jpg" alt="Cáceres Arnol"  style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
