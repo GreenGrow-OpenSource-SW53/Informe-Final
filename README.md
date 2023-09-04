@@ -11,7 +11,13 @@ Ciclo 2023-02
 # <center>Desarrollo de Aplicaciones Open Source</center>
 ## TB1 REPORT
 
-## StartUp Name: GreenGrow
+Sección SW53
+
+**Profesor**: Elio Jefferrson Navarrete Vilca
+
+**StartUp Name:** GrowGenius
+**Producto:** GreenGrow
+
 ### Team Members:
 | Member | Code |
 |:----|:----:|
