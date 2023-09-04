@@ -748,3 +748,55 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
 **As-is Scenario Map del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
 
 <img src="https://i.imgur.com/9sZtJDe.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+# Capítulo III: Requeriments Specifications
+## 3.1 To-Be Scenario Mapping
+<div align=center>
+    <img src="https://i.imgur.com/qWXZ05y.jpg" alt="To-Be scenario mapp Usuarios">
+    <br>
+    <br>
+    <br>
+    <img src="https://i.imgur.com/UldAXJx.jpg" alt="To-Be scenario mapp Expertos">
+</div>
+
+## 3.2 User Stories
+| Epic ID  | Titulo de Épica | Descripción de la épica | 
+|:---|:-----|:-----|
+|EP001|Definición de funcionalidades de la aplicación web|Como usuario deseo que la página ofrezca información acerca de distintos temas sobre la agricultura, principalmente la hidroponía. Como ayuda para mis plantaciones mediante esta técnica.|
+|EP002|Opciones relacionadas a la cuenta del usuario|Como usuario deseo poder crear una cuenta en la página así como editarla y agregar información relevante.|
+|EP003|Opciones relacionadas a la cuenta del experto.|Como experto deseo poder crearme una cuenta asi como poder publicar artículos y cursos de temas de donde me especializo, además de poder potenciar mi cuenta una suscripción..|
+|EP004|Definición de estructura del landing page |Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación web |
+<br><br>
+
+| Epic / Story ID | Título | Descripción |Criterios de Aceptación |Relacionado con (Epic ID)|
+|:---------|:---------|:--------|:--------|:------|
+|**US01**|Registro de personas|Como usuario deseo registrarme en la página para observar todo lo que me ofrece la aplicación.|**Escenario 1: Crear una cuenta** <br>**Dado** que el usuario se encuentra en sección de inicio **Cuando** el usuario no se encuentra registrado en la página **Entonces** al seleccionar “Crear Cuenta” el sistema le redireccionará al registro.<br> **Escenario 2: Rellenado de datos correctamente.**<br> **Dado** que el usuario se encuentra en la sección de registro **Cuando** al rellenar todos los datos correctamente y se verifique que todo está correcto.**Entonces** el sistema registra sus datos ingresados a la base de datos.<br> **Escenario 3: Rellenado de datos incorrectamente.**<br> **Dado** que el usuario se encuentra en la sección de registro **Cuando** él ingresa los datos incorrectamente o no están completos, **Entonces** el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato·.|EP002|
+|**US02**|Registro de expertos|Como experto deseo registrarme en la página para poder escribir artículos acerca de mi área de especialidad y tener mejor control de las publicaciones que haga.|**Escenario 1: crear una cuenta.<br>** **Dado** que el experto se encuentra en sección de inicio **Cuando** el experto no se encuentra registrado en la página **Entonces** al seleccionar “Crear Cuenta” el sistema le redireccionará al registro.<br> **Escenario 2: Rellenado de datos correctamente.<br>** **Dado** que el experto se encuentra en la sección de registro **Cuando** al rellenar todos los datos correctamente y se verifique que todo está correcto. **Entonces** el sistema registra sus datos ingresados a la base de datos.<br> **Escenario 3: Rellenado de datos incorrectamente.<br>** **Dado** que el experto se encuentra en la sección de registro **Cuando** él ingrese los datos incorrectamente o no están completos, **Entonces** el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato·.|EP003|
+|**US03**|Pago de suscripción de cuenta|Como usuario deseo poder pagar los cursos que la página ofrezca desde la aplicación para que no se me dificulte en otras formas.|**Escenario 1: Ver cursos disponibles<br>** **Dado** que el usuario se encuentra en la pestaña de cursos **Cuando** el usuario selecciona uno de los cursos a comprar **Entonces** la aplicación le mostrará el saldo final y los métodos de pago con los que podrá comprarlo.<br> **Escenario 2: Escoger métodos de pago<br>** **Dado** que el usuario escogió su curso **Y** el usuario se encuentra en la pantalla de pago **Cuando** el usuario ingrese los datos solicitados por la página **Entonces** la página le mostrará un mensaje diciendo “Pago de curso realizado”.|EP001|
+|**US04**|Observar las distintas informaciones de especialistas con mejores calificaciones |Como usuario deseo poder saber cuales son los artículos actuales con una mejor puntuación y de igual manera con los cursos que ofrecen.|**Escenario 1: Visualización general de artículos y cursos<br>** **Dado** que el usuario selecciona “explorar artículos” **Cuando** el usuario filtre los artículos de información por los más votados o con mejores calificaciones **Entonces** se le mostrará cuáles son los artículos de información con mejores calificación por parte de otros usuarios.|EP001|
+|**US05**|Visualización de recomendaciones de cursos por parte de los usuarios |Como usuario quiero visualizar la opinión de otros usuarios hacia los distintos cursos para conocer mejor cuales son los cursos que más valen la pena.|**Escenario 1: Cuándo hay cursos con calificaciones de otros usuarios<br>** **Dado** que el usuario está en la sección “Explorar cursos” **Cuando** selecciona algún curso en particular **Entonces** el sistema mostrará todos los comentarios del curso seleccionado, así sean positivos o negativos.<br> **Escenario 2: Cuándo hay cursos sin ningún comentario o calificación<br>** **Dado** que el usuario está en la sección “Explorar cursos” **Cuando** selecciona algún curso en particular y este no tiene ningún comentario. **Entonces** lel sistema indicará que por el momento no existe ninguna calificación o comentario en el curso.|EP001|
+|**US06**|Ver comentarios de usuarios |Como experto quiero ver las reseñas de mis cursos para ver el recibimiento de los usuarios.|**Escenario 1: Cuándo hay cursos puntuados por los usuarios<br>** **Dado** que el experto está en la sección “Mis cursos” **Cuando** selecciona algún curso en particular **Entonces** el sistema mostrará todos los comentarios que los usuarios han realizado a su curso.  <br> **Escenario 2: Cuándo hay cursos sin ningún comentario o calificación<br>** **Dado** que el experto está en la sección “Mis cursos” **Cuando** selecciona algún curso en particular y este no tiene ningún comentario. **Entonces** el sistema indicará que por el momento no existe ninguna calificación o comentario en el curso.|EP003|
+|**US07**|Registros de los cursos |Como experto quiero crear mis propios cursos con herramientas que me proporciona la página o con mis propias herramientas.|**Escenario 1: Registro de cursos de manera correctamente<br>** **Dado** que el experto se encuentre en el sector de “Crear curso”  **Cuando** se selecciona ingresar videos e ingresa todos los datos requeridos **Entonces** el sistema muestra un mensaje indicando que el curso se ha registrado satisfactoriamente.  <br> **Escenario 2: Registro de cursos de manera incorrectamente<br>** **Dado** que el experto se encuentre en el sector de “Crear curso”  **Cuando** se selecciona ingresar videos y no ingresa todos los datos requeridos  **Entonces** el sistema muestra un mensaje indicando que el curso no se registró correctamente.|EP003|
+|**US08**|Visualización del Landing pages |Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.|**Escenario 1: El usuario visualiza la sección landing page.<br>** **Dado** que el invitado del sector de usuario se encuentra en el landing page **Cuando** ingrese a nuestra landing page **Entonces** verá toda la información que ofrece nuestro producto.|EP004|
+|**US09**|Visualización de los servicios que ofrecen en el landing page |Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.|**Escenario 1: El invitado visualiza la sección de servicios<br>** **Dado** que el invitado se encuentra en el landing page  **Cuando** llega hasta la sección de servicios **Entonces** podrá informarse acerca de todos los servicios que ofrecerá nuestra página|EP004|
+|**US10**|Visualización de los testimonios de personas sobre la landing page |Como invitado deseo visualizar los testimonios de distintas personas acerca de la landing page para ver si es lo que busco o no.|**Escenario 1: El invitado visualiza la sección Testimonios.<br>** **Dado** que el invitado se encuentra en el landing page   **Cuando** llega hasta la sección de Testimonios **Entonces** podrá informarse acerca de todos los testimonios de personas acerca de nuestra página|EP004|
+<br><br>
+
+## 3.3 Impact Mapping
+<div align=center>
+    <img src="https://i.imgur.com/zjIdX1s.jpg" alt="Impact Mapping">
+</div>
+
+## 3.4 Product Backlog
+| # Orden | User Story Id | Título |Descripción |Story Points (1 / 2 / 3 / 5 / 8)|
+|:---------|:---------|:--------|:--------|:------|
+|1|UH01|Registro de personas|Como usuario deseo registrarme en la página para observar todo lo que me ofrece la aplicación.|3|
+|2|UH02|Registro de expertos|Como experto deseo registrarme en la página para poder escribir artículos acerca de mi área de especialidad y tener mejor control de las publicaciones que haga.|3|
+|3|UH03|Pago de suscripción de cuenta|Como usuario deseo poder pagar los cursos que la página ofrezca desde la aplicación para que no se me dificulte en otras formas.|3|
+|4|UH04|Observar las distintas informaciones de especialistas con mejores calificaciones |Como usuario deseo poder saber cuales son los artículos actuales con una mejor puntuación y de igual manera con los cursos que ofrecen.|5|
+|5|UH05|Visualización de recomendaciones de cursos por parte de los usuarios |Como usuario quiero visualizar la opinión de otros usuarios hacia los distintos cursos para conocer mejor cuales son los cursos que más valen la pena.|5|
+|6|UH06|Ver comentarios de usuarios |Como experto quiero ver las reseñas de mis cursos para ver el recibimiento de los usuarios.|5|
+|7|UH07|Registros de los cursos |Como experto quiero crear mis propios cursos con herramientas que me proporciona la página o con mis propias herramientas.|3|
+|8|UH08|Visualización del Landing pages |Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.|3|
+|9|UH09|Visualización de los servicios que ofrecen en el landing page |Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.|2|
+|10|UH10|Visualización de los testimonios de personas sobre la landing page |Como invitado deseo visualizar los testimonios de distintas personas acerca de la landing page para ver si es lo que busco o no.|2|
