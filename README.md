@@ -6,7 +6,6 @@ Ingeniería de Software
 
 Ciclo 2023-02
 
-#### Desarrollo de Aplicaciones Open Source - SW53
 <hr>
 
 # <center>Desarrollo de Aplicaciones Open Source</center>
