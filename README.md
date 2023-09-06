@@ -38,7 +38,7 @@ Agosto del 2023
 
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
-| | | 
+| TB1 | 06/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los Capitulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design |
 
 <br><br>
 
