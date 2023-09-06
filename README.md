@@ -169,7 +169,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src=" " alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148833029079433276/WIN_20230905_23_02_52_Pro-fotor-bg-remover-2023090523956-fotor-bg-remover-2023090523127.png" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
