@@ -805,3 +805,259 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
 |8|UH08|Visualización del Landing pages |Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.|3|
 |9|UH09|Visualización de los servicios que ofrecen en el landing page |Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.|2|
 |10|UH10|Visualización de los testimonios de personas sobre la landing page |Como invitado deseo visualizar los testimonios de distintas personas acerca de la landing page para ver si es lo que busco o no.|2|
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines.
+
+### 4.1.1. General Style Guidelines.
+Como startup, buscamos que nuestra aplicación GreenGrow cuente con una interfaz en la que los usuarios noten profesionalismo, sencillez y exactitud. Queremos que los usuarios sepan que podrán desarrollar sus proyectos de manera eficiente. Es por esto que empleamos recursos gráficos para captar la atención de nuestros segmentos objetivos. Visualmente hemos utilizado colores relacionados al sector de la agricultura, además de emplear una tipografía que posee distintos tamaños y sobre todo legible.
+
+**Brand Overview:**
+
+Nuestro producto surge bajo la necesidad de los principiantes para poder iniciar un proyecto doméstico de hidroponía, por lo que brindamos una solución tecnológica e innovadora en la cual podrán encontrar todo el conocimiento que necesiten por parte de expertos en el tema.
+
+**Brand Name:**
+
+El nombre que recibe nuestro servicio es GreenGrow, el cual hace referencia al sector agrícola y el proceso de crecimiento de los cultivos producidos por los usuarios, quienes también crecen junto a todo el desarrollo al ir adquiriendo conocimientos, hasta llegar a convertirse en expertos.
+
+**Colores Empleados**
+![Logo]()
+![Logo]()
+
+**Tipografia**
+![Logo]()
+
+### 4.1.2. Web Style Guidelines
+
+**Landing Page:** Nuestra Landing Page emplea el Patrón Z en su estructura. Este patrón está diseñado para guiar al usuario por la página de manera natural y efectiva. En la parte superior se encontrará la barra de navegación con un tono oscuro, que brinda un aspecto serio y confiable. Esta barra contiene el logo y secciones como "Home", "Servicios", "Quiénes somos", "Testimonios" y "Descargar". Se usaron colores derivados del verde el cual representa el sector agrícola que llevamos en nuestro startup, además de que contrasta con el resto de la página para invitar al usuario a descargar y probar la aplicación.
+En esta sección se explicará el estilo y patrón que hace uso nuestra interfaz tanto del landing page y la aplicación web.
+![Logo]()
+[Logo]()
+
+## 4.2. Information Architecture.
+En esta sección, estableceremos la estructura y forma del software en relación a nuestros segmentos objetivos, así como los elementos y características que se usarán dentro de la navegación de la aplicación.
+### 4.2.1. Organization Systems.
+Para crear la sección del Landing Page y la Aplicación web, se implementará una estructura visual jerárquica en la página web. Esto permitirá asignar la ubicación apropiada a cada elemento necesario en este desarrollo. Para lograrlo, se considerarán factores como etiquetas, especificaciones de pantalla y resolución. Además, se diseñarán íconos utilizando una matriz, lo que optimizará la visualización de los detalles y contribuirá a mantener un proceso ordenado en todo momento.
+
+**Segmento Objetivo: Personas que deseen iniciar en la hidroponía**
+
+- Jerárquica:
+  - Al aplicar los filtros adecuados, los videos, clases, cursos o temas elegidos pueden aparecer con el debido orden, es decir, los artículos con mayor coincidencia aparecerán en primer lugar y así sucesivamente. El usuario tendrá la posibilidad de elegir el resultado de su agrado.
+- Secuencial:
+  - Cuando se requiera la creación de una cuenta para el uso de la aplicación, la información mostrada en pantalla deberá seguir una secuencia, en el que se deben respetar los pasos necesarios para que se pueda lograr con el cometido.
+- Matricial:
+  - En la configuración de la cuenta, los usuarios podrán configurar distintos aspectos de la misma de acuerdo a sus preferencias, mostrando los apartados divididos en secciones. 
+
+
+
+**Segmento Objetivo: Expertos que desean brindar sus conocimientos a los principiantes**
+
+- Jerárquica: 
+  - Cuando se desee publicar algún tipo de información organizado por tema, podrá elegir el orden en el que quiera que se visualice para los principiantes, por lo que se presentará de forma ordenada.
+
+- Secuencial: 
+  - Cuando se requiera la creación de una cuenta para el uso de la aplicación, la información mostrada en pantalla deberá seguir una secuencia, en el que se deben respetar los pasos necesarios para que se pueda lograr con el cometido.
+
+- Matricial: 
+  - En la configuración de la cuenta, los usuarios podrán configurar distintos aspectos de la misma de acuerdo a sus preferencias, mostrando los apartados divididos en secciones.
+    
+### 4.2.2. Labeling Systems.
+A continuación, se mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información mostrada en nuestra Landing Page.
+
+Tenemos los siguientes encabezados:
+
+ - Home: En esta sección se muestra la sección inicial de la Landing Page, en la que se ofrece la bienvenida a los posibles usuarios, junto a una frase que representa al proyecto.
+ - Servicios: En esta sección se describen las características que los usuarios podrán encontrar al hacer uso de nuestra aplicación.
+ - Quiénes somos: En esta sección el cliente puede observar información acerca de nuestro equipo de desarrollo y una descripción breve de nuestro objetivo.
+ - Testimonios: En esta sección se pueden visualizar las opiniones de los usuarios que probaron el servicio, además de la puntuación que brindaron.
+ - Descargar: En esta sección se puede visualizar las opciones de descarga que podrán estar disponibles en un posible futuro al desarrollar una versión para dispositivos móviles.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Estas etiquetas son esenciales para mejorar la visibilidad de la aplicación web en los motores de búsqueda como Google. Las etiquetas SEO incluyen palabras clave relevantes y descripciones concisas para que los motores de búsqueda indexen y clasifiquen el contenido de la aplicación de manera efectiva. Las metaetiquetas proporcionan información adicional sobre la página, como el título y la descripción que se muestran en los resultados de búsqueda.
+
+**Para el Landing Page:**
+
+Tittle: GreenGrow
+Description: GreenGrow - GrowGenius Official Landing Page 
+Keywords: agriculture, crops, hydroponics, domestic
+Authors: GrowGenius team
+
+**Para la aplicación web:**
+
+Tittle: GreenGrow
+Description: GreenGrow - GrowGenius Official Web Page 
+Keywords: agriculture, crops, hydroponics, domestic, 
+Authors: GrowGenius team
+
+
+### 4.2.4. Searching Systems.
+
+Un sistema de búsqueda efectivo es esencial para permitir a los usuarios encontrar información específica dentro de la aplicación web. La búsqueda debe ser rápida, precisa y capaz de manejar consultas complejas. Además, podría considerarse la implementación de filtros y opciones avanzadas de búsqueda para refinar los resultados.
+
+ - Landing Page: Los usuarios podrán hacer uso de la barra de navegación ubicada en la parte superior, para poder ubicarse en los distintos apartados en los que está dividido nuestra página, siendo una forma didáctica para interactuar con esta.
+
+ - Aplicación Web: Por parte de los principiantes, tendrán la opción de realizar búsquedas de información específica para ellos, por medio de aplicar los filtros necesarios. Los resultados serán mostrados de acuerdo a la coincidencia con la búsqueda establecida. Por parte de los arrendadores, podrán buscar a los clientes con quienes contactaron para realizar un alquiler, por medio de filtros como fecha, lugar, etc.
+
+
+
+### 4.2.5. Navigation Systems.
+
+Los sistemas de navegación son cómo los usuarios se desplazan por la aplicación web. Esto incluye menús, barras de navegación y enlaces contextuales. Una navegación clara y coherente es esencial para que los usuarios puedan moverse sin esfuerzo entre las diferentes secciones de la aplicación. La navegación debe ser intuitiva y brindar una experiencia fluida, permitiendo a los usuarios acceder rápidamente a la información que están buscando.
+En nuestro Landing Page, encontramos la sección de la barra de navegación en la parte superior, la cual nos permite navegar directamente a un apartado dentro de la página. Esta barra de navegación será visible en todo momento, para que el usuario pueda dirigirse a otra sección que desee visualizar. De esta manera, generamos una navegación más fluida y dinámica para el usuario.
+En nuestra aplicación web, utilizaremos un proceso similar al descrito, con diversas opciones que variarán de acuerdo al segmento objetivo que esté utilizando el servicio. Estos podrán hacer uso de filtros para poder encontrar de mejor manera la información precisa que necesiten.
+
+
+
+## 4.3. Landing Page UI Design.
+
+### 4.3.1. Landing Page Wireframe.
+
+![m1]()
+![m1]()
+![m1]()
+![m1]()
+![m1]()
+![m1]()
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/sGF7WJc6aMsS1pPWvWMWLp/Landing-Page---Wireframes?type=design&node-id=0%3A1&mode=design&t=mvFXcGkT2cnZlT3Y-1)
+
+### 4.3.2. Landing Page Mock-up.
+![m1]()
+![m1]()
+![m1]()
+![m1]()
+![m1]()
+
+
+**Version Mobile**
+![m1]()
+![m1]()
+![m1]()
+![m1]()
+![m1]()
+
+
+[Enlace a Figma "Ver Diseños"]()
+
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+
+![m001]()
+![m001]()
+![m001]()
+![m001]()
+![m001]()
+
+[Enlace a Figma "Ver Diseños"]()
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+**User goal:**  Ingresar a la pantalla principal de la aplicación 
+
+![y1]()
+
+[Enlace a "Ver Diagrama"]()
+
+### 4.4.3. Web Applications Mock-ups.
+
+![X1]()
+![X1]()
+![X1]()
+![X1]()
+![X1]()
+![X1]()
+
+**Versión mobile:**
+
+![XD1]()
+![XD1]()
+![XD1]()
+![XD1]()
+![XD1]()
+
+[Enlace a Figma "Ver Diseños"]()
+
+### 4.4.4. Web Applications User Flow Diagrams.
+**User Goal:** Ingresar a la pantalla principal de la aplicación
+
+![C1]()
+
+[Enlace a "Ver Diagrama"]()
+
+### 4.5. Web Applications Prototyping.
+
+Enlace del Prototipo:[ver Prototipo](https://www.figma.com/proto/fAJmI8dYTS40y8ZLlrFqat/Web-application---MockUps?page-id=0%3A1&type=design&node-id=3940-1467&viewport=-113%2C47%2C0.1&t=0rp94hmRnpjqDzYx-1&scaling=scale-down&starting-point-node-id=3954%3A3513&mode=design)
+
+Enlace del video: [ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EbP0Jpb7ckJOsUDyXZ7iFysB_P_eDE3tBFgBncHMF5Xi4g?e=ckRoBp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+![X1]()
+
+## 4.6. Domain-Driven Software Architecture.
+### 4.6.1. Software Architecture Context Diagram.
+
+![C1]()
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+![C1]()
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+Community Context
+
+![C1]()
+
+Course Context
+
+![C1]()
+
+Educational Content Context
+
+![C1]()
+
+Login Context
+
+![C1]()
+
+Sign Up Context
+
+![C1]()
+
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+
+![C1]()
+
+Enlace del diagrama: [Ver diagrama](https://lucid.app/lucidchart/11cb49ec-ba2e-4ad8-a9ba-7fc357807121/edit?viewport_loc=839%2C847%2C4387%2C2218%2CigbrYPu~LT7U&invitationId=inv_02a216e5-4ebc-4600-a7ea-afd4cb3cac4e)
+
+### 4.7.2. Class Dictionary.
+
+- En el presente diccionario; se mostrarán la utilidad de las clases diseñadas y presentadas en el apartado anterior, así como las relaciones entre cada una de ellas y como estas optimizan sus procesos:
+  - Person: Esta clase sirve como clase padre para otras 2 clases más. Aquí es donde se indica que tipo de persona está conectada actualmente. Al ser clase padre tendrá atributos que se compartirán con la de sus hijas como el nombre, apellido y demás datos.
+
+  - User: Esta clase es una clase hija, aquí es donde se van a guardar todos los datos que sean referente cuando la persona es un usuario que quiere buscar información en nuestra página, además de saber que comentario fue que escribió el usuario y a que cursos esta inscrito. De aquí las demás clases que requieran de que la persona solo sea el usuario pueda realizar distintas conexiones.
+
+  - Expert: Esta clase es una clase hija y viene a ser la parte para la persona Experto, aquí se almacenará todo lo referente al experto en nuestra página. De aquí tendrá conexiones para las distintas clases que requieran del experto como los cursos, los artículos que escriba, etc.
+
+  - Account: Esta clase representa la cuenta de la persona registrada. Aquí habrá distintas funciones como el login o el register. Además de que en esta clase se podrán guardar el correo y contraseña de la persona, además de haber funciones para recuperar la contraseña o cambiar el email. 
+
+  - Suscription: Esta clase maneja todo el tema de la suscripción del usuario. Aquí se guardaran atributos como a qué cuenta va a ir dirigida esta suscripción y validar a qué tipo de persona le pertenece la cuenta para que solo se aplique para usuarios. Además de tener métodos para saber el tipo de pago y el estado de la suscripción.
+
+  - Course: Esta clase tendrá como función principal obtener como atributo el nombre del curso y su descripción, así como toda la información que tendrá el curso tanto videos como otro tipo de información. 
+
+  - ExpertCourse: Esta clase es una que está ligada tanto a la clase expertos como la clase cursos, aquí se tendrá registro del experto que creó el curso asi como la información de todo el curso en mención. Además podremos saber por cual usuario fue comprado y el rating que este curso tuvo por parte de los distintos usuarios.
+
+  - Articles: Esta clase trata sobre los artículos de infomracion que escriben los expertos. Aquí se podrá encontrar por cual experto fue creado y la fecha en que fue publicada. 
+
+  - Comments: Esta clase trata sobre los comentarios que el usuario pueda hacer a las distintas publicaciones que haga el experto. Aquí podremos saber el contenido del comentario y a que articulo va dirigido.
+
+  - Community: Esta clase trata sobre las distintas comunidades que los usuarios podrán crear dentro de nuestra página, aquí tendremos una lista de todos los usuarios que estén inscritos en una comunidad así como funciones en donde podremos crear la comunidad en sí y que los usuarios puedan tener una comunicación entre ellos.
+
+  - SuscriptionPrice: Esta clase trata sobre el precio de la suscripción y la frecuencia de este. Esta tabla está relacionada con la tabla enumeration de Frequency la cual al ser un enumeration tendrá como variables el tipo de frecuencia de la suscripción Monthly si es una suscripción mensual y Annual si es una suscripción anual.
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
+
+![C1]()
+
+Enlace del database diagram: [Ver diagrama](https://i.imgur.com/iz2EHlW.png)
+
