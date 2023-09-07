@@ -176,8 +176,6 @@ Agosto del 2023
 
 ### [Conclusiones](#conclusiones)
 
-- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-
 ### [Bibliografía](#bibliografía)
 
 ### [Anexos](#anexos)
