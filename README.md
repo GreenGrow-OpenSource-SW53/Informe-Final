@@ -1175,13 +1175,13 @@ A continuación, se darán a conocer las convenciones, formatos, estilos y entre
 
 - **Gherkin:** Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos más importantes para nuestro trabajo:
 
-      - **Los bloques “Give-When-Then” deben ser diferenciados:** Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
+  - **Los bloques “Give-When-Then” deben ser diferenciados:** Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
 
-      - **Usar tablas para los pasos:** Si uno de los pasos requiere de más información es recomendable usar tablas para organizar dicha información y tenga un aspecto más ordenado.
+  - **Usar tablas para los pasos:** Si uno de los pasos requiere de más información es recomendable usar tablas para organizar dicha información y tenga un aspecto más ordenado.
 
-      - **Usar comillas simples para los parámetros:** Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
+  - **Usar comillas simples para los parámetros:** Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
 
-      - **Separar los escenarios con comentarios:** Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
+  - **Separar los escenarios con comentarios:** Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
 
   ![Gitflow evidence](https://i.imgur.com/xLKLS21.png)
 
