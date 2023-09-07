@@ -1,6 +1,8 @@
-![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+<p style = 'text-align:center;'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
+</p>
 
-Universidad Peruana de Ciencias Aplicadas
+# Universidad Peruana de Ciencias Aplicadas
 
 Ingeniería de Software
 
@@ -12,7 +14,7 @@ Ciclo 2023-02
 
 ## TB1 REPORT
 
-Sección SW53
+**Sección:** SW53
 
 **Profesor**: Elio Jefferrson Navarrete Vilca
 
@@ -30,6 +32,8 @@ Sección SW53
 | Cáceres Bueno, Arnol Omar         | u20201b338 |
 | Yance Gutierrez, Franco Felix     | u202013614 |
 
+<br>
+
 Link al video de exposición:
 
 Agosto del 2023
@@ -45,6 +49,18 @@ Agosto del 2023
 <br><br>
 
 # Project Report Collaboration Insights
+
+- TB1: Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GreenGrow-OpenSource-SW53/Informe-Final)
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes capítulos:
+
+    - Capítulo I: Introducción
+    - Capítulo II: Requirements Elicitation & Analysis
+    - Capítulo III: Requirements Specification
+    - Capítulo IV: Product Design
+    - Capítulo V: Product Implementation, Validation & Deployment
 
 <br><br>
 
@@ -185,7 +201,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148833029079433276/WIN_20230905_23_02_52_Pro-fotor-bg-remover-2023090523956-fotor-bg-remover-2023090523127.png" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148833029079433276/WIN_20230905_23_02_52_Pro-fotor-bg-remover-2023090523956-fotor-bg-remover-2023090523127.png" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -209,7 +225,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148059889537662976/pic_1.jpg" alt="Checa Paolo" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148059889537662976/pic_1.jpg" alt="Checa Paolo" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -233,7 +249,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148303043629162647/054020181E187.jpg" alt="Pozo Rodrigo" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148303043629162647/054020181E187.jpg" alt="Pozo Rodrigo" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -257,7 +273,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148370399395074108/Diseno_sin_titulo.png" alt="Arenas José"  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148370399395074108/Diseno_sin_titulo.png" alt="Arenas José"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -281,7 +297,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148239074021351464/intranet_2020.jpg" alt="Cáceres Arnol"  style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148239074021351464/intranet_2020.jpg" alt="Cáceres Arnol"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -423,31 +439,49 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 
 <br>
 Luego de realizar una investigación en el mercado peruano, hemos encontrado tres proyectos similares a GreenGrow. Por ello, los concideramos como potenciales competidores. Estos son:
+<br><br>
+
+
+- **Hidroponika:**
 <br>
 
-**Hidroponika:**
-Es un Web browser que cuenta con una gama completa de productos y servicios de calidad relacionados con la hidrocultura. Además, posee soluciones nutritivas para todo tipo de plantas, desde tu propio huerto.
-
-<br>
-<img src="https://i.imgur.com/sPqvU40.pngwidth=600&amp;height=600" style="max-width: 460px; width: 25%;">
+  Es un Web browser que cuenta con una gama completa de productos y servicios de calidad relacionados con la hidrocultura. Además, posee soluciones nutritivas para todo tipo de plantas, desde tu propio huerto.
 <br>
 
-**Intagri:**
-Es un portal que ofrece distintos tipos de información acerca de los distintos tipos de cultivos. Además, ofrece también distintas conferencias y cursos dictados por expertos acerca de la agricultura.
-<br>
-<img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" style="max-width: 600px; width: 40%;">
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/sPqvU40.pngwidth=600&amp;height=600" style="max-width: 460px; width: 25%;">
+</p>
+<br><br>
+
+
+- **Intagri:**
 <br>
 
-**Mundo Hidroponia:**
-Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
+  Es un portal que ofrece distintos tipos de información acerca de los distintos tipos de cultivos. Además, ofrece también distintas conferencias y cursos dictados por expertos acerca de la agricultura.
 <br>
-<img src="https://i.imgur.com/pY6oo3B.jpg?width=1447&amp;height=814" style="max-width: 600px; width: 60%;">
+
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" style="max-width: 600px; width: 40%;">
+</p>
+<br><br>
+
+
+- **Mundo Hidroponia:**
 <br>
+
+  Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/pY6oo3B.jpg?width=1447&amp;height=814" style="max-width: 600px; width: 60%;">
+</p>
+<br><br>
+
 
 ### 2.1.1. Análisis competitivo
 
 <table>
-<tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">GreenGrow<br><img src="https://i.imgur.com/jwNgfz4.jpg?width=2002&amp;height=1345" alt="GreenGrow" width="70px"></td><td colspan="1" valign="top" style="font-weight: bold;">Hidroponika<br><img src="https://i.imgur.com/sPqvU40.png?width=600&amp;height=600" alt="Hidroponika" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Intagri<br><img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" alt="Intagri" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Mundo Hidroponia<br><img src="https://i.imgur.com/pY6oo3B.jpg?width=1447&amp;height=814" alt="Mundo Hidropnia" width="60px"></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top">Aplicación web donde los clientes podrán informarse acerca de la hidroponía, mantenerse informado cada dia sobre diversos temas de la hidroponía y poder realizar cursos interactivos donde aprenda distintas técnicas o materiales a usar.</td><td colspan="1" valign="top">Es una página web que cuenta con una gran variedad de productos y servicios relacionados a la hidroponía, de gran calidad y para distintos lugares.Además posee distintos cursos para iniciar en la hidroponía.</td><td colspan="1" valign="top">Es una página web que ofrece distintos tipos de información sobre agricultura.  Ofrecen capacitaciones y cursos donde explican distintos tipos de métodos a utilizar en la agricultura. Estos cursos los dictan de manera presencial o virtual dependiendo del área que dicten.</td><td colspan="1" valign="top">Es una página web que ofrece distintos productos para la hidroponia como nutrientes para las plantas, huertas donde irán instaladas estas plantas y semillas de distintos tipos.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">Una mejor variedad de productos acorde a la economía de las personas y a los distintos lugares del Perú. Además de un continuo seguimiento de nuestros clientes para poder aclarar alguna duda o problema que pueda surgir.</td><td colspan="1" valign="top">Una gran cantidad de productos, packs, soluciones y demás para la hidroponia. Tiene una sólida interfaz donde explican los servicios que ofrece la empresa y los beneficios de realizar hidroponia.</td><td colspan="1" valign="top">Una ventaja que ellos tienen a diferencia de otros es la gran cantidad de cursos que dictan, esto hace que muchas personas elijan sus servicios para aprender más acerca de distintos temas de agricultura y también sobre de la hidroponia.</td><td colspan="1" valign="top">Gran variedad de semillas y nutrientes para la hidroponia. Esto hace que sean un lugar concurrido para las personas que tengan este tipo de huertos.</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">Personas de todo el Perú que quieran comenzar a utilizar la técnica de hidroponía para cultivar en sus casas o personas que necesitan materiales para seguir ciudadano sus cultivos</td><td colspan="1" valign="top">Personas de todo el Perú que quieran obtener sus productos o empezar en la hidroponía en sus hogares u otros lugares.</td><td colspan="1" valign="top">Personas que estén interesadas en aprender más sobre la hidroponía, dispuestos a llevar cursos y asistir en charlas que Intagri ofrece.</td><td colspan="1" valign="top">Personas que se dedican a cultivar plantas con la técnica de hidroponía.</td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad a través de redes sociales</td><td colspan="1" valign="top">En las principales redes sociales.</td><td colspan="1" valign="top">En las principales redes sociales, linkedin y en empresas aliadas como Fertilab y Proain.</td><td colspan="1" valign="top">Publicidad a través de las principales redes sociales</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">Brindar un servicio de calidad mediante la información que mostraremos en nuestra página, La creación de cursos didácticos de distintos temas de la hidroponía, además de la creación de comunidades donde las personas puedan contar sus experiencias o recomendar distintas cosas.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta hidro huertos de distintos tamaños y para distintos tipos de plantas.</td><td colspan="1" valign="top">Los productos que ellos ofrecen son los cursos y capacitaciones sobre distintos temas acerca de la agricultura.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta huertos de distintos tamaños y para distintos tipos de plantas.</td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Los precios y costos por nuestros cursos se mostrarán en la pantalla de compra del producto. Asimismo trataremos de mantener los precios lo más accesible para todo público.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son las soluciones desde los 20 soles hasta los más caros que son los hidro huertos que pueden pasar los 1000 soles.</td><td colspan="1" valign="top">Sus precios varían entre los cursos que son los más cómodos hasta los diplomados internacionales que valen mucho dinero.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son los nutrientes y semillas hasta los más caros que son los huertos que pueden costar una gran cantidad de dinero dependiendo del tamaño de estos.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">Se contará con una página web en donde se encontrará todo lo que ofrecemos e información acerca de nosotros </td><td colspan="1" valign="top">Se hacen envíos a todo el Perú mediante empresas de courier tanto para Lima metropolitana hasta los distintos departamentos del país.</td><td colspan="1" valign="top">La mayoría de cursos que dictan son virtuales pero los seminarios o congresos que ellos dicten son presenciales.</td><td colspan="1" valign="top">Ofrecen sus servicios por medio de empresas de courier en el territorio argentino.</td><tr></tr><td colspan="1" rowspan="5">Análisis SWOT</td><td colspan="6"></td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Brindar información de distintos temas sobre la hidroponía, además de estar validadas por un especialista. Comunicación constante con los clientes.</td><td colspan="1" valign="top">Una gran variedad de productos para ofrecer a todos sus clientes.</td><td colspan="1" valign="top">Una gran variedad de cursos de distintos temas que pueden atraer a distintas personas. Capacitaciones y ponencias de manera presencial hacen que sean más reconocidos por sus demás competidores.</td><td colspan="1" valign="top">Gran variedad de semillas para la plantación de estas, distintos nutrientes que ayudan a la planta a crecer y gran variedad de huertos de distintos tamaños y para distintos propocitos.</td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Falta de credibilidad por ser una startup nueva y no ser tan reconocida en el medio.</td><td colspan="1" valign="top">Falta de comunicación con los clientes. Sus únicos medios de comunicación son las redes sociales y whatsapp, por lo que se puede tardar a la hora de responder algún mensaje.</td><td colspan="1" valign="top">Al tener un catálogo muy amplio de cursos y temas que ofrecen, no pueden enfocarse en un tema en específico por lo que algunas ocasiones no resolverán la duda al cliente.</td><td colspan="1" valign="top">Algunas personas no podrán conocer qué tipos de nutrientes necesitan para sus plantas o que tipos de huertas se acomodan más a su lugar de plantación.</td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Falta de información por especialistas en el tema.. Falta de plataformas que ofrezcan servicios de hidroponía a nivel nacional.</td><td colspan="1" valign="top">Falta de lugares o webs donde una persona pueda encontrar todo lo relacionado a la hidroponía, soluciones, semillas, huertos, etc.</td><td colspan="1" valign="top">Falta de lugares donde dicten cursos de una gran variedad de temas. Los eventos presenciales muchas veces no son tan completos como sí lo es el de Intagri.</td><td colspan="1" valign="top">Al tener una gran variedad de productos podrán satisfacer las necesidades de sus clientes.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Las personas en primera instancia no confiarán en nosotros por ser una nueva empresa. Falta de socios los cuales nos puedan ayudar en el tema económico de la startup.</td><td colspan="1" valign="top">Algunas personas no contarán con el presupuesto suficiente para poder comprar las estaciones esenciales donde cultivar las plantas utilizando esta técnica.</td><td colspan="1" valign="top">Algunas personas no podrán acceder a sus cursos presenciales por falta de tiempo o por la locación de estas capacitaciones.</td><td colspan="1" valign="top">Los mismos productos podrán ser encontrados en otros tipos de páginas</td></tr></tbody></table>
+<tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">GreenGrow<br><img src="https://i.imgur.com/jwNgfz4.jpg?width=2002&amp;height=1345" alt="GreenGrow" width="70px"></td><td colspan="1" valign="top" style="font-weight: bold;">Hidroponika<br><img src="https://i.imgur.com/sPqvU40.png?width=600&amp;height=600" alt="Hidroponika" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Intagri<br><img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" alt="Intagri" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Mundo Hidroponia<br><img src="https://i.imgur.com/pY6oo3B.jpg?width=1447&amp;height=814" alt="Mundo Hidropnia" width="60px"></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top">Aplicación web donde los clientes podrán informarse acerca de la hidroponía, mantenerse informado cada dia sobre diversos temas de la hidroponía y poder realizar cursos interactivos donde aprenda distintas técnicas o materiales a usar.</td><td colspan="1" valign="top">Es una página web que cuenta con una gran variedad de productos y servicios relacionados a la hidroponía, de gran calidad y para distintos lugares.Además posee distintos cursos para iniciar en la hidroponía.</td><td colspan="1" valign="top">Es una página web que ofrece distintos tipos de información sobre agricultura.  Ofrecen capacitaciones y cursos donde explican distintos tipos de métodos a utilizar en la agricultura. Estos cursos los dictan de manera presencial o virtual dependiendo del área que dicten.</td><td colspan="1" valign="top">Es una página web que ofrece distintos productos para la hidroponia como nutrientes para las plantas, huertas donde irán instaladas estas plantas y semillas de distintos tipos.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">Una mejor variedad de productos acorde a la economía de las personas y a los distintos lugares del Perú. Además de un continuo seguimiento de nuestros clientes para poder aclarar alguna duda o problema que pueda surgir.</td><td colspan="1" valign="top">Una gran cantidad de productos, packs, soluciones y demás para la hidroponia. Tiene una sólida interfaz donde explican los servicios que ofrece la empresa y los beneficios de realizar hidroponia.</td><td colspan="1" valign="top">Una ventaja que ellos tienen a diferencia de otros es la gran cantidad de cursos que dictan, esto hace que muchas personas elijan sus servicios para aprender más acerca de distintos temas de agricultura y también sobre de la hidroponia.</td><td colspan="1" valign="top">Gran variedad de semillas y nutrientes para la hidroponia. Esto hace que sean un lugar concurrido para las personas que tengan este tipo de huertos.</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">Personas de todo el Perú que quieran comenzar a utilizar la técnica de hidroponía para cultivar en sus casas o personas que necesitan materiales para seguir ciudadano sus cultivos</td><td colspan="1" valign="top">Personas de todo el Perú que quieran obtener sus productos o empezar en la hidroponía en sus hogares u otros lugares.</td><td colspan="1" valign="top">Personas que estén interesadas en aprender más sobre la hidroponía, dispuestos a llevar cursos y asistir en charlas que Intagri ofrece.</td><td colspan="1" valign="top">Personas que se dedican a cultivar plantas con la técnica de hidroponía.</td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad a través de redes sociales</td><td colspan="1" valign="top">En las principales redes sociales.</td><td colspan="1" valign="top">En las principales redes sociales, linkedin y en empresas aliadas como Fertilab y Proain.</td><td colspan="1" valign="top">Publicidad a través de las principales redes sociales</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">Brindar un servicio de calidad mediante la información que mostraremos en nuestra página, La creación de cursos didácticos de distintos temas de la hidroponía, además de la creación de comunidades donde las personas puedan contar sus experiencias o recomendar distintas cosas.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta hidro huertos de distintos tamaños y para distintos tipos de plantas.</td><td colspan="1" valign="top">Los productos que ellos ofrecen son los cursos y capacitaciones sobre distintos temas acerca de la agricultura.</td><td colspan="1" valign="top">Gran variedad de productos desde nutrientes para las plantas hasta huertos de distintos tamaños y para distintos tipos de plantas.</td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Los precios y costos por nuestros cursos se mostrarán en la pantalla de compra del producto. Asimismo trataremos de mantener los precios lo más accesible para todo público.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son las soluciones desde los 20 soles hasta los más caros que son los hidro huertos que pueden pasar los 1000 soles.</td><td colspan="1" valign="top">Sus precios varían entre los cursos que son los más cómodos hasta los diplomados internacionales que valen mucho dinero.</td><td colspan="1" valign="top">Los costos varían desde los más baratos que son los nutrientes y semillas hasta los más caros que son los huertos que pueden costar una gran cantidad de dinero dependiendo del tamaño de estos.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">Se contará con una página web en donde se encontrará todo lo que ofrecemos e información acerca de nosotros </td><td colspan="1" valign="top">Se hacen envíos a todo el Perú mediante empresas de courier tanto para Lima metropolitana hasta los distintos departamentos del país.</td><td colspan="1" valign="top">La mayoría de cursos que dictan son virtuales pero los seminarios o congresos que ellos dicten son presenciales.</td><td colspan="1" valign="top">Ofrecen sus servicios por medio de empresas de courier en el territorio argentino.</td><tr></tr><td colspan="1" rowspan="5">Análisis SWOT</td></td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Brindar información de distintos temas sobre la hidroponía, además de estar validadas por un especialista. Comunicación constante con los clientes.</td><td colspan="1" valign="top">Una gran variedad de productos para ofrecer a todos sus clientes.</td><td colspan="1" valign="top">Una gran variedad de cursos de distintos temas que pueden atraer a distintas personas. Capacitaciones y ponencias de manera presencial hacen que sean más reconocidos por sus demás competidores.</td><td colspan="1" valign="top">Gran variedad de semillas para la plantación de estas, distintos nutrientes que ayudan a la planta a crecer y gran variedad de huertos de distintos tamaños y para distintos propocitos.</td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Falta de credibilidad por ser una startup nueva y no ser tan reconocida en el medio.</td><td colspan="1" valign="top">Falta de comunicación con los clientes. Sus únicos medios de comunicación son las redes sociales y whatsapp, por lo que se puede tardar a la hora de responder algún mensaje.</td><td colspan="1" valign="top">Al tener un catálogo muy amplio de cursos y temas que ofrecen, no pueden enfocarse en un tema en específico por lo que algunas ocasiones no resolverán la duda al cliente.</td><td colspan="1" valign="top">Algunas personas no podrán conocer qué tipos de nutrientes necesitan para sus plantas o que tipos de huertas se acomodan más a su lugar de plantación.</td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Falta de información por especialistas en el tema.. Falta de plataformas que ofrezcan servicios de hidroponía a nivel nacional.</td><td colspan="1" valign="top">Falta de lugares o webs donde una persona pueda encontrar todo lo relacionado a la hidroponía, soluciones, semillas, huertos, etc.</td><td colspan="1" valign="top">Falta de lugares donde dicten cursos de una gran variedad de temas. Los eventos presenciales muchas veces no son tan completos como sí lo es el de Intagri.</td><td colspan="1" valign="top">Al tener una gran variedad de productos podrán satisfacer las necesidades de sus clientes.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Las personas en primera instancia no confiarán en nosotros por ser una nueva empresa. Falta de socios los cuales nos puedan ayudar en el tema económico de la startup.</td><td colspan="1" valign="top">Algunas personas no contarán con el presupuesto suficiente para poder comprar las estaciones esenciales donde cultivar las plantas utilizando esta técnica.</td><td colspan="1" valign="top">Algunas personas no podrán acceder a sus cursos presenciales por falta de tiempo o por la locación de estas capacitaciones.</td><td colspan="1" valign="top">Los mismos productos podrán ser encontrados en otros tipos de páginas</td></tr></tbody></table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -800,6 +834,8 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
     <img src="https://i.imgur.com/zjIdX1s.jpg" alt="Impact Mapping">
 </div>
 
+<br>
+
 ## 3.4 Product Backlog
 
 | # Orden | User Story Id | Título                                                                           | Descripción                                                                                                                                                      | Story Points (1 / 2 / 3 / 5 / 8) |
@@ -814,6 +850,8 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
 | 8       | UH08          | Visualización del Landing pages                                                  | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.                                                     | 3                                |
 | 9       | UH09          | Visualización de los servicios que ofrecen en el landing page                    | Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.                                                              | 2                                |
 | 10      | UH10          | Visualización de los testimonios de personas sobre la landing page               | Como invitado deseo visualizar los testimonios de distintas personas acerca de la landing page para ver si es lo que busco o no.                                 | 2                                |
+
+<br>
 
 # Capítulo IV: Product Design
 
@@ -832,18 +870,28 @@ Nuestro producto surge bajo la necesidad de los principiantes para poder iniciar
 El nombre que recibe nuestro servicio es GreenGrow, el cual hace referencia al sector agrícola y el proceso de crecimiento de los cultivos producidos por los usuarios, quienes también crecen junto a todo el desarrollo al ir adquiriendo conocimientos, hasta llegar a convertirse en expertos.
 
 **Colores Empleados**
-![Logo]()
-![Logo]()
+
+| Color | Descripción |
+| :---: |--------------------------------------------------------------------------------------------------------------------------- |
+| Color Primario | Nuestro color primario es un verde claro, el cual representa a los cultivos utilizados por los usuarios en sus proyectos. <br> <p style = 'text-align:center;'> <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149177510920212501/image.png" alt="color1"> </p> |
+| Color Secundario | Nuestro color secundario es un celeste pastel, el cual transmite frescura y tranquilidad a los usuarios. <br> <p style = 'text-align:center;'> <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149177692592283728/image.png" alt="color2"> </p> |
+| Color Terciario | Nuestro tercer color es el blanco, el cual suma contraste a nuestros otros colores, y mejora el aspecto visual. <p style = 'text-align:center;'> <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149177602880327750/image.png" alt="color3"> </p> | 
 
 **Tipografia**
-![Logo]()
+
+| Tipografía | Fuente | Ejemplo |
+| :---: | :---: | :---: |
+| Tipografía principal | Fuente: Roboto <br> Tamaño: 25 px - 55 px | <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148057185847361546/logo.png" alt="ejemploTipografia" style="margin-bottom: 5px;" width="250"/> | 
 
 ### 4.1.2. Web Style Guidelines
 
 **Landing Page:** Nuestra Landing Page emplea el Patrón Z en su estructura. Este patrón está diseñado para guiar al usuario por la página de manera natural y efectiva. En la parte superior se encontrará la barra de navegación con un tono oscuro, que brinda un aspecto serio y confiable. Esta barra contiene el logo y secciones como "Home", "Servicios", "Quiénes somos", "Testimonios" y "Descargar". Se usaron colores derivados del verde el cual representa el sector agrícola que llevamos en nuestro startup, además de que contrasta con el resto de la página para invitar al usuario a descargar y probar la aplicación.
-En esta sección se explicará el estilo y patrón que hace uso nuestra interfaz tanto del landing page y la aplicación web.
-![Logo]()
-[Logo]()
+
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/dhj20Ho.jpg" width="1000">
+</p>
 
 ## 4.2. Information Architecture.
 
@@ -893,17 +941,17 @@ Estas etiquetas son esenciales para mejorar la visibilidad de la aplicación web
 
 **Para el Landing Page:**
 
-Tittle: GreenGrow
-Description: GreenGrow - GrowGenius Official Landing Page
-Keywords: agriculture, crops, hydroponics, domestic
-Authors: GrowGenius team
+- Tittle: GreenGrow
+- Description: GreenGrow - GrowGenius Official Landing Page
+- Keywords: agriculture, crops, hydroponics, domestic
+- Authors: GrowGenius team
 
 **Para la aplicación web:**
 
-Tittle: GreenGrow
-Description: GreenGrow - GrowGenius Official Web Page
-Keywords: agriculture, crops, hydroponics, domestic,
-Authors: GrowGenius team
+- Tittle: GreenGrow
+- Description: GreenGrow - GrowGenius Official Web Page
+- Keywords: agriculture, crops, hydroponics, domestic,
+- Authors: GrowGenius team
 
 ### 4.2.4. Searching Systems.
 
@@ -923,123 +971,291 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 ### 4.3.1. Landing Page Wireframe.
 
-![m1]()
-![m1]()
-![m1]()
-![m1]()
-![m1]()
-![m1]()
-[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/sGF7WJc6aMsS1pPWvWMWLp/Landing-Page---Wireframes?type=design&node-id=0%3A1&mode=design&t=mvFXcGkT2cnZlT3Y-1)
+Link al Figma: [Figma Wireframe](https://www.figma.com/file/sGF7WJc6aMsS1pPWvWMWLp/Landing-Page---Wireframes?type=design&node-id=0%3A1&mode=design&t=mvFXcGkT2cnZlT3Y-1)
+
+- **Hero:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149181184295829604/image.png" width="1000">
+</p>
+<br>
+
+- **Services:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149181423908036688/image.png" width="1000">
+</p>
+<br>
+
+- **About us:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149181676816187463/image.png" width="1000">
+</p>
+<br>
+
+- **Testimonials:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149181901513429063/image.png" width="1000">
+</p>
+<br>
+
+- **Download:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149182063598125226/image.png" width="1000">
+</p>
+<br>
+
+- **Footer:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149182384462385262/image.png" width="1000">
+</p>
+<br>
+
+A continuación se muestran los wireframes para dispositivos móviles de las mismas secciones:
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149182824340000868/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149183074639294545/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149183527603142717/image.png" width="1000">
+</p>
+<br>
 
 ### 4.3.2. Landing Page Mock-up.
 
-![m1]()
-![m1]()
-![m1]()
-![m1]()
-![m1]()
+- **Navbar & Hero:**
 
-**Version Mobile**
-![m1]()
-![m1]()
-![m1]()
-![m1]()
-![m1]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149183900459991090/image.png" width="1000">
+</p>
+<br>
 
-[Enlace a Figma "Ver Diseños"]()
+- **Services:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149184102738690068/image.png" width="1000">
+</p>
+<br>
+
+- **About us:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149184275812462684/image.png" width="1000">
+</p>
+<br>
+
+- **Testimonials:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149184510290837534/image.png" width="1000">
+</p>
+<br>
+
+- **Download:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149184687152058408/image.png" width="1000">
+</p>
+<br>
+
+- **Footer:**
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149184819675267112/image.png" width="1000">
+</p>
+<br>
+
+A continuación se muestran los mockus para dispositivos móviles de las mismas secciones:
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149185360300101745/image.png" width="1000">
+</p>
+<br>
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-![m001]()
-![m001]()
-![m001]()
-![m001]()
-![m001]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149185601002803271/image.png" width="1000">
+</p>
+<br>
 
-[Enlace a Figma "Ver Diseños"]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149186166898298980/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149186447082012722/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149186687927328838/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149186888935153674/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149187449042505808/image.png" width="1000">
+</p>
+<br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-**User goal:** Ingresar a la pantalla principal de la aplicación
+A continuación se presenta el diagrama de flujo de la aplicación web, en el cual se muestra la navegación que tendrá el usuario al momento de utilizar la aplicación.
 
-![y1]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149189075891400754/image.png" width="1000">
+</p>
+<br>
 
 [Enlace a "Ver Diagrama"]()
 
 ### 4.4.3. Web Applications Mock-ups.
 
-![X1]()
-![X1]()
-![X1]()
-![X1]()
-![X1]()
-![X1]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149187779100688404/image.png" width="1000">
+</p>
+<br>
 
-**Versión mobile:**
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149187927583244339/image.png" width="1000">
+</p>
+<br>
 
-![XD1]()
-![XD1]()
-![XD1]()
-![XD1]()
-![XD1]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149188124942008421/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149188439229595799/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149188617793716304/image.png" width="1000">
+</p>
+<br>
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149188823025197118/image.png" width="1000">
+</p>
+<br>
+
 
 [Enlace a Figma "Ver Diseños"]()
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-**User Goal:** Ingresar a la pantalla principal de la aplicación
+- **User Goal:** Ingresar a la pantalla principal de la aplicación
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="">
+</p>
+<br>
 
-[Enlace a "Ver Diagrama"]()
+Enlace al diagrama: [Ver Diagrama]()
+
+- **User Goal:** Comprar Curso
+
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149194417169764415/Diagrama_en_blanco_5.png">
+</p>
+<br>
+
+Enlace al diagrama: [Ver Diagrama](https://lucid.app/lucidchart/59722d95-caa7-4ff6-89bb-d5a64418a64b/edit?viewport_loc=-2185%2C-1332%2C5548%2C2815%2C0_0&invitationId=inv_332207b3-98c3-403b-b9ec-faaa43e526c1)
 
 ### 4.5. Web Applications Prototyping.
 
-Enlace del Prototipo:[ver Prototipo](https://www.figma.com/proto/fAJmI8dYTS40y8ZLlrFqat/Web-application---MockUps?page-id=0%3A1&type=design&node-id=3940-1467&viewport=-113%2C47%2C0.1&t=0rp94hmRnpjqDzYx-1&scaling=scale-down&starting-point-node-id=3954%3A3513&mode=design)
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149189527454359623/image.png" width="1000">
+</p>
+<br>
 
-Enlace del video: [ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EbP0Jpb7ckJOsUDyXZ7iFysB_P_eDE3tBFgBncHMF5Xi4g?e=ckRoBp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![X1]()
+Enlace del Prototipo:[Ver Prototipo](https://www.figma.com/proto/fAJmI8dYTS40y8ZLlrFqat/Web-application---MockUps?page-id=0%3A1&type=design&node-id=3940-1467&viewport=-113%2C47%2C0.1&t=0rp94hmRnpjqDzYx-1&scaling=scale-down&starting-point-node-id=3954%3A3513&mode=design)
+
+Enlace de la explicación del prototipo: [Ver video de explicación de Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EbP0Jpb7ckJOsUDyXZ7iFysB_P_eDE3tBFgBncHMF5Xi4g?e=ckRoBp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149190539703496805/image.png" width="1000">
+</p>
+<br>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149190784587943977/image.png" width="1000">
+</p>
+<br>
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 Community Context
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/ww5aPMt.png" width="1000">
+</p>
+<br>
 
 Course Context
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/jAtSH8s.png" width="1000">
+</p>
+<br>
 
 Educational Content Context
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/dUZBVGB.png" width="1000">
+</p>
+<br>
 
 Login Context
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/lBxZAIX.png" width="1000">
+</p>
+<br>
 
 Sign Up Context
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/wDNmEtn.png" width="1000">
+</p>
+<br>
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
-![C1]()
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/og66LLF.png">
+</p>
+<br>
 
 Enlace del diagrama: [Ver diagrama](https://lucid.app/lucidchart/11cb49ec-ba2e-4ad8-a9ba-7fc357807121/edit?viewport_loc=839%2C847%2C4387%2C2218%2CigbrYPu~LT7U&invitationId=inv_02a216e5-4ebc-4600-a7ea-afd4cb3cac4e)
 
@@ -1047,35 +1263,36 @@ Enlace del diagrama: [Ver diagrama](https://lucid.app/lucidchart/11cb49ec-ba2e-4
 
 - En el presente diccionario; se mostrarán la utilidad de las clases diseñadas y presentadas en el apartado anterior, así como las relaciones entre cada una de ellas y como estas optimizan sus procesos:
 
-  - Person: Esta clase sirve como clase padre para otras 2 clases más. Aquí es donde se indica que tipo de persona está conectada actualmente. Al ser clase padre tendrá atributos que se compartirán con la de sus hijas como el nombre, apellido y demás datos.
+  - Person: Esta clase sirve como clase padre para otras 2 clases más. Aquí es donde se indica que tipo de persona está conectada actualmente. Al ser clase padre tendrá atributos que se compartirán con la de sus hijas como el nombre, apellido y demás datos. <br><br>
 
-  - User: Esta clase es una clase hija, aquí es donde se van a guardar todos los datos que sean referente cuando la persona es un usuario que quiere buscar información en nuestra página, además de saber que comentario fue que escribió el usuario y a que cursos esta inscrito. De aquí las demás clases que requieran de que la persona solo sea el usuario pueda realizar distintas conexiones.
+  - User: Esta clase es una clase hija, aquí es donde se van a guardar todos los datos que sean referente cuando la persona es un usuario que quiere buscar información en nuestra página, además de saber que comentario fue que escribió el usuario y a que cursos esta inscrito. De aquí las demás clases que requieran de que la persona solo sea el usuario pueda realizar distintas conexiones.<br><br>
 
-  - Expert: Esta clase es una clase hija y viene a ser la parte para la persona Experto, aquí se almacenará todo lo referente al experto en nuestra página. De aquí tendrá conexiones para las distintas clases que requieran del experto como los cursos, los artículos que escriba, etc.
+  - Expert: Esta clase es una clase hija y viene a ser la parte para la persona Experto, aquí se almacenará todo lo referente al experto en nuestra página. De aquí tendrá conexiones para las distintas clases que requieran del experto como los cursos, los artículos que escriba, etc.<br><br>
 
-  - Account: Esta clase representa la cuenta de la persona registrada. Aquí habrá distintas funciones como el login o el register. Además de que en esta clase se podrán guardar el correo y contraseña de la persona, además de haber funciones para recuperar la contraseña o cambiar el email.
+  - Account: Esta clase representa la cuenta de la persona registrada. Aquí habrá distintas funciones como el login o el register. Además de que en esta clase se podrán guardar el correo y contraseña de la persona, además de haber funciones para recuperar la contraseña o cambiar el email.<br><br>
 
-  - Suscription: Esta clase maneja todo el tema de la suscripción del usuario. Aquí se guardaran atributos como a qué cuenta va a ir dirigida esta suscripción y validar a qué tipo de persona le pertenece la cuenta para que solo se aplique para usuarios. Además de tener métodos para saber el tipo de pago y el estado de la suscripción.
+  - Suscription: Esta clase maneja todo el tema de la suscripción del usuario. Aquí se guardaran atributos como a qué cuenta va a ir dirigida esta suscripción y validar a qué tipo de persona le pertenece la cuenta para que solo se aplique para usuarios. Además de tener métodos para saber el tipo de pago y el estado de la suscripción.<br><br>
 
-  - Course: Esta clase tendrá como función principal obtener como atributo el nombre del curso y su descripción, así como toda la información que tendrá el curso tanto videos como otro tipo de información.
+  - Course: Esta clase tendrá como función principal obtener como atributo el nombre del curso y su descripción, así como toda la información que tendrá el curso tanto videos como otro tipo de información.<br><br>
 
-  - ExpertCourse: Esta clase es una que está ligada tanto a la clase expertos como la clase cursos, aquí se tendrá registro del experto que creó el curso asi como la información de todo el curso en mención. Además podremos saber por cual usuario fue comprado y el rating que este curso tuvo por parte de los distintos usuarios.
+  - ExpertCourse: Esta clase es una que está ligada tanto a la clase expertos como la clase cursos, aquí se tendrá registro del experto que creó el curso asi como la información de todo el curso en mención. Además podremos saber por cual usuario fue comprado y el rating que este curso tuvo por parte de los distintos usuarios.<br><br>
 
-  - Articles: Esta clase trata sobre los artículos de infomracion que escriben los expertos. Aquí se podrá encontrar por cual experto fue creado y la fecha en que fue publicada.
+  - Articles: Esta clase trata sobre los artículos de infomracion que escriben los expertos. Aquí se podrá encontrar por cual experto fue creado y la fecha en que fue publicada.<br><br>
 
-  - Comments: Esta clase trata sobre los comentarios que el usuario pueda hacer a las distintas publicaciones que haga el experto. Aquí podremos saber el contenido del comentario y a que articulo va dirigido.
+  - Comments: Esta clase trata sobre los comentarios que el usuario pueda hacer a las distintas publicaciones que haga el experto. Aquí podremos saber el contenido del comentario y a que articulo va dirigido.<br><br>
 
-  - Community: Esta clase trata sobre las distintas comunidades que los usuarios podrán crear dentro de nuestra página, aquí tendremos una lista de todos los usuarios que estén inscritos en una comunidad así como funciones en donde podremos crear la comunidad en sí y que los usuarios puedan tener una comunicación entre ellos.
+  - Community: Esta clase trata sobre las distintas comunidades que los usuarios podrán crear dentro de nuestra página, aquí tendremos una lista de todos los usuarios que estén inscritos en una comunidad así como funciones en donde podremos crear la comunidad en sí y que los usuarios puedan tener una comunicación entre ellos.<br><br>
 
-  - SuscriptionPrice: Esta clase trata sobre el precio de la suscripción y la frecuencia de este. Esta tabla está relacionada con la tabla enumeration de Frequency la cual al ser un enumeration tendrá como variables el tipo de frecuencia de la suscripción Monthly si es una suscripción mensual y Annual si es una suscripción anual.
+  - SuscriptionPrice: Esta clase trata sobre el precio de la suscripción y la frecuencia de este. Esta tabla está relacionada con la tabla enumeration de Frequency la cual al ser un enumeration tendrá como variables el tipo de frecuencia de la suscripción Monthly si es una suscripción mensual y Annual si es una suscripción anual.<br><br>
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
 
-![C1]()
-
-Enlace del database diagram: [Ver diagrama](https://i.imgur.com/iz2EHlW.png)
+<p style = 'text-align:center;'>
+  <img src="https://i.imgur.com/iz2EHlW.png ">
+</p>
+<br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1149,7 +1366,7 @@ A continuación, se darán a conocer las convenciones, formatos, estilos y entre
 
   - **Especificar siempre los atributos alt, width y height para las imágenes:** Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
 
-  - **No omitir la etiqueta <title> ni los metadatos (<meta>):** Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
+  - **No omitir la etiqueta ni los metadatos:** Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
 
 - **CSS:** Se siguió la guía “Google HTML/CSS Style Guide” donde se indican las convenciones, reglas y buenas prácticas para este lenguaje. Hemos considerado las siguientes recomendaciones como las más destacadas:
 
@@ -1265,6 +1482,21 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 https://cdn.discordapp.com/attachments/1148057148522233868/1148382759249793064/image.png
 
 ![Pull requests](https://i.imgur.com/lp5IpGB.png)
+
+
+## Conclusiones
+
+- Con el análisis de competidores podemos conocer nuestras fortalezas y debilidades, para poder ofrecer un producto que cumplan con las necesidades del usuario.<br><br>
+
+- Hemos utilizado diversas herramientas como user personas, empathy maps, user journey maps, as-is, to-be, product backlog, diagramas y diseños de base de datos, etc. para crear nuestra aplicación y asegurarnos de que satisfaga las necesidades de nuestros usuarios.<br><br>
+
+- Las entrevistas a los usuarios fueron importantes para entender de primera mano cuales son sus necesidades verdaderas, para intentar solventarlas con nuestra propuesta.<br><br>
+
+- Al realizar esta primera entrega pudimos realizar distintas propuestas  para obtener distinta soluciones a partir de nuestra problematica. Ademas se tuvo que indagar como podriamos satisfacer esas necesidades que requierian nuestros segmentos objetivos.<br><br>
+
+- Con el análisis de competidores y las entrevistas, hemos logrado identificar los elementos clave que serán abordados en este informe. Hemos explorado diversos aspectos, con un enfoque particular en la problemática que estamos buscando resolver.<br><br>
+
+
 
 ## Bibliografía
 
