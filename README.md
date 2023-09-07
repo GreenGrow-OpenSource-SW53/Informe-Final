@@ -1122,17 +1122,36 @@ A continuación se muestran los mockus para dispositivos móviles de las mismas 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-A continuación se presenta el diagrama de flujo de la aplicación web, en el cual se muestra la navegación que tendrá el usuario al momento de utilizar la aplicación.
+Los "Wireflow Diagrams" representan visualmente cómo los usuarios logran objetivos específicos. Exploraremos tres escenarios: Ingresar a la pantalla principal de la aplicación, encontrar comunidades y comprar un curso. Estos diagramas nos ayudan a comprender la lógica subyacente del diseño de la aplicación y cómo satisface las necesidades de los usuarios.
 
 <p style = 'text-align:center;'>
   <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149189075891400754/image.png" width="1000">
 </p>
 <br>
 
-[Enlace a "Ver Diagrama"]()
+Enlace del diagrama:  
+[https://lucid.app/lucidchart/1b3d01fb-00b5-4053-b32e-e060b20e76f9/edit?view_items=mpHs-Ifoft0B%2CmpHsiDKtOwvA%2CmpHsaTTu6khk%2CmpHsaPCphKy4%2CmpHsoO526UuE%2CmpHsnoNa0rGK%2CmpHsBmJ0NgRd%2CmpHsmVKxsxNV%2CmpHsnprsfz_C%2CmpHsmCIy2svS%2C.qHspq2XNNLy%2CmpHsFvLx5-7H%2CmpHsC-t7uvsG%2CmpHsvsyhWlOm%2CmpHsCg7F4wuW%2CmpHs9T2Q~dfG%2CmpHsqvy7Rog5%2CmpHs9_hN97Ob%2CmpHsFaPJdHaW%2CmpHsGS135712%2CHpHsD7kdbVNG&invitationId=inv_06a7e981-5a28-4c28-ab04-0b09b1328fe7](https://lucid.app/lucidchart/1b3d01fb-00b5-4053-b32e-e060b20e76f9/edit?view_items=mpHs-Ifoft0B%2CmpHsiDKtOwvA%2CmpHsaTTu6khk%2CmpHsaPCphKy4%2CmpHsoO526UuE%2CmpHsnoNa0rGK%2CmpHsBmJ0NgRd%2CmpHsmVKxsxNV%2CmpHsnprsfz_C%2CmpHsmCIy2svS%2C.qHspq2XNNLy%2CmpHsFvLx5-7H%2CmpHsC-t7uvsG%2CmpHsvsyhWlOm%2CmpHsCg7F4wuW%2CmpHs9T2Q~dfG%2CmpHsqvy7Rog5%2CmpHs9_hN97Ob%2CmpHsFaPJdHaW%2CmpHsGS135712%2CHpHsD7kdbVNG&invitationId=inv_06a7e981-5a28-4c28-ab04-0b09b1328fe7)
+
+**User goal:** Ingresar a la pantalla principal de la aplicación
+<p style = 'text-align:center;'>
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1149316713402339398/uf-1.png" width="1000">
+</p>
+<br>
+
+**User goal:** Encontrar comunidades dentro de la aplicación
+<p style = 'text-align:center;'>
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1149316742775054456/Diagrama_en_blanco.png" width="1000">
+</p>
+<br>
+
+**User goal:** Comprar un curso
+<p style = 'text-align:center;'>
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1149316767555002408/Diagrama_en_blanco_1.png" width="1000">
+</p>
+<br>
 
 ### 4.4.3. Web Applications Mock-ups.
-
+Los "Web Applications Mock-ups" representan la siguiente etapa en la evolución de nuestro proyecto de aplicación web. Estos mock-ups van más allá de los simples esquemas de diseño al proporcionar una representación más detallada y visualmente rica de la interfaz de usuario. En esta fase, damos vida a la apariencia final de nuestra aplicación web, presentando una vista más realista de cómo se verá y funcionará.  
 <p style = 'text-align:center;'>
   <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149187779100688404/image.png" width="1000">
 </p>
@@ -1171,11 +1190,11 @@ A continuación se presenta el diagrama de flujo de la aplicación web, en el cu
 - **User Goal:** Ingresar a la pantalla principal de la aplicación
 
 <p style = 'text-align:center;'>
-  <img src="">
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1149318183967260712/wf-1.png">
 </p>
 <br>
 
-Enlace al diagrama: [Ver Diagrama]()
+Enlace al diagrama: [Ver Diagrama](https://lucid.app/lucidchart/59722d95-caa7-4ff6-89bb-d5a64418a64b/edit?view_items=WnEs35t9lxB5%2CYnEs2b1OeS6c%2C2nEsHhVbXp9s%2C6nEsvhsX1D98%2CFoEsigyZFqTV%2C_oEsSk2Jopoq%2CkpEsIYMXDfIc%2CupEs5lKokJkq%2CwpEs9wVrVhpX%2CypEs7y.b9v8e%2CDpEsV9vxiuNf%2CHpEsHYOOdsvC%2C0pEs_7KHePmh%2CVqEs9pGCh2nt%2CUrEsym6C.gLp%2CusEs_sEL.yWB%2C7sEsF5FbsrcG&invitationId=inv_332207b3-98c3-403b-b9ec-faaa43e526c1)
 
 - **User Goal:** Comprar Curso
 
@@ -1195,6 +1214,16 @@ Enlace al diagrama: [Ver Diagrama](https://lucid.app/lucidchart/59722d95-caa7-4f
 
 
 Enlace del Prototipo:[Ver Prototipo](https://www.figma.com/proto/fAJmI8dYTS40y8ZLlrFqat/Web-application---MockUps?page-id=0%3A1&type=design&node-id=3940-1467&viewport=-113%2C47%2C0.1&t=0rp94hmRnpjqDzYx-1&scaling=scale-down&starting-point-node-id=3954%3A3513&mode=design)
+
+
+Mobile Prototyping:
+<p style = 'text-align:center;'>
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1149318658703761549/proto-mobile.png" width="1000">
+</p>
+<br>
+
+Enlace del Prototipo:[Ver Prototipo](https://www.figma.com/proto/fAJmI8dYTS40y8ZLlrFqat/Web-application---MockUps?page-id=3977%3A423&type=design&node-id=3995-484&viewport=-569%2C314%2C0.58&t=D1oGDKeRMQPic9Am-1&scaling=scale-down&mode=design)
+
 
 Enlace de la explicación del prototipo: [Ver video de explicación de Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EbP0Jpb7ckJOsUDyXZ7iFysB_P_eDE3tBFgBncHMF5Xi4g?e=ckRoBp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
