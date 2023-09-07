@@ -35,7 +35,7 @@ Ciclo 2023-02
 
 <br>
 
-Link al video de exposición:
+Link al video de exposición: [Video de Exposición TB1 - GreenGrow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EUqCgfSy9CdHs-dZlVDLxkQBxAsyxVtoeCQ7-fWxN2sm8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Pc1d1y)
 
 Agosto del 2023
 
