@@ -459,9 +459,12 @@ Luego de realizar una investigación en el mercado peruano, hemos encontrado tre
   Es un Web browser que cuenta con una gama completa de productos y servicios de calidad relacionados con la hidrocultura. Además, posee soluciones nutritivas para todo tipo de plantas, desde tu propio huerto.
 <br>
 
-<p style = 'text-align:center;'>
-  <img src="https://i.imgur.com/sPqvU40.pngwidth=600&amp;height=600" style="max-width: 460px; width: 25%;">
-</p>
+<div align="center">
+
+  <img src="https://i.imgur.com/sPqvU40.png">
+
+</div>
+
 <br><br>
 
 
@@ -471,9 +474,12 @@ Luego de realizar una investigación en el mercado peruano, hemos encontrado tre
   Es un portal que ofrece distintos tipos de información acerca de los distintos tipos de cultivos. Además, ofrece también distintas conferencias y cursos dictados por expertos acerca de la agricultura.
 <br>
 
-<p style = 'text-align:center;'>
-  <img src="https://i.imgur.com/Ynnwv7G.jpg?width=547&amp;height=118" style="max-width: 600px; width: 40%;">
-</p>
+<div align="center">
+
+  <img src="https://i.imgur.com/Ynnwv7G.jpg">
+
+</div>
+
 <br><br>
 
 
@@ -483,9 +489,12 @@ Luego de realizar una investigación en el mercado peruano, hemos encontrado tre
   Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
 <br>
 
-<p style = 'text-align:center;'>
-  <img src="https://i.imgur.com/pY6oo3B.jpg?width=1447&amp;height=814" style="max-width: 600px; width: 60%;">
-</p>
+<div align="center">
+
+  <img src="https://i.imgur.com/pY6oo3B.jpg">
+
+</div>
+
 <br><br>
 
 
@@ -729,12 +738,20 @@ Las entrevistas presentan similitudes en términos de la temática central y los
 Los User Personas son fundamentales para el éxito del proyecto GreenGrow, ya que brindan una comprensión profunda y concreta de las necesidades, deseos, frustraciones y comportamientos de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia de aprendizaje altamente enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo: desde brindar recursos claros y accesibles a principiantes, hasta ofrecer herramientas para que los expertos compartan su conocimiento
 
 **User Persona del segmento: Personas que deseen iniciar en la hidroponía**
-<img src="https://i.imgur.com/PSlIthL.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+<div align="center">
+
+  <img src="https://i.imgur.com/PSlIthL.png">
+
+</div>
 
 **User Persona del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
 
-<img src="https://i.imgur.com/Q9gcD49.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+<div align="center">
 
+  <img src="https://i.imgur.com/Q9gcD49.png">
+
+</div>
 ### 2.3.2. User Task Matrix
 
 En esta User Task Matrix, se describen las tareas típicas que realizan los dos segmentos de usuarios: personas que deseen iniciar en la hidroponía y expertos que desean brindar sus conocimientos. Se evalúa la frecuencia y la severidad de cada tarea, lo que ayuda a priorizar y entender cuáles son las áreas clave en las que el producto GreenGrow podría intervenir para satisfacer las necesidades y los objetivos de ambos segmentos.
@@ -773,33 +790,61 @@ En esta User Task Matrix, se describen las tareas típicas que realizan los dos 
 ### 2.3.3. User Journey Mapping
 
 **User Journey Mapping del segmento: Personas que deseen iniciar en la hidroponía**
-<img src="https://i.imgur.com/iFcacsq.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+<div align="center">
+
+  <img src="https://i.imgur.com/iFcacsq.png">
+
+</div>
 
 **User Journey Mapping del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
 
-<img src="https://i.imgur.com/uF8o7iK.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+<div align="center">
+
+  <img src="https://i.imgur.com/uF8o7iK.png">
+
+</div>
+
 
 ### 2.3.4. Empathy Mapping
 
 Los Mapas de Empatía son esenciales para el proyecto GreenGrow, ya que permiten una comprensión profunda y holística de las experiencias, pensamientos y emociones de los usuarios clave. Estos mapas ofrecen una visión integral de cómo los usuarios piensan, sienten, ven, escuchan, dicen y hacen en relación con la hidroponía y la agricultura en interiores. Al proporcionar una representación visual y detallada de sus perspectivas y necesidades, los Mapas de Empatía guían el desarrollo de la plataforma al asegurar que se aborden los problemas reales y se cumplan las expectativas de los usuarios.
 
 **Empathy Map del segmento: Personas que deseen iniciar en la hidroponía**
-<img src="https://i.imgur.com/eBSLWNG.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+<div align="center">
+
+  <img src="https://i.imgur.com/eBSLWNG.png">
+
+</div>
 
 **Empathy Map del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
 
-<img src="https://i.imgur.com/S0EtpMe.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+<div align="center">
+
+  <img src="https://i.imgur.com/S0EtpMe.png">
+
+</div>
 
 ### 2.3.5. As-is Scenario Mapping
 
 Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan una visión detallada de los pasos, pensamientos y emociones de los usuarios antes de conocer el producto. Estos escenarios permiten comprender sus necesidades y desafíos actuales, lo que ayuda al equipo a diseñar una experiencia más efectiva y enfocada en resolver problemas reales. Al analizar los AS-IS, el producto puede ser desarrollado de manera que satisfaga las expectativas y proporcione soluciones alineadas con las experiencias actuales de los usuarios, resultando en un producto más exitoso y relevante.
 
 **As-is Scenario Map del segmento: Personas que deseen iniciar en la hidroponía**
-<img src="https://i.imgur.com/OIsMvCL.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+
+<div align="center">
+
+  <img src="https://i.imgur.com/OIsMvCL.png">
+
+</div>
 
 **As-is Scenario Map del segmento: Expertos que desean brindar sus conocimientos a los principiantes**
 
-<img src="https://i.imgur.com/9sZtJDe.pngwidth=600&amp;height=600" style="max-width: 1000px; width: 80%;">
+<div align="center">
+
+  <img src="https://i.imgur.com/9sZtJDe.png">
+
+</div>
 
 # Capítulo III: Requeriments Specifications
 
