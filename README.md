@@ -57,6 +57,8 @@ Agosto del 2023
 
     Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GreenGrow-OpenSource-SW53/Informe-Final)
 
+    <br>
+
     A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes capítulos:
 
     - Capítulo I: Introducción
@@ -64,6 +66,14 @@ Agosto del 2023
     - Capítulo III: Requirements Specification
     - Capítulo IV: Product Design
     - Capítulo V: Product Implementation, Validation & Deployment
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149369808740163625/image.png"/>      
+    </div>
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149370395296813166/image.png"/>
+    </div>
 
 <br><br>
 
@@ -326,43 +336,43 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
 
 ## 1.2. Solution Profile
 
-- **Nombre del Producto:**
+- **Nombre del Producto:** <br><br>
 
-  Nuestra aplicación web recibe el nombre de “GreenGrow”, ya que hacemos referencia a los cultivos que serán empleados por nuestros usuarios en la creación de sus proyectos caseros, quienes a su vez irán creciendo con nosotros, al adquirir conocimientos constantemente y mejorar sus habilidades en el sector agrícola.
+  Nuestra aplicación web recibe el nombre de “GreenGrow”, ya que hacemos referencia a los cultivos que serán empleados por nuestros usuarios en la creación de sus proyectos caseros, quienes a su vez irán creciendo con nosotros, al adquirir conocimientos constantemente y mejorar sus habilidades en el sector agrícola. <br><br>
 
-- **Descripción del Producto:**
+- **Descripción del Producto:** <br><br>
 
-  Nuestra propuesta es un servicio novedoso e innovador, ofrecemos a nuestros usuarios la posibilidad de desarrollar sus propios proyectos domésticos basados en hidroponía, empezando con un nivel de principiantes hasta lograr convertirse en todos unos expertos en el tema. Nuestro servicio será intuitivo, sencillo y fácil de utilizar para cualquier persona que haga uso de la aplicación.
+  Nuestra propuesta es un servicio novedoso e innovador, ofrecemos a nuestros usuarios la posibilidad de desarrollar sus propios proyectos domésticos basados en hidroponía, empezando con un nivel de principiantes hasta lograr convertirse en todos unos expertos en el tema. Nuestro servicio será intuitivo, sencillo y fácil de utilizar para cualquier persona que haga uso de la aplicación. <br><br>
 
-- **Monetización:**
+- **Monetización:** <br><br>
 
-  Nuestra aplicación generará ganancias por medio de anuncios, los cuales estarán relacionados con el tema agrícola. La publicidad mostrada podrá ser de insumos, equipamiento, productos, etc. Además, los expertos podrán ofrecer cursos Premium a los principiantes, lo que supondría una ganancia tanto para ellos como un porcentaje para nuestro equipo de trabajo. Por lo tanto, nuestro servicio será un entorno completo, ya que los usuarios podrán adquirir estos insumos y mejorar en el desarrollo de sus proyectos caseros.
+  Nuestra aplicación generará ganancias por medio de anuncios, los cuales estarán relacionados con el tema agrícola. La publicidad mostrada podrá ser de insumos, equipamiento, productos, etc. Además, los expertos podrán ofrecer cursos Premium a los principiantes, lo que supondría una ganancia tanto para ellos como un porcentaje para nuestro equipo de trabajo. Por lo tanto, nuestro servicio será un entorno completo, ya que los usuarios podrán adquirir estos insumos y mejorar en el desarrollo de sus proyectos caseros. <br><br>
 
 ### 1.2.1. Antecedentes y problemática
 
-- **What?**
+- **What?** <br><br>
 
-  El problema de nuestros usuarios es la falta de conocimiento acerca de la creación de una granja en casa, así como su mantención a lo largo del tiempo.
+  El problema de nuestros usuarios es la falta de conocimiento acerca de la creación de una granja en casa, así como su mantención a lo largo del tiempo.<br><br>
 
-- **When?**
+- **When?** <br><br>
 
-  El problema descrito se presenta cada vez que nuestros usuarios buscan información acerca de hidroponía, impidiendo que puedan tener su propias granjas domésticas.
+  El problema descrito se presenta cada vez que nuestros usuarios buscan información acerca de hidroponía, impidiendo que puedan tener su propias granjas domésticas. <br><br>
 
-- **Where?**
+- **Where?** <br><br>
 
-  El problema se encuentra en la poca información que se puede llegar a recopilar en distintos medios, y lo poco que se consigue resulta ser dificultoso de entender.
+  El problema se encuentra en la poca información que se puede llegar a recopilar en distintos medios, y lo poco que se consigue resulta ser dificultoso de entender. <br><br>
 
-- **Why?**
+- **Why?** <br><br>
 
   Usualmente los usuarios no logran encontrar la información necesaria sobre hidroponía y granjas domésticas, por lo que deben buscar por medio de internet, preguntar a familia o amigos para encontrar la mayor información posible.
 
-- **How?**
+- **How?** <br><br>
 
-  Resulta muy complicado para los principiantes poder encontrar los pasos necesarios para iniciar una granja en casa. Debido a esta problemática, surge nuestra aplicación, la cual servirá de apoyo a todos aquellos entusiastas a poner en práctica su pasión por la hidroponía y lograr su objetivo.
+  Resulta muy complicado para los principiantes poder encontrar los pasos necesarios para iniciar una granja en casa. Debido a esta problemática, surge nuestra aplicación, la cual servirá de apoyo a todos aquellos entusiastas a poner en práctica su pasión por la hidroponía y lograr su objetivo. <br><br>
 
-- **How much?**
+- **How much?** <br><br>
 
-  La problemática se origina debido a que existe poca información que podemos encontrar sobre hidroponía en el hogar, y la que se encuentra puede resultar complicada para las personas nuevas en el tema. Además, la información proporcionada en páginas web llega a presentarse de forma desordenada, lo que genera más obstáculos para los usuarios.
+  La problemática se origina debido a que existe poca información que podemos encontrar sobre hidroponía en el hogar, y la que se encuentra puede resultar complicada para las personas nuevas en el tema. Además, la información proporcionada en páginas web llega a presentarse de forma desordenada, lo que genera más obstáculos para los usuarios. <br><br>
 
 ### 1.2.2. Lean UX Process
 
@@ -430,9 +440,9 @@ La hidroponía es una de las actividades que posee gran cantidad de practicantes
 
 | Tipo de Usuario | Personas que deseen iniciar en la hidroponía                                                                                                                                                                                                                                 | Expertos que desean brindar sus conocimientos a los principiantes                                                                                                                                                                                                |
 | :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Geográfico      | País: Perú, Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                                      | País: Perú, Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                          |
-| Psicográfico    | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. Estilo de vida: Son personas apasionadas por el tema de la agricultura y las granjas en casa, sin embargo no poseen los conocimientos para iniciar su propio proyecto. | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. Estilo de vida: Son personas dedicadas a la hidroponía, con cierto tiempo de experiencia en el tema, por lo que quieren ofrecer ayuda a los principiantes. |
-| Demográfico     | Edad: Personas mayores de edad. Nivel de Ingreso: No es relevante, ya que depende de los factores que se elijan. Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.                                                    | Edad: Deben ser mayores de edad, preferiblemente mayores de 30 años. Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. Estudios: Debe contar con secundaria completa o superior.                          |
+| Geográfico      | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                                      | País: Perú <br><br> Zona residencial: No es relevante, pueden ser de diferentes zonas del país.                                                                                                                                                                          |
+| Psicográfico    | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. <br><br> Estilo de vida: Son personas apasionadas por el tema de la agricultura y las granjas en casa, sin embargo no poseen los conocimientos para iniciar su propio proyecto. | Clase Social: Mayormente se encuentran desde la clase media baja, hacia clases sociales más elevadas. <br><br> Estilo de vida: Son personas dedicadas a la hidroponía, con cierto tiempo de experiencia en el tema, por lo que quieren ofrecer ayuda a los principiantes. |
+| Demográfico     | Edad: Personas mayores de edad. <br><br> Nivel de Ingreso: No es relevante, ya que depende de los factores que se elijan. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.                                                    | Edad: Deben ser mayores de edad, preferiblemente mayores de 30 años. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. <br><br> Estudios: Debe contar con secundaria completa o superior.                          |
 
 <br><br>
 
@@ -974,6 +984,8 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 ### 4.3.1. Landing Page Wireframe.
 
+En la etapa de diseño de la interfaz de usuario (UI) de la página de destino (landing page), uno de los primeros pasos cruciales es la creación del "Landing Page Wireframe". Este wireframe actúa como el esqueleto inicial de la página, proporcionando una representación estructural y funcional de los elementos clave que compondrán la interfaz final. En este caso presentamos las secciones: Navbar (dentro de Hero), Hero, Services, About, Testimonials, Download y Footer.
+
 Link al Figma: [Figma Wireframe](https://www.figma.com/file/sGF7WJc6aMsS1pPWvWMWLp/Landing-Page---Wireframes?type=design&node-id=0%3A1&mode=design&t=mvFXcGkT2cnZlT3Y-1)
 
 - **Hero:**
@@ -1037,6 +1049,8 @@ A continuación se muestran los wireframes para dispositivos móviles de las mis
 
 ### 4.3.2. Landing Page Mock-up.
 
+En la fase de diseño de la interfaz de usuario de la página de destino (landing page), el siguiente paso fundamental es la creación del "Landing Page Mock-up". Este mock-up representa la materialización visual de nuestra página, brindando una vista detallada y práctica de cómo se verá y funcionará la interfaz final.
+
 - **Navbar & Hero:**
 
 <p style = 'text-align:center;'>
@@ -1090,6 +1104,8 @@ A continuación se muestran los mockus para dispositivos móviles de las mismas 
 
 ### 4.4.1. Web Applications Wireframes.
 
+En el desarrollo de aplicaciones web, los "Wireframes" son herramientas esenciales que proporcionan una representación esquemática y visual de la estructura y diseño de la aplicación. En este contexto, presentamos nuestras "Web Applications Wireframes", que son los planos iniciales de la aplicación web de nuestro proyecto, brindando una vista previa de su diseño y funcionalidad básica. Estos wireframes son una piedra angular en la creación y planificación de la interfaz de usuario, ayudándonos a visualizar y perfeccionar la experiencia del usuario antes de la implementación completa.
+
 <p style = 'text-align:center;'>
   <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149185601002803271/image.png" width="1000">
 </p>
@@ -1129,8 +1145,7 @@ Los "Wireflow Diagrams" representan visualmente cómo los usuarios logran objeti
 </p>
 <br>
 
-Enlace del diagrama:  
-[https://lucid.app/lucidchart/1b3d01fb-00b5-4053-b32e-e060b20e76f9/edit?view_items=mpHs-Ifoft0B%2CmpHsiDKtOwvA%2CmpHsaTTu6khk%2CmpHsaPCphKy4%2CmpHsoO526UuE%2CmpHsnoNa0rGK%2CmpHsBmJ0NgRd%2CmpHsmVKxsxNV%2CmpHsnprsfz_C%2CmpHsmCIy2svS%2C.qHspq2XNNLy%2CmpHsFvLx5-7H%2CmpHsC-t7uvsG%2CmpHsvsyhWlOm%2CmpHsCg7F4wuW%2CmpHs9T2Q~dfG%2CmpHsqvy7Rog5%2CmpHs9_hN97Ob%2CmpHsFaPJdHaW%2CmpHsGS135712%2CHpHsD7kdbVNG&invitationId=inv_06a7e981-5a28-4c28-ab04-0b09b1328fe7](https://lucid.app/lucidchart/1b3d01fb-00b5-4053-b32e-e060b20e76f9/edit?view_items=mpHs-Ifoft0B%2CmpHsiDKtOwvA%2CmpHsaTTu6khk%2CmpHsaPCphKy4%2CmpHsoO526UuE%2CmpHsnoNa0rGK%2CmpHsBmJ0NgRd%2CmpHsmVKxsxNV%2CmpHsnprsfz_C%2CmpHsmCIy2svS%2C.qHspq2XNNLy%2CmpHsFvLx5-7H%2CmpHsC-t7uvsG%2CmpHsvsyhWlOm%2CmpHsCg7F4wuW%2CmpHs9T2Q~dfG%2CmpHsqvy7Rog5%2CmpHs9_hN97Ob%2CmpHsFaPJdHaW%2CmpHsGS135712%2CHpHsD7kdbVNG&invitationId=inv_06a7e981-5a28-4c28-ab04-0b09b1328fe7)
+Enlace del diagrama: [Ver Web Applications Wireflow Diagrams en Figma](https://lucid.app/lucidchart/1b3d01fb-00b5-4053-b32e-e060b20e76f9/edit?view_items=mpHs-Ifoft0B%2CmpHsiDKtOwvA%2CmpHsaTTu6khk%2CmpHsaPCphKy4%2CmpHsoO526UuE%2CmpHsnoNa0rGK%2CmpHsBmJ0NgRd%2CmpHsmVKxsxNV%2CmpHsnprsfz_C%2CmpHsmCIy2svS%2C.qHspq2XNNLy%2CmpHsFvLx5-7H%2CmpHsC-t7uvsG%2CmpHsvsyhWlOm%2CmpHsCg7F4wuW%2CmpHs9T2Q~dfG%2CmpHsqvy7Rog5%2CmpHs9_hN97Ob%2CmpHsFaPJdHaW%2CmpHsGS135712%2CHpHsD7kdbVNG&invitationId=inv_06a7e981-5a28-4c28-ab04-0b09b1328fe7)
 
 **User goal:** Ingresar a la pantalla principal de la aplicación
 <p style = 'text-align:center;'>
@@ -1182,28 +1197,25 @@ Los "Web Applications Mock-ups" representan la siguiente etapa en la evolución 
 </p>
 <br>
 
-
-[Enlace a Figma "Ver Diseños"]()
-
 ### 4.4.4. Web Applications User Flow Diagrams.
 
 - **User Goal:** Ingresar a la pantalla principal de la aplicación
 
 <p style = 'text-align:center;'>
-  <img src="https://media.discordapp.net/attachments/1148057148522233868/1149318183967260712/wf-1.png">
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149380693453967360/Diagrama_en_blanco_7.png">
 </p>
 <br>
-
-Enlace al diagrama: [Ver Diagrama](https://lucid.app/lucidchart/59722d95-caa7-4ff6-89bb-d5a64418a64b/edit?view_items=WnEs35t9lxB5%2CYnEs2b1OeS6c%2C2nEsHhVbXp9s%2C6nEsvhsX1D98%2CFoEsigyZFqTV%2C_oEsSk2Jopoq%2CkpEsIYMXDfIc%2CupEs5lKokJkq%2CwpEs9wVrVhpX%2CypEs7y.b9v8e%2CDpEsV9vxiuNf%2CHpEsHYOOdsvC%2C0pEs_7KHePmh%2CVqEs9pGCh2nt%2CUrEsym6C.gLp%2CusEs_sEL.yWB%2C7sEsF5FbsrcG&invitationId=inv_332207b3-98c3-403b-b9ec-faaa43e526c1)
 
 - **User Goal:** Comprar Curso
 
 <p style = 'text-align:center;'>
-  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149194417169764415/Diagrama_en_blanco_5.png">
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149380163264590015/Diagrama_en_blanco_6.png">
 </p>
 <br>
 
-Enlace al diagrama: [Ver Diagrama](https://lucid.app/lucidchart/59722d95-caa7-4ff6-89bb-d5a64418a64b/edit?viewport_loc=-2185%2C-1332%2C5548%2C2815%2C0_0&invitationId=inv_332207b3-98c3-403b-b9ec-faaa43e526c1)
+Enlace al diagrama: [Ver Diagramas en Figma](https://lucid.app/lucidchart/59722d95-caa7-4ff6-89bb-d5a64418a64b/edit?viewport_loc=-2185%2C-1332%2C5548%2C2815%2C0_0&invitationId=inv_332207b3-98c3-403b-b9ec-faaa43e526c1)
+
+<br>
 
 ### 4.5. Web Applications Prototyping.
 
@@ -1293,7 +1305,7 @@ Enlace del diagrama: [Ver diagrama](https://lucid.app/lucidchart/11cb49ec-ba2e-4
 
 ### 4.7.2. Class Dictionary.
 
-- En el presente diccionario; se mostrarán la utilidad de las clases diseñadas y presentadas en el apartado anterior, así como las relaciones entre cada una de ellas y como estas optimizan sus procesos:
+En el presente diccionario; se mostrarán la utilidad de las clases diseñadas y presentadas en el apartado anterior, así como las relaciones entre cada una de ellas y como estas optimizan sus procesos:
 
   - Person: Esta clase sirve como clase padre para otras 2 clases más. Aquí es donde se indica que tipo de persona está conectada actualmente. Al ser clase padre tendrá atributos que se compartirán con la de sus hijas como el nombre, apellido y demás datos. <br><br>
 
@@ -1339,6 +1351,8 @@ Enlace del diagrama: [Ver diagrama](https://lucid.app/lucidchart/11cb49ec-ba2e-4
 **WhatsApp:** WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede usar para mantenerse en contacto con miembros del equipo y colaborar en cierta medida.
 
 **Zoom:** Zoom es una plataforma de comunicación que ofrece videoconferencias y reuniones en línea. Aunque se utiliza principalmente para comunicarse y realizar reuniones virtuales, también puede ser útil para la gestión de proyectos remotos y la colaboración en tiempo real.
+
+**Desarrollo del Landing Page:** Para el desarrollo del landing page, se decidió hacer uso de herramientas tales como HTML, JS y CSS. Para llevarlo a cabo se eligieron diversas herramientas tecnológicas de las cuales el equipo ya está familiarizado y tiene  dominio.
 
 #### Requirements Management:
 
@@ -1432,9 +1446,8 @@ A continuación, se darán a conocer las convenciones, formatos, estilos y entre
 
   - **Separar los escenarios con comentarios:** Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
 
-  ![Gitflow evidence](https://i.imgur.com/xLKLS21.png)
+  ![Gitflow evidence](https://cdn.discordapp.com/attachments/1148057148522233868/1148113641275670579/image.png)
 
-https://cdn.discordapp.com/attachments/1148057148522233868/1148113641275670579/image.png
 
 ### 5.1.4. Software Deployment Configuration.
 
@@ -1472,6 +1485,13 @@ En esta entrega, hemos realizado nuestra Landing Page. El código realizado se e
 | GW07 | Función de botones     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los botones de la página. Debe ser responsive.  | 3                  | Arnol Cáceres | Done                                   |
 | GW08 | Interfaz Responsive    | G08 | Desarrollo responsive de la página                       | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Paolo Checa   | Done                                   |
 
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149376508817842367/image.png">
+
+</div>
+
+
 Link del trello: https://trello.com/b/4pRdktH4/sprint-1
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
@@ -1486,16 +1506,17 @@ Link del trello: https://trello.com/b/4pRdktH4/sprint-1
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
-
-|
-
 Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EZI9nioV7QtOvsZURheFR6IBDwsCNI6uZxu6Wy6Bu-Xlow?e=c0gYhM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EZI9nioV7QtOvsZURheFR6IBDwsCNI6uZxu6Wy6Bu-Xlow?e=c0gYhM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149378286510673973/image.png">
+
+</div>
+
+Link al video: [Ver video de Ejecución del Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EZI9nioV7QtOvsZURheFR6IBDwsCNI6uZxu6Wy6Bu-Xlow?e=c0gYhM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -1509,11 +1530,17 @@ Para realizar el despliegue automático de nuestra Landing Page, utilizamos la h
 
 Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
-![Pull requests](https://i.imgur.com/ul89bmM.png)
+<div align="center">
 
-https://cdn.discordapp.com/attachments/1148057148522233868/1148382759249793064/image.png
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148382759249793064/image.png">
 
-![Pull requests](https://i.imgur.com/lp5IpGB.png)
+</div>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148382593964838942/image.png">
+
+</div>
 
 
 ## Conclusiones
@@ -1539,3 +1566,53 @@ Carrijo, O. A., Makishima, N., CARRIJO, O. A., & MAKISHIMA, N. (2000). Principio
 Díaz, G. G. (2010). Hidroponía en casa: una actividad familiar. Recuperado de [https://www.mag.go.cr/bibliotecavirtual/F08-8691.pdf](https://www.mag.go.cr/bibliotecavirtual/F08-8691.pdf) [Consulta: 01/09/2023]
 
 El comercio (2019). Alternativas sostenibles para un mejor futuro de la agricultura. El Comercio. Recuperado de [https://archivo.elcomercio.pe/labuenavecindad/comunidad/alternativas-sostenibles-mejor-futuro-agricultura-noticia-1994510](https://archivo.elcomercio.pe/labuenavecindad/comunidad/alternativas-sostenibles-mejor-futuro-agricultura-noticia-1994510) [Consulta: 01/09/2023]
+
+<br><br>
+
+## Anexos
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148057185847361546/logo.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149177510920212501/image.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149177602880327750/image.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149177692592283728/image.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149183900459991090/image.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149188823025197118/image.png">
+
+</div>
