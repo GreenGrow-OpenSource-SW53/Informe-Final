@@ -898,12 +898,12 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
 | :------ | :------------ | :------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- |
 | 1       | UH01          | Registro de personas                                                             | Como usuario deseo registrarme en la página para observar todo lo que me ofrece la aplicación.                                                                   | 3                                |
 | 2       | UH02          | Registro de expertos                                                             | Como experto deseo registrarme en la página para poder escribir artículos acerca de mi área de especialidad y tener mejor control de las publicaciones que haga. | 3                                |
-| 3       | UH03          | Pago de suscripción de cuenta                                                    | Como usuario deseo poder pagar los cursos que la página ofrezca desde la aplicación para que no se me dificulte en otras formas.                                 | 3                                |
-| 4       | UH04          | Observar las distintas informaciones de especialistas con mejores calificaciones | Como usuario deseo poder saber cuales son los artículos actuales con una mejor puntuación y de igual manera con los cursos que ofrecen.                          | 5                                |
-| 5       | UH05          | Visualización de recomendaciones de cursos por parte de los usuarios             | Como usuario quiero visualizar la opinión de otros usuarios hacia los distintos cursos para conocer mejor cuales son los cursos que más valen la pena.           | 5                                |
-| 6       | UH06          | Ver comentarios de usuarios                                                      | Como experto quiero ver las reseñas de mis cursos para ver el recibimiento de los usuarios.                                                                      | 5                                |
-| 7       | UH07          | Registros de los cursos                                                          | Como experto quiero crear mis propios cursos con herramientas que me proporciona la página o con mis propias herramientas.                                       | 3                                |
-| 8       | UH08          | Visualización del Landing pages                                                  | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.                                                     | 3                                |
+| 3       | UH03          | Pago de suscripción de cuenta                                                    | Como usuario deseo poder pagar los cursos que la página ofrezca desde la aplicación para que no se me dificulte en otras formas.                                 | 5                                |
+| 4       | UH04          | Observar las distintas informaciones de especialistas con mejores calificaciones | Como usuario deseo poder saber cuales son los artículos actuales con una mejor puntuación y de igual manera con los cursos que ofrecen.                          | 3                                |
+| 5       | UH05          | Visualización de recomendaciones de cursos por parte de los usuarios             | Como usuario quiero visualizar la opinión de otros usuarios hacia los distintos cursos para conocer mejor cuales son los cursos que más valen la pena.           | 3                                |
+| 6       | UH06          | Ver comentarios de usuarios                                                      | Como experto quiero ver las reseñas de mis cursos para ver el recibimiento de los usuarios.                                                                      | 3                                |
+| 7       | UH07          | Registros de los cursos                                                          | Como experto quiero crear mis propios cursos con herramientas que me proporciona la página o con mis propias herramientas.                                       | 5                                |
+| 8       | UH08          | Visualización del Landing pages                                                  | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.                                                     | 5                                |
 | 9       | UH09          | Visualización de los servicios que ofrecen en el landing page                    | Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.                                                              | 2                                |
 | 10      | UH10          | Visualización de los testimonios de personas sobre la landing page               | Como invitado deseo visualizar los testimonios de distintas personas acerca de la landing page para ver si es lo que busco o no.                                 | 2                                |
 
@@ -1437,7 +1437,7 @@ Para cada commit que se realice, ya sea para el landing page o los archivos .fea
 
 Cada repositorio de código tendrá sus respectivas ramas tal como lo describe Vincent Driessen en su artículo “A successful Git branching model”, donde estará presente la rama Master (que almacenará las versiones estables y finales), Develop (donde se irán integrando los cambios implementados por cada feature y estará en constante actualización), Release (donde se encontrará el código final de las versiones release) y Hotfix.
 
-Además, cada feature desarrollado tendrá su propia rama que seguirá la siguiente convención para el nombre: feature/\<actividad-realizada>
+Además, cada feature desarrollado tendrá su propia rama que seguirá la siguiente convención para el nombre: feature/\<historia-de-usuario>
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -1491,6 +1491,8 @@ A continuación, se darán a conocer las convenciones, formatos, estilos y entre
 
   ![Gitflow evidence](https://cdn.discordapp.com/attachments/1148057148522233868/1148113641275670579/image.png)
 
+Para nuestra implementación, se ha decidido utilizar Gitflow, el cual es un flujo de trabajo de Git que define un modelo de ramificación estricto diseñado en torno a la publicación del proyecto. Esto proporciona un marco sólido para la gestión de versiones, lo que permite a los equipos de desarrollo, como el nuestro, trabajar de forma independiente en características, correcciones de errores y otras tareas sin afectar a otros miembros del equipo. Al hacer uso de Gitflow, podemos aumentar la velocidad de entrega de código, disminuir los errores humanos en la mezcla de las ramas, eliminar la dependencia de funcionalidades al momento de entregar código para ser puesto en producción, entre otros beneficios.
+ 
 
 ### 5.1.4. Software Deployment Configuration.
 
@@ -1606,9 +1608,13 @@ Beltrano, J., & Gimenez, D. O. (2015). Cultivo en hidroponía. Editorial de la U
 
 Carrijo, O. A., Makishima, N., CARRIJO, O. A., & MAKISHIMA, N. (2000). Principios de hidroponia. Recuperado de [https://www.infoteca.cnptia.embrapa.br/bitstream/doc/769981/1/CNPHDOCUMENTOS22PRINCIPIOSDEHIDROPONIA.pdf](https://www.infoteca.cnptia.embrapa.br/bitstream/doc/769981/1/CNPHDOCUMENTOS22PRINCIPIOSDEHIDROPONIA.pdf) [Consulta: 01/09/2023]
 
+del Campo González, F. F., Millán, C. C. G., & Sullivan, S. A. (2022). Métodos de Cultivo Para Producir Alimentos en Casa Durante el Año Internacional de las Frutas y Verduras. Recuperado de [https://www.esfm.ipn.mx/assets/files/esfm/docs/jornadas/Revista-JADC-V-ch.pdf#page=23](https://www.esfm.ipn.mx/assets/files/esfm/docs/jornadas/Revista-JADC-V-ch.pdf#page=23) [Consulta: 22/09/2023]
+
 Díaz, G. G. (2010). Hidroponía en casa: una actividad familiar. Recuperado de [https://www.mag.go.cr/bibliotecavirtual/F08-8691.pdf](https://www.mag.go.cr/bibliotecavirtual/F08-8691.pdf) [Consulta: 01/09/2023]
 
 El comercio (2019). Alternativas sostenibles para un mejor futuro de la agricultura. El Comercio. Recuperado de [https://archivo.elcomercio.pe/labuenavecindad/comunidad/alternativas-sostenibles-mejor-futuro-agricultura-noticia-1994510](https://archivo.elcomercio.pe/labuenavecindad/comunidad/alternativas-sostenibles-mejor-futuro-agricultura-noticia-1994510) [Consulta: 01/09/2023]
+
+Salas, M. F. (2020). Identificación de los factores que determinan la calidad del agua en los cultivos hidropónicos. Recuperado de [https://repository.unad.edu.co/bitstream/handle/10596/34845/mfsalas.pdf?sequence=1&isAllowed=y](https://repository.unad.edu.co/bitstream/handle/10596/34845/mfsalas.pdf?sequence=1&isAllowed=y) [Consulta: 22/09/2023]
 
 <br><br>
 
