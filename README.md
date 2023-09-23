@@ -720,6 +720,8 @@ Leonel nos cuenta que su familia tiene un negocio familiar relacionado a la hidr
 - **Personalización y adaptabilidad:** Sebastián menciona la importancia de que la información y las herramientas sean adaptables a las condiciones locales, incluyendo factores climáticos y de humedad.
 - **Aplicación o plataforma educativa:** En todas las entrevistas, se sugiere la idea de una aplicación o plataforma en línea que brinde información, guías paso a paso y facilite la conexión con comunidades.
 
+En resumen, los entrevistados en el segmento de personas que desean iniciar en la hidroponía comparten un interés genuino por esta práctica como una forma de escape de la rutina y mejora de habilidades, pero enfrentan desafíos debido a limitaciones de tiempo y dificultades para encontrar información de calidad. Además resaltan de que prefieren la hidroponía debido a que ocupa poco espacio para realizarse. cosa que puede afirmarse según UPB Sostenible(2021), este método de cultivo tiene la capacidad de satisfacer tus requerimientos alimenticios, independientemente del tamaño de tu residencia, ya que permite una mayor densidad de plantas por unidad de longitud, dado que estas no compiten por los nutrientes y pueden desarrollarse en proximidad.
+
 **Segmento 2: Expertos que desean brindar sus conocimientos a los principiantes**
 
 Las entrevistas presentan similitudes en términos de la temática central y los puntos clave que los entrevistados discuten:
@@ -752,6 +754,8 @@ Los User Personas son fundamentales para el éxito del proyecto GreenGrow, ya qu
   <img src="https://i.imgur.com/Q9gcD49.png">
 
 </div>
+<br>
+
 ### 2.3.2. User Task Matrix
 
 En esta User Task Matrix, se describen las tareas típicas que realizan los dos segmentos de usuarios: personas que deseen iniciar en la hidroponía y expertos que desean brindar sus conocimientos. Se evalúa la frecuencia y la severidad de cada tarea, lo que ayuda a priorizar y entender cuáles son las áreas clave en las que el producto GreenGrow podría intervenir para satisfacer las necesidades y los objetivos de ambos segmentos.
@@ -1615,6 +1619,8 @@ Díaz, G. G. (2010). Hidroponía en casa: una actividad familiar. Recuperado de 
 El comercio (2019). Alternativas sostenibles para un mejor futuro de la agricultura. El Comercio. Recuperado de [https://archivo.elcomercio.pe/labuenavecindad/comunidad/alternativas-sostenibles-mejor-futuro-agricultura-noticia-1994510](https://archivo.elcomercio.pe/labuenavecindad/comunidad/alternativas-sostenibles-mejor-futuro-agricultura-noticia-1994510) [Consulta: 01/09/2023]
 
 Salas, M. F. (2020). Identificación de los factores que determinan la calidad del agua en los cultivos hidropónicos. Recuperado de [https://repository.unad.edu.co/bitstream/handle/10596/34845/mfsalas.pdf?sequence=1&isAllowed=y](https://repository.unad.edu.co/bitstream/handle/10596/34845/mfsalas.pdf?sequence=1&isAllowed=y) [Consulta: 22/09/2023]
+
+UPB Sostenible (2021, mayo 4). Cultivos hidropónicos en casa, alternativas sostenibles. UPB . Recuperado de: [https://www.upb.edu.co/es/central-blogs/sostenibilidad/cultivos-hidroponicos-en-casa](https://www.upb.edu.co/es/central-blogs/sostenibilidad/cultivos-hidroponicos-en-casa) [Consulta: 23/09/2023]
 
 <br><br>
 
