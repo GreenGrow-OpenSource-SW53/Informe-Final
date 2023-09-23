@@ -733,6 +733,10 @@ Las entrevistas presentan similitudes en términos de la temática central y los
 - **Enfoque en la Educación y el Desarrollo de Principiantes:** Todos ellos reconocen la dificultad y el desconocimiento que enfrentan los principiantes en el campo de la agricultura. Ambos entrevistados están motivados por ayudar a los principiantes a aprender y desarrollarse, brindándoles la orientación y la información necesaria.
 - **Interés en Contribuir a la Expertise:** Todos los entrevistados ven la oportunidad de contribuir a la formación de nuevos expertos en el campo agrícola. Paolo Espejo quiere que los principiantes evolucionen hasta convertirse en expertos, y Karina Campos quiere enseñar sobre la hidroponía y otros cuidados específicos.
 
+En el segmento de expertos que desean compartir sus conocimientos con principiantes, se destaca una fuerte conexión con la agricultura y el cultivo de plantas, impulsada en gran medida por influencias familiares y pasiones personales. Los entrevistados comparten un deseo genuino de ayudar a los principiantes a evitar errores y progresar en el campo agrícola. Asimismo, según Agencia Agraria(2023), el aumento del uso de sistemas hidropónicos para la producción agrícola y su efectividad, le han dado un salto de popularidad a esta técnica, muchas personas se han especializado en este sector en específico y muchos se han interesado en iniciar a realizar esto por sí mismos. Por ello,  la necesidad de una plataforma de comunicación y enseñanza para lograr este objetivo es evidente, con un enfoque claro en la educación y el desarrollo de los principiantes. Todos los entrevistados ven la oportunidad de contribuir al crecimiento de nuevos expertos en agricultura y están motivados por esa perspectiva.
+
+<br>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
@@ -1621,6 +1625,8 @@ El comercio (2019). Alternativas sostenibles para un mejor futuro de la agricult
 Salas, M. F. (2020). Identificación de los factores que determinan la calidad del agua en los cultivos hidropónicos. Recuperado de [https://repository.unad.edu.co/bitstream/handle/10596/34845/mfsalas.pdf?sequence=1&isAllowed=y](https://repository.unad.edu.co/bitstream/handle/10596/34845/mfsalas.pdf?sequence=1&isAllowed=y) [Consulta: 22/09/2023]
 
 UPB Sostenible (2021, mayo 4). Cultivos hidropónicos en casa, alternativas sostenibles. UPB . Recuperado de: [https://www.upb.edu.co/es/central-blogs/sostenibilidad/cultivos-hidroponicos-en-casa](https://www.upb.edu.co/es/central-blogs/sostenibilidad/cultivos-hidroponicos-en-casa) [Consulta: 23/09/2023]
+
+Agencia Agraria (2023, junio 19). Las nuevas variedades y la hidroponía impulsarán el sector del arándano en Perú .Agencia Agraria de Noticias. Recuperado 23 de septiembre de 2023, de [https://agraria.pe/noticias/las-nuevas-variedades-y-la-hidroponia-impulsaran-el-sector-d-32209](https://agraria.pe/noticias/las-nuevas-variedades-y-la-hidroponia-impulsaran-el-sector-d-32209) [Consulta: 23/09/2023]
 
 <br><br>
 
