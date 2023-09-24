@@ -1600,15 +1600,15 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 ## Conclusiones
 
-- Con el análisis de competidores podemos conocer nuestras fortalezas y debilidades, para poder ofrecer un producto que cumplan con las necesidades del usuario.<br><br>
+- Mediante el análisis de competidores, hemos obtenido una visión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha brindado una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.<br><br>
 
-- Hemos utilizado diversas herramientas como user personas, empathy maps, user journey maps, as-is, to-be, product backlog, diagramas y diseños de base de datos, etc. para crear nuestra aplicación y asegurarnos de que satisfaga las necesidades de nuestros usuarios.<br><br>
+- Para el desarrollo de nuestra aplicación, hemos empleado una amplia gama de herramientas, como user personas, empathy maps, user journey maps, análisis as-is y to-be, product backlog, así como la creación de diagramas y diseños de base de datos, entre otras. Esta exhaustiva metodología de trabajo garantiza que nuestra aplicación esté diseñada de manera óptima y alineada con las expectativas de nuestros usuarios.<br><br>
 
-- Las entrevistas a los usuarios fueron importantes para entender de primera mano cuales son sus necesidades verdaderas, para intentar solventarlas con nuestra propuesta.<br><br>
+- Las entrevistas con los usuarios desempeñaron un papel fundamental en nuestra investigación. Estas conversaciones directas nos proporcionaron una comprensión profunda de las verdaderas necesidades de nuestros usuarios, lo que nos permitió abordarlas de manera efectiva a través de nuestra propuesta. Las voces de los usuarios han sido el motor impulsor de nuestro proceso de desarrollo.<br><br>
 
-- Al realizar esta primera entrega pudimos realizar distintas propuestas  para obtener distinta soluciones a partir de nuestra problematica. Ademas se tuvo que indagar como podriamos satisfacer esas necesidades que requierian nuestros segmentos objetivos.<br><br>
+- La primera entrega del proyecto no solo nos permitió presentar soluciones iniciales, sino que también nos brindó la oportunidad de explorar diversas alternativas para abordar nuestra problemática. Fue un momento de reflexión en el que buscamos satisfacer las necesidades de nuestros segmentos objetivo de manera innovadora y efectiva.<br><br>
 
-- Con el análisis de competidores y las entrevistas, hemos logrado identificar los elementos clave que serán abordados en este informe. Hemos explorado diversos aspectos, con un enfoque particular en la problemática que estamos buscando resolver.<br><br>
+- A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
 
 
