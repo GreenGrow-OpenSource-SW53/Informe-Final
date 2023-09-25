@@ -1512,7 +1512,7 @@ En esta entrega, hemos realizado nuestra Landing Page. El código realizado se e
 
 ### 5.2.1. Sprint 1
 
-### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.1. Sprint Planning 1.
 
 | Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1597,6 +1597,127 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 </div>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1.Sprint Planning 2.
+
+| Sprint 1                         | Implementación de la primera versión del Front-End                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 23/09/2023                                                                                                                                      |
+| Time                             | 17:00                                                                                                                                           |
+| Location                         | Reunión realizada mediante Discord                                                                                                              |
+| Prepared By                      | Checa Apolinario, Paolo Sebastián                                                                                                               |
+| PAttendees (to planning meeting) | Checa Apolinario, Paolo Sebastián/Rodríguez Peña, Jorge Andrés /Pozo Campos, Rodrigo Jair /Arenas Conde, José Anthony/Cáceres Bueno, Arnol Omar |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
+| Sprint 1 Velocity                |                                                                                                                                               |
+| Sum of Story Points              |                                                                                                                                               |
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GWS01 | View Home    | GS01 |Vista Home (Desarrollado con el framework Angular)         | Desarrollo e implementación de la vista Home, con su estilos correspondientes      | 5                  | Paolo Checa  | Done                                   |
+| GWS02 | View Log In    | GS02 | Vista del Log-In (Desarrollado con el framework Angular)         | Implementación del screen Log-In, con sus estilos correspondientes   | 5                  | José Arenas | Done                                   |
+| GWS03 | View Sign Up          | GS03 | Vista del Sign-up (Desarrollado con el framework Angular)                             | Implementación del screen Sign-up, con sus estilos correspondientes           | 5                  | José Arenas   | Done                                   |
+| GWS04 | View Courses    | GS04 | Vista Cursos de la página web                             | Implementación de la vista cursos, con sus estilos correspondientes    | 5                  | Rodrigo Pozo  | Done                                   |
+| GWS05 | View Articles           | GS05 | Vista Artículos (Desarrollado con el framework Angular)        | Desarrollo e implementación de la vista Artículos con sus funciones y estilos correspondientes.    | 5                  | Franco Yance   | Done                                   |
+| GWS06 | View Community | GS06 | Vista Comunidad (Desarrollado con el framework Angular)      | Desarrollo e implementación de la vista Comunidad con sus funciones y estilos correspondientes. | 5                  | Arnol Cáceres  | Done                                   |
+| GWS07 | Función Pago     | GS07 | Función de Pago de Cursos (Desarrollado con el framework Angular) | Desarrollo e implementación de la Función de Pago de cursos, con sus características y estilos correspondientes.  | -                  | José Arenas | In Process                                   |
+| GWS08 | Función Agregar Curso    | GS08 | Función de Agregar Cursos de Expertos (Desarrollado con el framework Angular)                       | Desarrollo e implementación de la Función de Pago de Agregar Cursos, con sus características y estilos correspondientes.                                        | -                  | Paolo Checa   | In Process                                   |
+| GWS09 | Función Compra de Insumos    | GS09 | Función de Compra de insumos (Desarrollado con el framework Angular)                       | Desarrollo e implementación de la Función de compra de insumos, con sus características y estilos correspondientes.                                        | -                  | Arnol Cáceres   | In Process                                   |
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155655958584893481/image.png">
+
+</div>
+
+Link del Trello: https://trello.com/b/F7Y5eEE6/sprint-2
+
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| greengrow-app | feature/Home | c081a5e   | feature: home | -                   | 22/09/2023         |
+| greengrow-app | feature/courses                    | 0877f08   | feature: courses      | -                   | 22/09/2023         |
+| greengrow-app | feature/log-in and sign-up                            | fd8988b   | feature: log-in and sign-up                | -                   | 22/09/2023         |
+| greengrow-app | feature/Articles                               | d2b2186   | feature: articles                   | -                   | 23/09/2023         |
+| greengrow-app | features/comunidad                         | 677fd29   | feature: comunnity             | -                   | 24/09/2023         |
+| greengrow-app | features/Bounded Context                         | 9d0a719   | feature: bounded context             | -                   | 24/09/2023         |
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+A continuación, se muestra la evidencia en forma de capturas sobre el testeo de nuestro Front-End.
+
+Tenemos la compilación en consola, la cual se completó satisfactoriamente.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155524975051145307/image.png">
+
+</div>
+
+<br>
+
+Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que se ha desarrollado.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155525081037025401/image.png">
+
+</div>
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155659106561052712/image.png">
+
+</div>
+
+<br>
+
+Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EfVdeI7PusNEksSttGu2YI8BMWOUU7cKu9s5h6EEBOUXDw?e=ljykhK)
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Para este Sprint realizado, se hizo únicamente la implementación de la sección Front-end de nuestro proyecto, por lo que no se incluyó este punto.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Google Firebase, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://deploy-greengrow.firebaseapp.com/home 
+
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155611237447631050/image.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155611606361854112/image.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155620193398173696/image.png">
+
+</div>
+
 
 ## Conclusiones
 
@@ -1610,6 +1731,7 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
+- El despliegue utilizando Google Firebase representa una solución altamente efectiva y conveniente para los desarrolladores de aplicaciones web y móviles. Esta plataforma integral ofrece una combinación de facilidad de uso, escalabilidad y seguridad que simplifica significativamente el proceso de desarrollo y despliegue. La capacidad de Firebase para gestionar una amplia gama de servicios, su alojamiento en la infraestructura confiable de Google Cloud y sus herramientas de análisis hacen que sea una elección sólida para crear y lanzar aplicaciones de alta calidad de manera eficiente.<br><br>
 
 
 ## Bibliografía
