@@ -13,7 +13,7 @@ Ciclo 2023-02
 
 # <center>Desarrollo de Aplicaciones Open Source</center>
 
-## TB1 REPORT
+## TP1 REPORT
 
 **Sección:** SW53
 
@@ -35,9 +35,9 @@ Ciclo 2023-02
 
 <br>
 
-Link al video de exposición: [Video de Exposición TB1 - GreenGrow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EUqCgfSy9CdHs-dZlVDLxkQBxAsyxVtoeCQ7-fWxN2sm8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Pc1d1y)
+Link al video de exposición: [Video de Exposición TB1 - GreenGrow]()
 
-Agosto del 2023
+Septiembre del 2023
 
 <br><br>
 
@@ -47,13 +47,14 @@ Agosto del 2023
 
 | Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 06/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los Capitulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design |
+|   TB1   | 06/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los Capítulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design |
+| TP1 | 25/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los puntos del Capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
 
 <br><br>
 
 # Project Report Collaboration Insights
 
-- TB1: Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
+- **TB1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
 
     Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GreenGrow-OpenSource-SW53/Informe-Final)
 
@@ -73,6 +74,34 @@ Agosto del 2023
 
     <div align=center>
       <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149370395296813166/image.png"/>
+    </div>
+
+<br>
+
+- **TP1:** Para esta entrega, realizamos como equipo las actividades correspondientes al capítulo asignado en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GreenGrow-OpenSource-SW53/Informe-Final)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 2
+    - Sprint Planning 2
+    - Sprint Backlog 2
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155954397478649946/image.png"/>      
+    </div>
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155954731273957426/image.png"/>
     </div>
 
 <br><br>
@@ -174,6 +203,16 @@ Agosto del 2023
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
+  - [5.2.2. Sprint 2](#521-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
 ### [Conclusiones](#conclusiones)
 
 ### [Bibliografía](#bibliografía)
@@ -186,8 +225,8 @@ Agosto del 2023
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | TB1 <br><br> Checa Apolinario, Paolo Sebastián <br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> Arenas Conde, José Anthony <br> - Se realizó una investigación para comprender el problema que estamos abordando y así identificar a los segmentos objetivos, para poder reconocer sus necesidades y ofrecer un producto que las satisfaga. <br><br> Pozo Campos, Rodrigo Jair <br> - Se investigó acerca de las partes involucradas en el tema de nuestro trabajo. Además se tuvo que plantear distintas soluciones acorde a nuestro curso para obtener un resultado final. <br><br> Cáceres Bueno, Arnol Omar <br> - Se llevó a cabo una investigación para comprender a fondo el contexto del proyecto para identificar los desafíos clave. Además, se desarrolló un análisis detallado de las soluciones existentes en el mercado para destacar las oportunidades de innovación. <br><br> Yance Gutierrez, Franco Felix <br> - Se llevó a cabo un estudio con el propósito de comprender a fondo el desafío que estamos abordando. Esto nos permitió identificar a los grupos de personas a los que nos dirigimos, comprender sus necesidades específicas y desarrollar un producto que las satisfaga. | TB1 <br> Elegimos un servicio acerca de hidroponía en casa, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br> Checa Apolinario, Paolo Sebastián <br> - Plasmamos nuestras ideas en nuestro plan de solución para el desarrollo de nuestro servicio. <br><br> Arenas Conde, José Anthony <br> - Se realizó un informe con distintos puntos importantes para la realización del proyecto, desde una investigación de la problemática, hasta algunos prototipos de solución. <br><br> Pozo Campos, Rodrigo Jair <br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br> Cáceres Bueno, Arnol Omar <br> - Se elaboró un informe completo que abarcó desde la descripción del problema hasta la presentación de estrategias y recomendaciones concretas para abordarlo. Este informe se estructuró de manera clara y objetiva. <br><br> Yance Gutierrez, Franco Felix <br> - Se generó un informe exhaustivo que englobó desde la exposición detallada del problema hasta la formulación de estrategias y recomendaciones específicas para su solución.                                                                                                                                                                                                          | TB1 <br> Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios.           |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | TB1 <br><br> Checa Apolinario, Paolo Sebastián <br> - Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br> Arenas Conde, José Anthony <br> - Se realizó una investigación para comprender el problema que estamos abordando y así identificar a los segmentos objetivos, para poder reconocer sus necesidades y ofrecer un producto que las satisfaga. <br><br> Pozo Campos, Rodrigo Jair <br> - Se investigó acerca de las partes involucradas en el tema de nuestro trabajo. Además se tuvo que plantear distintas soluciones acorde a nuestro curso para obtener un resultado final. <br><br> Cáceres Bueno, Arnol Omar <br> - Se llevó a cabo una investigación para comprender a fondo el contexto del proyecto para identificar los desafíos clave. Además, se desarrolló un análisis detallado de las soluciones existentes en el mercado para destacar las oportunidades de innovación. <br><br> Yance Gutierrez, Franco Felix <br> - Se llevó a cabo un estudio con el propósito de comprender a fondo el desafío que estamos abordando. Esto nos permitió identificar a los grupos de personas a los que nos dirigimos, comprender sus necesidades específicas y desarrollar un producto que las satisfaga. <br><br> TP1 <br><br> Checa Apolinario, Paolo Sebastián <br> - Desarrollamos nuestro Front-End bajo el framework Angular, considerando nuestro Bounded Context correspondientes. <br><br> Arenas Conde, José Anthony <br><br> - Se realizó el frontend usando los criterios del framework Angular, siempre siguiendo los Bounded Context creados con anterioridad.  | TB1 <br> Elegimos un servicio acerca de hidroponía en casa, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 <br> Realizamos nuestro Front-End en base a nuestra visión y proyecto planteado, respetando las convenciones establecidas. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 <br><br> Checa Apolinario, Paolo Sebastián <br> - Plasmamos nuestras ideas en nuestro plan de solución para el desarrollo de nuestro servicio. <br><br> Arenas Conde, José Anthony <br> - Se realizó un informe con distintos puntos importantes para la realización del proyecto, desde una investigación de la problemática, hasta algunos prototipos de solución. <br><br> Pozo Campos, Rodrigo Jair <br> - Se investigó de los principales competidores de nuestra aplicación. Además se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br> Cáceres Bueno, Arnol Omar <br> - Se elaboró un informe completo que abarcó desde la descripción del problema hasta la presentación de estrategias y recomendaciones concretas para abordarlo. Este informe se estructuró de manera clara y objetiva. <br><br> Yance Gutierrez, Franco Felix <br> - Se generó un informe exhaustivo que englobó desde la exposición detallada del problema hasta la formulación de estrategias y recomendaciones específicas para su solución.  <br><br> TP1 <br> <br> Checa Apolinario, Paolo Sebastián <br> - Trabajamos en conjunto respetando el flujo de trabajo en Git, desarrollando diversas ramas para la implementación del código.                                                                                                                                                                                                        | TB1 <br> Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios. <br><br> TP1 <br> Nos informamos sobre la realización del despliegue de nuestro Front-End, para poder alojar nuestro desarrollo en un servidor.          |
 
 <br><br>
 
@@ -720,7 +759,7 @@ Leonel nos cuenta que su familia tiene un negocio familiar relacionado a la hidr
 - **Personalización y adaptabilidad:** Sebastián menciona la importancia de que la información y las herramientas sean adaptables a las condiciones locales, incluyendo factores climáticos y de humedad.
 - **Aplicación o plataforma educativa:** En todas las entrevistas, se sugiere la idea de una aplicación o plataforma en línea que brinde información, guías paso a paso y facilite la conexión con comunidades.
 
-En resumen, los entrevistados en el segmento de personas que desean iniciar en la hidroponía comparten un interés genuino por esta práctica como una forma de escape de la rutina y mejora de habilidades, pero enfrentan desafíos debido a limitaciones de tiempo y dificultades para encontrar información de calidad. Además resaltan de que prefieren la hidroponía debido a que ocupa poco espacio para realizarse. cosa que puede afirmarse según UPB Sostenible(2021), este método de cultivo tiene la capacidad de satisfacer tus requerimientos alimenticios, independientemente del tamaño de tu residencia, ya que permite una mayor densidad de plantas por unidad de longitud, dado que estas no compiten por los nutrientes y pueden desarrollarse en proximidad.
+En resumen, los entrevistados en el segmento de personas que desean iniciar en la hidroponía comparten un interés genuino por esta práctica como una forma de escape de la rutina y mejora de habilidades, pero enfrentan desafíos debido a limitaciones de tiempo y dificultades para encontrar información de calidad. Además resaltan de que prefieren la hidroponía debido a que ocupa poco espacio para realizarse. cosa que puede afirmarse según UPB Sostenible (2021), este método de cultivo tiene la capacidad de satisfacer tus requerimientos alimenticios, independientemente del tamaño de tu residencia, ya que permite una mayor densidad de plantas por unidad de longitud, dado que estas no compiten por los nutrientes y pueden desarrollarse en proximidad.
 
 **Segmento 2: Expertos que desean brindar sus conocimientos a los principiantes**
 
@@ -733,7 +772,7 @@ Las entrevistas presentan similitudes en términos de la temática central y los
 - **Enfoque en la Educación y el Desarrollo de Principiantes:** Todos ellos reconocen la dificultad y el desconocimiento que enfrentan los principiantes en el campo de la agricultura. Ambos entrevistados están motivados por ayudar a los principiantes a aprender y desarrollarse, brindándoles la orientación y la información necesaria.
 - **Interés en Contribuir a la Expertise:** Todos los entrevistados ven la oportunidad de contribuir a la formación de nuevos expertos en el campo agrícola. Paolo Espejo quiere que los principiantes evolucionen hasta convertirse en expertos, y Karina Campos quiere enseñar sobre la hidroponía y otros cuidados específicos.
 
-En el segmento de expertos que desean compartir sus conocimientos con principiantes, se destaca una fuerte conexión con la agricultura y el cultivo de plantas, impulsada en gran medida por influencias familiares y pasiones personales. Los entrevistados comparten un deseo genuino de ayudar a los principiantes a evitar errores y progresar en el campo agrícola. Asimismo, según Agencia Agraria(2023), el aumento del uso de sistemas hidropónicos para la producción agrícola y su efectividad, le han dado un salto de popularidad a esta técnica, muchas personas se han especializado en este sector en específico y muchos se han interesado en iniciar a realizar esto por sí mismos. Por ello,  la necesidad de una plataforma de comunicación y enseñanza para lograr este objetivo es evidente, con un enfoque claro en la educación y el desarrollo de los principiantes. Todos los entrevistados ven la oportunidad de contribuir al crecimiento de nuevos expertos en agricultura y están motivados por esa perspectiva.
+En el segmento de expertos que desean compartir sus conocimientos con principiantes, se destaca una fuerte conexión con la agricultura y el cultivo de plantas, impulsada en gran medida por influencias familiares y pasiones personales. Los entrevistados comparten un deseo genuino de ayudar a los principiantes a evitar errores y progresar en el campo agrícola. Asimismo, según Agencia Agraria (2023), el aumento del uso de sistemas hidropónicos para la producción agrícola y su efectividad, le han dado un salto de popularidad a esta técnica, muchas personas se han especializado en este sector en específico y muchos se han interesado en iniciar a realizar esto por sí mismos. Por ello,  la necesidad de una plataforma de comunicación y enseñanza para lograr este objetivo es evidente, con un enfoque claro en la educación y el desarrollo de los principiantes. Todos los entrevistados ven la oportunidad de contribuir al crecimiento de nuevos expertos en agricultura y están motivados por esa perspectiva.
 
 <br>
 
@@ -874,6 +913,7 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
 |EP003|Opciones relacionadas a la cuenta del experto.|Como experto deseo poder crearme una cuenta asi como poder publicar artículos y cursos de temas de donde me especializo, además de poder potenciar mi cuenta una suscripción..|
 |EP004|Definición de estructura del landing page |Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación web |
 |EP005|Definición de estructura del Front-End |Como usuario deseo disponer de una pagina funcional donde pueda registrarme y utilizar los distintos servicios que esta ofrece |
+
 <br><br>
 
 | Epic / Story ID | Título | Descripción |Criterios de Aceptación |Relacionado con (Epic ID)|
@@ -892,6 +932,7 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
 |**US12**|Visualización de los articulos en la pagina web |Como usuario quero visualizar los articulos de los expertos en la pagina web|**Escenario 1: El usuario visualiza los articulos de la página web.<br>** **Dado** que el se encuentra en la vista home   **Cuando** hace click en la vista Articulos en el navbar **Entonces** sera redirigido a la ventana Articulos donde podra visualizar todos los articulos de los expertos <br> **Escenario 2:  El usuario no puede visualizar los articulos de la página web.<br>** **Dado** que el se encuentra en la vista home   **Cuando** hace click en la vista Articulos en el navbar y no puede visualizar los articulos disponibles **Entonces** no sera redirigido a la ventana Articulos donde no podra visualizar todos los articulos de los expertos|EP005|
 |**US13**|Visualización de las comunidades en la pagina web |Como usuario quero visualizar las disitntas comunidades que existan en la página web|**Escenario 1: El usuario visualiza las comunidades que existen en la página web.<br>** **Dado** que el se encuentra en la vista home   **Cuando** hace click en la vista Comunidad en el navbar **Entonces** sera redirigido a la ventana Comunidades donde podra visualizar todas las comunidades creadas por otros usuarios. <br> **Escenario 2:  El usuario no puede visualizar las comunidades de la página web.<br>** **Dado** que el se encuentra en la vista home   **Cuando** hace click en la vista Comunidad en el navbar y no puede visualizar las comunidades existentes **Entonces** no sera redirigido a la ventana Comunidad donde no podra visualizar todas las comunidades|EP005|
 |**US14**|Función para Agregar Curso |Como experto deseo tener una forma de poder crear mis propios cursos|**Escenario 1: El experto visualiza la vista para la creación de un curso.<br>** **Dado** que el experto se encuentra en la vista Cursos   **Cuando** hace click en el boton Agregar Curso **Entonces** sera redirigido a la ventana Agregar Curos donde podra rellenar las distintos cosas que pide la página para la creación del curso. <br> **Escenario 2:El experto no visualiza la vista para la creación de un curso.<br>** **Dado** que el experto se encuentra en la vista Cursos   **Cuando** hace click en el boton Agregar Curso y no le redirige a la pantalla para la creación del curso**Entonces** no podra rellenar las distintos espacios que pide la página para la creación del curso. |EP003|
+
 <br><br>
 
 ## 3.3 Impact Mapping
@@ -916,6 +957,10 @@ Los escenarios AS-IS son esenciales para el proyecto GreenGrow, ya que brindan u
 | 8       | UH08          | Visualización del Landing pages                                                  | Como usuario en busca de información deseo visualizar toda la información y así ver lo que ofrece la página.                                                     | 5                                |
 | 9       | UH09          | Visualización de los servicios que ofrecen en el landing page                    | Como invitado deseo visualizar los beneficios de la página, así como los servicios que esta ofrece.                                                              | 2                                |
 | 10      | UH10          | Visualización de los testimonios de personas sobre la landing page               | Como invitado deseo visualizar los testimonios de distintas personas acerca de la landing page para ver si es lo que busco o no.                                 | 2                                |
+| 11      | UH11          | Visualización de los cursos en la pagina web                                     | Como usuario quero visualizar los cursos que se encuentran disponibles en la pagina web                                                                          | 3                                |
+| 12      | UH12          | Visualización de los articulos en la pagina web                                  | Como usuario quero visualizar los articulos de los expertos en la pagina web                                                                                     | 3                                |
+| 13      | UH13          | Visualización de las comunidades en la pagina web                                | Como usuario quero visualizar las disitntas comunidades que existan en la página web                                                                             | 3                                |
+| 14      | UH14          | Función para Agregar Curso                                                       | Como experto deseo tener una forma de poder crear mis propios cursos                                                                                             | 5                                |
 
 <br>
 
@@ -1387,7 +1432,7 @@ En el presente diccionario; se mostrarán la utilidad de las clases diseñadas y
 ### 4.8.1. Database Diagram.
 
 <p style = 'text-align:center;'>
-  <img src="https://i.imgur.com/iz2EHlW.png ">
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155916658129522739/image.png">
 </p>
 <br>
 
@@ -1439,7 +1484,7 @@ Para mantener el orden al desarrollar una solución y evitar conflictos o superp
 
 1. Repositorio para el landing page: https://github.com/GreenGrow-OpenSource-SW53/landing-page/tree/release/1.0
 2. Repositorio para los tests de aceptación: https://github.com/GreenGrow-OpenSource-SW53/acceptance-test
-3. Repositorio de la aplicación web: **En desarrollo**
+3. Repositorio de la aplicación web: https://github.com/GreenGrow-OpenSource-SW53/greengrow-app/tree/release/1.0
 
 Para la implementación de Gitflow, se llevará a cabo de la siguiente manera:
 
@@ -1608,11 +1653,11 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 | Time                             | 17:00                                                                                                                                           |
 | Location                         | Reunión realizada mediante Discord                                                                                                              |
 | Prepared By                      | Checa Apolinario, Paolo Sebastián                                                                                                               |
-| PAttendees (to planning meeting) | Checa Apolinario, Paolo Sebastián/Rodríguez Peña, Jorge Andrés /Pozo Campos, Rodrigo Jair /Arenas Conde, José Anthony/Cáceres Bueno, Arnol Omar |
+| Pattendees (to planning meeting) | Checa Apolinario, Paolo Sebastián / Rodríguez Peña, Jorge Andrés / Pozo Campos, Rodrigo Jair / Arenas Conde, José Anthony / Cáceres Bueno, Arnol Omar |
 | **Sprint Goal & User Stories**   |
-| Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
-| Sprint 1 Velocity                |                                                                                                                                               |
-| Sum of Story Points              |                                                                                                                                               |
+| Sprint 2 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
+| Sprint 2 Velocity                |     37                                                                                                                                          |
+| Sum of Story Points              |     35                                                                                                                                          |
 
 #### 5.2.2.2.Sprint Backlog 2.
 
@@ -1732,6 +1777,8 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
 - El despliegue utilizando Google Firebase representa una solución altamente efectiva y conveniente para los desarrolladores de aplicaciones web y móviles. Esta plataforma integral ofrece una combinación de facilidad de uso, escalabilidad y seguridad que simplifica significativamente el proceso de desarrollo y despliegue. La capacidad de Firebase para gestionar una amplia gama de servicios, su alojamiento en la infraestructura confiable de Google Cloud y sus herramientas de análisis hacen que sea una elección sólida para crear y lanzar aplicaciones de alta calidad de manera eficiente.<br><br>
+
+- Gracias a la realización de esta TP pudimos observar cuales son los puntos fuertes y débiles de nuestro proyecto. Mientras que realizamos el front-end de nuestra página nos cercioramos que esta cumpla con los estándares que requieren las páginas actuales. Así como tratar todo lo posible de que esta sea responsive y que la experiencia del usuario cuando navegue por nuestra página sea de la mejor manera. Además hemos podido organizarnos mejor para cumplir con las correcciones que tuvimos de la anterior entrega para que esta pueda ser una versión mejorada y con un mejor desarrollo.
 
 
 ## Bibliografía
