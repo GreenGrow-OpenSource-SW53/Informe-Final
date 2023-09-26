@@ -1732,7 +1732,14 @@ Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.share
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-Para este Sprint realizado, se hizo únicamente la implementación de la sección Front-end de nuestro proyecto, por lo que no se incluyó este punto.
+| Endpoint | Detalles |
+| - | - | 
+| /home| En esta ruta se muestra la primera vista del servicio | 
+| /articles | En esta ruta se muestran los artículos sobre hidroponía y agricultura | 
+| /courses  | En esta ruta se muestra la pantalla relacionada a los cursos que ofrecen los expertos | 
+| /comunnity  | En esta ruta se muestra la pantalla relacionada a la comunidad de los usuarios | 
+| /login  | En este endpoint se muestra la pantalla relacionada al inicio de sesión, posible desde una cuenta de Google o Github | 
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
