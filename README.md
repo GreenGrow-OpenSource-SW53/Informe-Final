@@ -251,7 +251,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148833029079433276/WIN_20230905_23_02_52_Pro-fotor-bg-remover-2023090523956-fotor-bg-remover-2023090523127.png" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156251884647092394/WIN_20230926_09_34_37_Pro.jpg" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -401,7 +401,7 @@ GrowGenius es una startup que nace con la finalidad de brindar conocimientos y h
 
 - **Why?** <br><br>
 
-  Usualmente los usuarios no logran encontrar la información necesaria sobre hidroponía y granjas domésticas, por lo que deben buscar por medio de internet, preguntar a familia o amigos para encontrar la mayor información posible.
+  Usualmente los usuarios no logran encontrar la información necesaria sobre hidroponía y granjas domésticas, por lo que deben buscar por medio de internet, preguntar a familia o amigos para encontrar la mayor información posible.<br><br>
 
 - **How?** <br><br>
 
