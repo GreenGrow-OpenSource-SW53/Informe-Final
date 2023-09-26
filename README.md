@@ -203,7 +203,7 @@ Septiembre del 2023
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-  - [5.2.2. Sprint 2](#521-sprint-2)
+  - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
     - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
     - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
@@ -1644,7 +1644,7 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.1. Sprint Planning 2.
 
 | Sprint 1                         | Implementación de la primera versión del Front-End                                                                                    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1659,7 +1659,7 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 | Sprint 2 Velocity                |     37                                                                                                                                          |
 | Sum of Story Points              |     35                                                                                                                                          |
 
-#### 5.2.2.2.Sprint Backlog 2.
+#### 5.2.2.2. Sprint Backlog 2.
 
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
@@ -1682,7 +1682,7 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 Link del Trello: https://trello.com/b/F7Y5eEE6/sprint-2
 
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.3. Development Evidence for Sprint Review.
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
@@ -1694,7 +1694,7 @@ Link del Trello: https://trello.com/b/F7Y5eEE6/sprint-2
 | greengrow-app | features/Bounded Context                         | 9d0a719   | feature: bounded context             | -                   | 24/09/2023         |
 
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 A continuación, se muestra la evidencia en forma de capturas sobre el testeo de nuestro Front-End.
 
@@ -1718,7 +1718,7 @@ Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que 
 
 <br>
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
 
 <div align="center">
 
@@ -1730,16 +1730,16 @@ Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que 
 
 Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EfVdeI7PusNEksSttGu2YI8BMWOUU7cKu9s5h6EEBOUXDw?e=ljykhK)
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Para este Sprint realizado, se hizo únicamente la implementación de la sección Front-end de nuestro proyecto, por lo que no se incluyó este punto.
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Google Firebase, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://deploy-greengrow.firebaseapp.com/home 
 
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron.
 
