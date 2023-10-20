@@ -1566,7 +1566,7 @@ En esta entrega, hemos realizado nuestra Landing Page. El código realizado se e
 | Time                             | 17:00                                                                                                                                           |
 | Location                         | Reunión realizada mediante Discord                                                                                                              |
 | Prepared By                      | Checa Apolinario, Paolo Sebastián                                                                                                               |
-| PAttendees (to planning meeting) | Checa Apolinario, Paolo Sebastián/Rodríguez Peña, Jorge Andrés /Pozo Campos, Rodrigo Jair /Arenas Conde, José Anthony/Cáceres Bueno, Arnol Omar |
+| PAttendees (to planning meeting) | Checa Apolinario, Paolo Sebastián/Yance Gutierrez, Franco Felix /Pozo Campos, Rodrigo Jair /Arenas Conde, José Anthony/Cáceres Bueno, Arnol Omar |
 | **Sprint Goal & User Stories**   |
 | Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
 | Sprint 1 Velocity                | 40                                                                                                                                              |
@@ -1653,7 +1653,7 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 | Time                             | 17:00                                                                                                                                           |
 | Location                         | Reunión realizada mediante Discord                                                                                                              |
 | Prepared By                      | Checa Apolinario, Paolo Sebastián                                                                                                               |
-| Pattendees (to planning meeting) | Checa Apolinario, Paolo Sebastián / Rodríguez Peña, Jorge Andrés / Pozo Campos, Rodrigo Jair / Arenas Conde, José Anthony / Cáceres Bueno, Arnol Omar |
+| Pattendees (to planning meeting) | Checa Apolinario, Paolo Sebastián / Yance Gutierrez, Franco Felix / Pozo Campos, Rodrigo Jair / Arenas Conde, José Anthony / Cáceres Bueno, Arnol Omar |
 | **Sprint Goal & User Stories**   |
 | Sprint 2 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
 | Sprint 2 Velocity                |     37                                                                                                                                          |
