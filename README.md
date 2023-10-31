@@ -1936,27 +1936,6 @@ En esta entrevista:
 En esta entrevista, cuando le presentamos nuestra landing page y aplicación web al 	El entrevistado nos comentó que cree que es una muy buena landing page donde mostramos los servicios que ofrece nuestra página así como la información sobre el grupo en general. Además nos comenta que nuestra aplicación web se ve muy bien hecha, hemos utilizado colores agradables a la vista y que los segmento que conforman a esta están bien diseñados, aquí se pueden ver todo lo que ofrece esta seccion ademas de que la forma en que se puede agregar tanto los cursos como los artículos están bien descritos por lo que podremos saber qué datos requiere cada uno.
 
 
-**Entrevista 04**
-
-Nombre y apellidos: Oliver Jesús Tuesta Yoplac
-
-Edad: 19 años
-
-Ubicación: Chorrillos, Lima
-
-Evidencia de la reunión:
-<img src="https://i.imgur.com/zui3Xgd.jpg?width=1547&amp;height=690" alt="Canvas" width="90%">
-
-Inicio: 12:55
-
-Fin: 16:28
-
-Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
-
-**Resumen de la entrevista:**
-
-En la entrevista Oliver nos cuenta que está interesado en la hidroponía porque le importa la calidad de los alimentos, y que con una granja en casa tendría más control sobre esta, además de reducir la “huella ecológica”. Al ser un estudiante universitario, no cuenta con mucho tiempo libre, por lo que menciona que le gustaría que su granja fuera eficiente y de bajo mantenimiento. Durante su búsqueda de información, se encontró con mucha ambigüedad y falta de guías, y consejos para principiantes en esta actividad. Oliver menciona que una aplicación que facilite su búsqueda de información. y que además cuente con comunidades y expertos, le sería definitivamente útil. Otras características que le gustaría es un foro activo donde se pueda realizar preguntas y ser atendido por la comunidad y/o expertos, también le gustaría que el contenido de la aplicación fuera moderado o validado por los expertos.
-
 <span class="size" style="font-size:20px">**Segmento 02: Expertos que desean brindar sus conocimientos a los principiantes**</span>
 <br>
 
