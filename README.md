@@ -1865,6 +1865,100 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
  - ¿Considera que el diseño es adecuado?
 
 ### 5.3.2. Registro de Entrevistas.
+<br>
+
+<span class="size" style="font-size:20px">**Segmento 01: Personas que deseen iniciar en la hidroponía**</span>
+
+**Entrevista 01**
+
+Entrevistado 1:
+
+Nombre y apellidos: Jorge Gonzales
+
+Edad: 25 años
+
+Ubicación: Distrito de Santiago de Surco, Lima
+
+Evidencia de la reunión:
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1166883683710550096/image.png?ex=654c1c1d&is=6539a71d&hm=aed47c54fa4a2cc412f0cc18a9ba3317160bcdd3e6c911a2e0568504e43f9f08&=&width=765&height=400" alt="Canvas" width="90%">
+
+Inicio: 
+
+Fin:
+
+**Enlace de entrevista:** []()
+
+**Resumen de la entrevista:**
+Realizamos la entrevista a Jorge Gonzales, un joven apasionado por el mundo de la hidroponía y la agricultura, que desea iniciar en este mundo. Con respecto al Landing Page, mencionó que es una página sencilla y fácil de usar, la cual muestra de manera clara las funcionalidades de la aplicación web. Y con respecto a esta, mencionó que la compra de artículos y la creación de posts le parecieron funciones muy útiles e intuitivas, las cuales pudo usar sin ningún problema. Como mejora, mencionó que las cards presentadas en la vista Home deberían ser de un mismo tamaño para un mejor entendimiento hacia los usuarios
+
+**Entrevista 02**
+
+Nombre y apellidos: Alex Espinoza
+
+Edad: 19 años
+
+Ubicación: Distrito de San Miguel, Lima
+
+Evidencia de la reunión:
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1168726349830168586/image.png?ex=6552d03b&is=65405b3b&hm=e2cbc5a06f0697d4e9fdbab253c2c5df9e93eda99d1a3d517f1db982e50b2243&=" alt="Canvas" width="90%">
+
+Inicio: 
+
+Fin:
+
+**Enlace de entrevista:** []()
+
+**Resumen de la entrevista:**
+La entrevista presenta a Alex Espinosa Rosales, un joven de 19 años interesado en la hidroponía desde hace 6 meses. Se discute la landing page de "Green Grow" y su aplicación web. Alex considera que la presentación visual es atractiva pero sugiere mayor claridad en la información sobre los beneficios de la hidroponía. La distribución de la información y el diseño son agradables a la vista. No experimentó problemas de diseño al acceder desde su computadora. Califica el diseño con un 8/10. El apartado de compra de cursos en la aplicación web es fácil de entender y usar. Alex sugiere agregar contenido interactivo, como videos instructivos, y una sección de preguntas frecuentes. También destaca la necesidad de mejorar la sección de comunidad para fomentar una participación más activa. Concluye que el diseño es adecuado pero podría beneficiarse de una apariencia más moderna.
+
+
+**Entrevista 03**
+
+Nombre y apellidos: Freddy Arellano
+
+Edad: 35 años
+
+Ubicación: Surqillo, Lima
+
+Evidencia de la reunión:
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1168232482953502810/image.png?ex=65510448&is=653e8f48&hm=f7528e853ee32adeb805cea06d2eee934d106820b961f681f62e7642e93fd2ef&=&width=738&height=401" alt="Canvas" width="90%">
+
+Inicio: 
+
+Fin:
+
+**Enlace de entrevista:** []()
+
+Resumen de la entrevista:
+
+En esta entrevista:
+
+En esta entrevista, cuando le presentamos nuestra landing page y aplicación web al 	El entrevistado nos comentó que cree que es una muy buena landing page donde mostramos los servicios que ofrece nuestra página así como la información sobre el grupo en general. Además nos comenta que nuestra aplicación web se ve muy bien hecha, hemos utilizado colores agradables a la vista y que los segmento que conforman a esta están bien diseñados, aquí se pueden ver todo lo que ofrece esta seccion ademas de que la forma en que se puede agregar tanto los cursos como los artículos están bien descritos por lo que podremos saber qué datos requiere cada uno.
+
+
+**Entrevista 04**
+
+Nombre y apellidos: Oliver Jesús Tuesta Yoplac
+
+Edad: 19 años
+
+Ubicación: Chorrillos, Lima
+
+Evidencia de la reunión:
+<img src="https://i.imgur.com/zui3Xgd.jpg?width=1547&amp;height=690" alt="Canvas" width="90%">
+
+Inicio: 12:55
+
+Fin: 16:28
+
+Enlace de entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EWbJoHEqXipGj3qaPPhq4SsBNkgCc1rfTp7IRdmZaZNykA?e=GeWqmo)
+
+**Resumen de la entrevista:**
+
+En la entrevista Oliver nos cuenta que está interesado en la hidroponía porque le importa la calidad de los alimentos, y que con una granja en casa tendría más control sobre esta, además de reducir la “huella ecológica”. Al ser un estudiante universitario, no cuenta con mucho tiempo libre, por lo que menciona que le gustaría que su granja fuera eficiente y de bajo mantenimiento. Durante su búsqueda de información, se encontró con mucha ambigüedad y falta de guías, y consejos para principiantes en esta actividad. Oliver menciona que una aplicación que facilite su búsqueda de información. y que además cuente con comunidades y expertos, le sería definitivamente útil. Otras características que le gustaría es un foro activo donde se pueda realizar preguntas y ser atendido por la comunidad y/o expertos, también le gustaría que el contenido de la aplicación fuera moderado o validado por los expertos.
+
+<span class="size" style="font-size:20px">**Segmento 02: Expertos que desean brindar sus conocimientos a los principiantes**</span>
+<br>
 
 ## Conclusiones
 
