@@ -1805,6 +1805,67 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 </div>
 
 
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+**Segmento 1:**<br>
+
+
+
+
+
+
+**Segmento 2: Expertos que desean brindar sus conocimientos a los principiantes.** <br>
+
+ - **Presentación del entrevistado**
+
+   ¿Cuál es tu nombre?
+   ¿Qué edad tienes?
+   ¿Hace cuánto ha iniciado en la hidroponía?
+
+ - **Explicación de los alcances de la demostración**
+
+   **Landing Page**<br>
+   Principales tareas en la aplicación
+
+   Navegación a través de la aplicación web
+
+   **User Flow: Añadir Curso**<br>
+
+   El usuario ingresa a la Landing Page
+   Pulsa el botón que redirige hacia la aplicación
+   Realiza el registro correspondiente
+   Selecciona la opción agregar curso
+   Ingresa los campos solicitados
+   Confirma el curso añadido
+
+   **User Flow: Post en Comunidad**<br>
+
+   El usuario ingresa a la Landing Page
+   Pulsa el botón que redirige hacia la aplicación
+   Realiza el registro correspondiente
+   Se redirige a la sección de Comunidad
+   Selecciona la opción Crear Post
+   Ingresa los campos solicitados
+   Crea el post correspondiente
+
+**Preguntas Principales**<br>
+
+ - ¿Consideras atractiva la manera en la que nuestro producto está promocionado en la Landing Page?
+ - ¿Consideras que el landing page muestra la información necesaria para entender el funcionamiento, propósito y virtudes que ofrece la aplicación?
+ - ¿Resulta agradable a la vista la manera en la que la información está distribuída?
+ - ¿Qué dispositivo has usado para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+ - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+   ¿Qué opina acerca del apartado de Cursos en la aplicación web?
+ - ¿Se le presentó con facilidad la opción de agregar cursos?
+ - En pocas palabras, ¿cómo describiría nuestra aplicación web?
+ - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+ - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+ - ¿Considera que el diseño es adecuado?
+
+### 5.3.2. Registro de Entrevistas.
+
 ## Conclusiones
 
 - Mediante el análisis de competidores, hemos obtenido una visión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha brindado una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.<br><br>
