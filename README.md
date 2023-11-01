@@ -1826,6 +1826,7 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review.
 |EndPoint|Detalles|
 |--|---|
+|courses|En este endpoint se almacena los detalles de los cursos destacados mostrados en la vista Home|
 
 
 
