@@ -1827,6 +1827,7 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 |EndPoint|Detalles|
 |--|---|
 |courses|En este endpoint se almacena los detalles de los cursos destacados mostrados en la vista Home|
+|Allcourses|En este endpoint se almacena los detalles de los cursos en general mostrados en la vista Courses|
 
 
 
