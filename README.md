@@ -1820,6 +1820,9 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 | acceptance-test| main | 5c2db56 | greengrow13.feature | - | 20/10/2023 |
 | acceptance-test| main | 5c2db56 | greengrow14.feature | - | 20/10/2023 |
 
+## 5.2.3.5 Execution Evidence for Sprint Review.
+Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
 
 
 
