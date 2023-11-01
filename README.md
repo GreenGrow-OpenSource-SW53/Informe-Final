@@ -1829,6 +1829,7 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 |courses|En este endpoint se almacena los detalles de los cursos destacados mostrados en la vista Home|
 |Allcourses|En este endpoint se almacena los detalles de los cursos en general mostrados en la vista Courses|
 |posts|En este endpoint se almacenan los detalles de los post de la comunidad|
+|trends|En este endpoint se almacenan los detalles de las tendencias actuales relacionadas a la agricultura e hidroponía|
 
 
 
