@@ -2072,7 +2072,23 @@ En esta entrevista, cuando le presentamos nuestra landing page y aplicación web
 
 ## 5.4. Video About-the-Product
 
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1168335065089052744/image.png">
+
+</div>
+
+Link al video: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EevzDu4O-stKhNYZpKKXh0kByxuwrcuDLclz-pIsCv9rBA?e=Mr5dsc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 ## 5.4. Video About-the-Team
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1168024822446575686/image.png">
+
+</div>
+
+Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EaNpR2infhpCl63Tc3Dd0NoBRrDJrOP00fKfVhXhtQ-DHg?e=RA8KZX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Conclusiones
 
