@@ -2104,10 +2104,372 @@ En esta entrevista, cuando le presentamos nuestra landing page y aplicación web
 
 
 <span class="size" style="font-size:20px">**Segmento 02: Expertos que desean brindar sus conocimientos a los principiantes**</span>
-<br>
+
+**Entrevista 01**
+
+Nombre y apellidos: Luis Pinto
+
+Edad: 29 años
+
+Ubicación: Ancash, Huarmey
+
+Evidencia de la reunión:
 
 
-### 5.3.3. Evaluaciones según heurísticas
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1167955296572944395/Captura_de_pantalla_2023-10-28_171826.png?ex=65500222&is=653d8d22&hm=78f1866dac9179d0fd8c54a19e85ed234d5c1e4f29f91938c66d48608f13263e&=&width=716&height=362">
+
+
+Inicio: 24:50
+
+Fin: 40:35
+
+Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+
+**Resumen de la entrevista:**
+
+Realizamos la entrevista a Luis Pinto, un joven de casi treinta años, que ha trabajado toda su vida en el mundo de la agricultura, hace aproximadamente dos años inició en el mundo de la hidroponía debido a su trabajo. Luego de mostrar el funcionamiento e interfaz de la aplicación y la landing page, comentó que las funcionalidades de ambos son muy buenas, pero se debería mejorar un poco el interfaz y agregar algunas funciones que permitan que a futuro algunos principiantes puedan obtener gratuitamente alguno de los cursos como viendo anuncios para conseguir puntos y estos canjearlos por cursos de la aplicación. Además, comentó que la landing page debería tener más funcionalidades que se conecten con la aplicación web, por otro lado, espera con ansias el producto final, porque le parece una muy buena idea.
+
+**Entrevista 02**
+
+Nombre y apellidos: Paolo Espejo
+
+Edad: 20
+
+Ubicación: Chorrillos, Lima
+
+Evidencia de la reunión:
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1168594192021323826/image.png?ex=65525526&is=653fe026&hm=1c1932580df5a33d8f083788738963da6340455746c4df650a9725cd12468580&=&width=716&height=392">
+
+
+Inicio: 18:41
+
+Fin: 24:49
+
+Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+
+**Resumen de la entrevista:**
+
+En esta ocasión realizamos una entrevista a Paolo Espejo, un joven experto en todo lo relacionado a la agricultura, quien empezó por recomendación de familiares y actualmente posee un negocio propio. Comentó que el diseño tanto de la landing page como de la aplicación web le parece ordenado, fácil de entender y con los colores adecuados, relacionados con la hidroponía. Mencionó que una característica que le gustaría ver dentro del servicio es poder saber quienes compraron sus cursos para poder calcular la ganancia que genera con el registro de nuevos cursos. Lo que más destaca es el estilo formal que posee la página, y espera una nueva versión aplicando las mejoras correspondientes.
+
+
+
+
+**Entrevista 03**
+
+Nombre y apellidos: Jair Coraje
+
+Edad: 25 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1169699745619521686/image.png?ex=65565ac7&is=6543e5c7&hm=df7a4cd5bd56fe36bee4d08d6a4ba75fcc93b45b5dec2feafeeb4d953db77490&=&width=716&height=408">
+
+
+Inicio: 40:36
+
+Fin: 48:42
+
+Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+
+**Resumen de la entrevista:**
+
+En la entrevista, Andrés Coraje Bona, con 4 años de experiencia en hidroponía, 
+
+Se le presenta la landing page de la aplicación Green Grow. La página está bien 
+
+detallada y presenta secciones como Inicio, Servicios, Quiénes Somos, Testimonios 
+
+y la aplicación en sí. El experto considera que la información en la página es 
+
+adecuada y que el diseño es visualmente atractivo (calificándolo con un 7 sobre 10). 
+
+No experimenta problemas al navegar en su computadora y sugiere mejorar la
+
+sección de noticias para que sea más relevante y actualizada.
+
+**Entrevista 04**
+
+Nombre y apellidos: Genry Chávez Sienfuegos
+
+Edad: 20 años
+
+Ubicación: Ica
+
+Evidencia de la reunión:
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1168751513741565972/image.png?ex=6552e7ab&is=654072ab&hm=fbfcd24674376919b6a1f8cedc1b26be88cb9fe4ef08fb11c279162767b98b35&=&width=716&height=403">
+
+
+Inicio: 48:43
+
+Fin: 1:01:51
+
+Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+
+**Resumen de la entrevista:**
+
+En la entrevista, Genry nos cuenta que tiene aproximadamente 3 años de experiencia en la hidroponía, y más en los “cultivos caseros”. Se comenzó mostrando e interactuando en la landing page. Genry nos comenta que le agrada que esté bien organizada y clara la información sobre la aplicación que muestra la landing (calificando con un 10/10). Tras navegar por la aplicación web y probar las funciones de agregar curso y post, nos dió las siguientes observaciones: En agregar curso nos sugirió añadir una fecha de fin, para cuando sea cursos con su “participación”. Bonitos colores e interfaz atractiva, cerró calificando con un 9/10.
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+**UX Heuristics & Principles Evaluation**
+
+Usability – Inclusive Design – Information Architecture
+
+CARRERA : Ingeniería de Software
+
+CURSO : Desarrollo de Aplicaciones Open Source
+
+SECCIÓN : SW53
+
+PROFESORES : Todos
+
+AUDITOR : GrowGenius
+
+CLIENTE(S) : GrowGenius
+
+SITE o APP A EVALUAR: GreenGrow
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+
+**1. Desktop landing page**
+
+1.1. Información y descripción de la aplicación y sus funcionalidades
+
+1.2. Información y breve descripción sobre el equipo de trabajo
+
+1.3. Visualización de testimonios
+
+1.4. Header y footer funcionales
+
+
+
+
+**2. Desktop Web Applications**
+
+2.2. Registro de nuevo usuario
+
+2.3. Inicio de sesión de usuario existente
+
+2.4. Header y footer funcionales
+
+2.5. Pestañas de navegación dentro de la aplicación
+
+2.6. Botones interactivos y de uso intuitivo
+
+2\.7. Compra de cursos
+
+2.8. Crear Post en Comunidad
+
+2.9. Visualización de Artículos relacionados
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+
+
+
+**1. Desktop landing page**
+
+1.1. Formulario para crear cuenta o iniciar sesión
+
+1.2. Redes sociales asociadas a la startup
+
+1.3. Política de privacidad y condiciones de uso
+
+
+
+
+**2. Desktop Web Applications**
+
+2.2. Visualización de Perfil de usuario
+
+2.3. Notificaciones de la aplicación
+
+2.4. Política de privacidad y condiciones de uso
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+**TABLA RESUMEN:**
+
+**Web Application**
+
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|No se aprecia el logo del servicio en el navbar|1|IA - Is it findable?|
+|2|Las etiquetas de la sección Artículos carecen de funcionalidad|2|IA - Is it usable?|
+|3|La tipografía en la vista Cursos no coincide con el resto de la aplicación|1|Usability - Consistency and standards|
+
+
+
+
+**Landing Page**
+
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|El logo presentado en el navbar no se aprecia con nitidez|1|IA - Is it clear?|
+|2|Las cards de la sección Nuestros Servicios presentan tamaños distintos.|1|IA - Is it clear?|
+|3|No existe un botón en el navbar que redirija hacia la aplicación|2|IA - Is it findable?|
+
+
+
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+
+
+**1. Web Application**
+
+**PROBLEMA #1:** No se aprecia el logo del servicio en el navbar.
+
+Severidad: 1
+
+Heurística violada: IA - Is it findable?
+
+Problema:
+
+En la parte superior izquierda del navbar se encuentra el nombre del servicio, sin embargo no se puede apreciar el logo del mismo, por lo que el usuario no puede asociar de forma adecuada las características visuales del proyecto.
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1169712801795817643/image.png?ex=655666f0&is=6543f1f0&hm=c377540999ea512d8d5293454304dcc9093e79028c75cbe8f9009ed5bd933dc3&=">
+
+
+
+Recomendación:
+
+Agregar el logo de la aplicación al lado del nombre, para que el usuario pueda asociar ambas características.
+
+
+
+
+**PROBLEMA #2:** Las etiquetas de la sección Artículos carecen de funcionalidad.
+
+Severidad: 2
+
+Heurística violada: IA - Is it usable?
+
+Problema:
+
+Se presentan ciertas etiquetas a los artículos de información sobre el tema de hidroponía y agricultura, sin embargo estas etiquetas no realizan el filtro para visualizar cierto tipo de artículos.
+
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1169714317491441694/image.png?ex=65566859&is=6543f359&hm=dac1776ded616c2354c65608d595a31a0b9d3eb4299dd4354043ed53b555de59&=&width=716&height=100">
+
+
+Recomendación:
+
+Desarrollar la funcionalidad de las etiquetas para que al seleccionar una se muestren solo los artículos relacionados.
+
+
+
+
+**PROBLEMA #3:** La tipografía en la vista Cursos no coincide con el resto de la aplicación.
+
+Severidad: 1
+
+Heurística violada: Usability - Consistency and standards
+
+Problema:
+
+La fuente utilizada en el texto de la vista Cursos no sigue el patrón de las demás vistas, lo que puede llegar a generar incomodidad en los usuarios al no presentar uniformidad.
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1169714360394985492/image.png?ex=65566863&is=6543f363&hm=f9e71716583520870da58a99e194e995a76bd88c0209d86373cdf1882d49fef8&=&width=716&height=412">
+
+
+Recomendación:
+
+Adaptar la tipografía utilizada en la vista Cursos para que sea del mismo tipo que el resto de la aplicación.
+
+
+
+
+**2. Landing Page**
+
+**PROBLEMA #1:** El logo presentado en el navbar no se aprecia con nitidez.
+
+Severidad: 1
+
+Heurística violada: IA - Is it clear?
+
+Problema:
+
+En la parte superior izquierda del navbar, se encuentra el logo del proyecto, sin embargo, este no se puede apreciar de forma nítida y clara, debido al tamaño que presenta.
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1169713908504858725/image.png?ex=655667f8&is=6543f2f8&hm=f59af75324772bc2575b5a1a190b141896d40b6739fcac07a3d4fd30c59739b6&=&width=716&height=335">
+
+Recomendación: 
+
+Ajustar el tamaño del logo presentado para una mejor visualización
+
+
+
+**PROBLEMA #2:** Las cards de la sección Nuestros Servicios presentan tamaños distintos.
+
+Severidad: 1
+
+Heurística violada: Usability - Consistency and standards
+
+Problema:
+
+Dentro de la sección Nuestros Servicios se presentan cards con información, pero difieren en su tamaño, lo cual puede generar disconformidad en el usuario al momento de la visualización. 
+
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1169713855753105489/image.png?ex=655667eb&is=6543f2eb&hm=45a451464621dd68f75aeaaaa99461602230cec90a4f77588cd5ef9c4ad897a9&=&width=716&height=377">
+
+
+Recomendación: 
+
+Ajustar el tamaño de las cards para que todas tengan un tamaño uniforme.
+
+
+
+
+
+**PROBLEMA #3:** No existe un botón en el navbar que redirija hacia la aplicación.
+
+Severidad: 2
+
+Heurística violada: IA - Is it findable?
+
+Problema:
+
+En el navbar, no se encuentra implementada una opción en la cual el usuario pueda abrir la aplicación y hacer uso de la misma.
+
+
+
+<img src="https://media.discordapp.net/attachments/1148057148522233868/1169713722420363335/image.png?ex=655667cb&is=6543f2cb&hm=b8a1ff48c241236178b612c5f1834934844c99db7a15284858fa24ea74788c68&=&width=716&height=138">
+
+
+Recomendación:
+
+Añadir el botón para poder redirigir al usuario hacia la aplicación y así pueda hacer uso de esta.
+
+
 
 ## 5.4. Video About-the-Product
 
