@@ -1873,8 +1873,8 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 | Attendees (to planning meeting) | Checa Apolinario, Paolo Sebastián/Yance Gutierrez, Franco Felix /Pozo Campos, Rodrigo Jair /Arenas Conde, José Anthony/Cáceres Bueno, Arnol Omar |
 | **Sprint Goal & User Stories**   |
 | Sprint 1 Goal                    | Realizar funcionalidades del servicio                                                                                                            |
-| Sprint 1 Velocity                |                                                                                                                                               |
-| Sum of Story Points              |                                                                                                                                               |
+| Sprint 1 Velocity                |20                                                                                                                                               |
+| Sum of Story Points              |25                                                                                                                                               |
 
 
 #### 5.2.3.2. Sprint Backlog 3
