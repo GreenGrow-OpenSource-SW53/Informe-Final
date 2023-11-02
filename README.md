@@ -35,7 +35,7 @@ Ciclo 2023-02
 
 <br>
 
-Link al video de exposición: [Video de Exposición TB2 - GreenGrow]()
+Link al video de exposición: [Video de Exposición TB2 - GreenGrow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EdSx3i3EVDpDn8isp8IYMzcBzfc5Szqd_Mu329ruaXna2g?e=8eOs21&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Noviembre del 2023
 
@@ -131,11 +131,11 @@ Noviembre del 2023
     - Video About-the-Team
 
     <div align=center>
-      <img src=""/>      
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1169757267604815883/image.png"/>      
     </div>
 
     <div align=center>
-      <img src=""/>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1169756842767941762/image.png"/>
     </div>
 
 
@@ -1919,11 +1919,18 @@ Link del Trello: https://trello.com/b/0dEjHnpt/sprint-3
 | acceptance-test| main | 5c2db56 | greengrow14.feature | - | 20/10/2023 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
-Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. 
-<img src="https://cdn.discordapp.com/attachments/1148057148522233868/1169749205208809562/Captura_de_pantalla_2023-11-02_162425.jpg?ex=655688d7&is=654413d7&hm=b511c12adb680f6f79e6a2c15e3d49c1ad4e548d06884d511f5fc5f914834f60&">
-A continuación el link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EYK5TOsX20dMqDFU1ntTp1sB8QdbfNVe7O0T3vxNuASPmA?e=ZcgbMJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EYK5TOsX20dMqDFU1ntTp1sB8QdbfNVe7O0T3vxNuASPmA?e=ZcgbMJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1169749205208809562/Captura_de_pantalla_2023-11-02_162425.jpg?ex=655688d7&is=654413d7&hm=b511c12adb680f6f79e6a2c15e3d49c1ad4e548d06884d511f5fc5f914834f60&">
+
+</div>
+
+A continuación el link del video: [Video de Ejecución](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EYK5TOsX20dMqDFU1ntTp1sB8QdbfNVe7O0T3vxNuASPmA?e=ZcgbMJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
 |EndPoint|Detalles|
 |--|---|
 |courses|En este endpoint se almacena los detalles de los cursos destacados mostrados en la vista Home|
@@ -1931,14 +1938,29 @@ A continuación el link del video: [https://upcedupe-my.sharepoint.com/:v:/g/per
 |posts|En este endpoint se almacenan los detalles de los post de la comunidad|
 |trends|En este endpoint se almacenan los detalles de las tendencias actuales relacionadas a la agricultura e hidroponía|
 
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Google Firebase, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: [https://deploy-greengrow.firebaseapp.com/](https://deploy-greengrow.firebaseapp.com/home)
 
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron.
-![](https://lh7-us.googleusercontent.com/rJGj-1OwfYQqWw92HAooMno6Ip_pEfuzml7qSQzJlrU-yw921T2euY9Dv-mrFv3XS69n2Ow5ZSIO03f-sdL8eU9seiIWbc7gRzMVrkZiFumDWzrBeqRxlAO8-XNqc5q6cLQo8SU29oEAw054vvOPzpY)  
-![](https://lh7-us.googleusercontent.com/Wwlhr9Rl2NA5YcD4v2E2wc4sAExcSGfCBSrqCEd6Tje2V9tEFVjq_ZeZY2JXeSHXfoHvYkE3xVSDTZfqeQMCuoAk2vdZGsq8Pd6YPCKiHBVDcJA0Dxe894B7x2QGLrnJHot2cqgqoCr_f8Dmp7tYo5U)  
-![](https://lh7-us.googleusercontent.com/02crHOZDcEK_9oMhVm9JT0nuG0rKGwx_Msj6Njo4mmVBwL0_BW6FS4NJOj8vO4E7Fmn4jWmjsyucKQYqBJgoxfKZGQ5r3gUmO8O1EmohzwYZyMNaWIoKOGJ1DEpzJHgJA1WRIq-DqTQEAMr2hdI8Oo8)  
+
+<div align="center">
+
+  <img src="https://lh7-us.googleusercontent.com/rJGj-1OwfYQqWw92HAooMno6Ip_pEfuzml7qSQzJlrU-yw921T2euY9Dv-mrFv3XS69n2Ow5ZSIO03f-sdL8eU9seiIWbc7gRzMVrkZiFumDWzrBeqRxlAO8-XNqc5q6cLQo8SU29oEAw054vvOPzpY">
+
+</div>
+
+<div align="center">
+
+  <img src="https://lh7-us.googleusercontent.com/Wwlhr9Rl2NA5YcD4v2E2wc4sAExcSGfCBSrqCEd6Tje2V9tEFVjq_ZeZY2JXeSHXfoHvYkE3xVSDTZfqeQMCuoAk2vdZGsq8Pd6YPCKiHBVDcJA0Dxe894B7x2QGLrnJHot2cqgqoCr_f8Dmp7tYo5U">
+
+</div>
+
+<div align="center">
+
+  <img src="https://lh7-us.googleusercontent.com/02crHOZDcEK_9oMhVm9JT0nuG0rKGwx_Msj6Njo4mmVBwL0_BW6FS4NJOj8vO4E7Fmn4jWmjsyucKQYqBJgoxfKZGQ5r3gUmO8O1EmohzwYZyMNaWIoKOGJ1DEpzJHgJA1WRIq-DqTQEAMr2hdI8Oo8">
+
+</div>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -1947,8 +1969,10 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 - ¿Cuál es tu nombre?
 - ¿Qué edad tienes?
 - ¿Hace cuánto quiere iniciar en la hidroponía?
--   Explicación de los alcances de la demostración
+- Explicación de los alcances de la demostración<br>
+
 ***Landing Page***
+
 - Principales tareas en la aplicación
 -   Navegación a través de la aplicación web  
 
@@ -1993,9 +2017,9 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
    ¿Qué edad tienes?
    ¿Hace cuánto ha iniciado en la hidroponía?
 
- - **Explicación de los alcances de la demostración**
+ - **Explicación de los alcances de la demostración**<br><br>
 
-   **Landing Page**<br>
+   ***Landing Page***<br>
    Principales tareas en la aplicación
 
    Navegación a través de la aplicación web
@@ -2049,7 +2073,12 @@ Edad: 25 años
 Ubicación: Distrito de Santiago de Surco, Lima
 
 Evidencia de la reunión:
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1166883683710550096/image.png?ex=654c1c1d&is=6539a71d&hm=aed47c54fa4a2cc412f0cc18a9ba3317160bcdd3e6c911a2e0568504e43f9f08&=&width=765&height=400" alt="Canvas" width="90%">
+
+<div align="center">
+
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1166883683710550096/image.png">
+
+</div>
 
 Inicio: 00:06
 
@@ -2069,7 +2098,12 @@ Edad: 19 años
 Ubicación: Distrito de San Miguel, Lima
 
 Evidencia de la reunión:
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1168726349830168586/image.png?ex=6552d03b&is=65405b3b&hm=e2cbc5a06f0697d4e9fdbab253c2c5df9e93eda99d1a3d517f1db982e50b2243&=" alt="Canvas" width="90%">
+
+<div align="center">
+
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1168726349830168586/image.png">
+
+</div>
 
 Inicio: 11:59
 
@@ -2090,7 +2124,12 @@ Edad: 35 años
 Ubicación: Surquillo, Lima
 
 Evidencia de la reunión:
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1168232482953502810/image.png?ex=65510448&is=653e8f48&hm=f7528e853ee32adeb805cea06d2eee934d106820b961f681f62e7642e93fd2ef&=&width=738&height=401" alt="Canvas" width="90%">
+
+<div align="center">
+
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1168232482953502810/image.png">
+
+</div>
 
 Inicio: 08:25
 
@@ -2099,8 +2138,6 @@ Fin: 11:58
 **Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
-
-En esta entrevista:
 
 En esta entrevista, cuando le presentamos nuestra landing page y aplicación web al 	El entrevistado nos comentó que cree que es una muy buena landing page donde mostramos los servicios que ofrece nuestra página así como la información sobre el grupo en general. Además nos comenta que nuestra aplicación web se ve muy bien hecha, hemos utilizado colores agradables a la vista y que los segmento que conforman a esta están bien diseñados, aquí se pueden ver todo lo que ofrece esta seccion ademas de que la forma en que se puede agregar tanto los cursos como los artículos están bien descritos por lo que podremos saber qué datos requiere cada uno.
 
@@ -2117,15 +2154,17 @@ Ubicación: Ancash, Huarmey
 
 Evidencia de la reunión:
 
+<div align="center">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1167955296572944395/Captura_de_pantalla_2023-10-28_171826.png?ex=65500222&is=653d8d22&hm=78f1866dac9179d0fd8c54a19e85ed234d5c1e4f29f91938c66d48608f13263e&=&width=716&height=362">
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1167955296572944395/Captura_de_pantalla_2023-10-28_171826.png">
 
+</div>
 
 Inicio: 24:50
 
 Fin: 40:35
 
-Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
 **Resumen de la entrevista:**
 
@@ -2141,21 +2180,21 @@ Ubicación: Chorrillos, Lima
 
 Evidencia de la reunión:
 
+<div align="center">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1168594192021323826/image.png?ex=65525526&is=653fe026&hm=1c1932580df5a33d8f083788738963da6340455746c4df650a9725cd12468580&=&width=716&height=392">
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1168594192021323826/image.png">
 
+</div>
 
 Inicio: 18:41
 
 Fin: 24:49
 
-Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Resumen de la entrevista:**
 
 En esta ocasión realizamos una entrevista a Paolo Espejo, un joven experto en todo lo relacionado a la agricultura, quien empezó por recomendación de familiares y actualmente posee un negocio propio. Comentó que el diseño tanto de la landing page como de la aplicación web le parece ordenado, fácil de entender y con los colores adecuados, relacionados con la hidroponía. Mencionó que una característica que le gustaría ver dentro del servicio es poder saber quienes compraron sus cursos para poder calcular la ganancia que genera con el registro de nuevos cursos. Lo que más destaca es el estilo formal que posee la página, y espera una nueva versión aplicando las mejoras correspondientes.
-
-
 
 
 **Entrevista 03**
@@ -2168,31 +2207,21 @@ Ubicación: Lima
 
 Evidencia de la reunión:
 
+<div align="center">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1169699745619521686/image.png?ex=65565ac7&is=6543e5c7&hm=df7a4cd5bd56fe36bee4d08d6a4ba75fcc93b45b5dec2feafeeb4d953db77490&=&width=716&height=408">
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1169699745619521686/image.png">
 
+</div>
 
 Inicio: 40:36
 
 Fin: 48:42
 
-Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
 **Resumen de la entrevista:**
 
-En la entrevista, Andrés Coraje Bona, con 4 años de experiencia en hidroponía, 
-
-Se le presenta la landing page de la aplicación Green Grow. La página está bien 
-
-detallada y presenta secciones como Inicio, Servicios, Quiénes Somos, Testimonios 
-
-y la aplicación en sí. El experto considera que la información en la página es 
-
-adecuada y que el diseño es visualmente atractivo (calificándolo con un 7 sobre 10). 
-
-No experimenta problemas al navegar en su computadora y sugiere mejorar la
-
-sección de noticias para que sea más relevante y actualizada.
+En la entrevista, Andrés Coraje Bona, con 4 años de experiencia en hidroponía, se le presenta la landing page de la aplicación Green Grow. La página está bien detallada y presenta secciones como Inicio, Servicios, Quiénes Somos, Testimonios y la aplicación en sí. El experto considera que la información en la página es adecuada y que el diseño es visualmente atractivo (calificándolo con un 7 sobre 10). No experimenta problemas al navegar en su computadora y sugiere mejorar la sección de noticias para que sea más relevante y actualizada.
 
 **Entrevista 04**
 
@@ -2204,15 +2233,17 @@ Ubicación: Ica
 
 Evidencia de la reunión:
 
+<div align="center">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1168751513741565972/image.png?ex=6552e7ab&is=654072ab&hm=fbfcd24674376919b6a1f8cedc1b26be88cb9fe4ef08fb11c279162767b98b35&=&width=716&height=403">
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1168751513741565972/image.png">
 
+</div>
 
 Inicio: 48:43
 
 Fin: 1:01:51
 
-Enlace de la entrevista: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
 **Resumen de la entrevista:**
 
@@ -2244,60 +2275,44 @@ SITE o APP A EVALUAR: GreenGrow
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 
-**1. Desktop landing page**
+1. Desktop landing page
 
-1.1. Información y descripción de la aplicación y sus funcionalidades
+    1. Información y descripción de la aplicación y sus funcionalidade  
+    2. Información y breve descripción sobre el equipo de trabajo  
+    3. Visualización de testimonio  
+    4. Header y footer funcionales
 
-1.2. Información y breve descripción sobre el equipo de trabajo
+<br>
 
-1.3. Visualización de testimonios
+2. Desktop Web Applications
 
-1.4. Header y footer funcionales
-
-
-
-
-**2. Desktop Web Applications**
-
-2.2. Registro de nuevo usuario
-
-2.3. Inicio de sesión de usuario existente
-
-2.4. Header y footer funcionales
-
-2.5. Pestañas de navegación dentro de la aplicación
-
-2.6. Botones interactivos y de uso intuitivo
-
-2\.7. Compra de cursos
-
-2.8. Crear Post en Comunidad
-
-2.9. Visualización de Artículos relacionados
+    1. Registro de nuevo usuari
+    2. Inicio de sesión de usuario existent
+    3. Header y footer funcionale
+    4. Pestañas de navegación dentro de la aplicació
+    5. Botones interactivos y de uso intuitiv
+    6. Compra de curso
+    7. Crear Post en Comunida
+    8. Visualización de Artículos relacionados
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 
+1. Desktop landing page
 
+    1. Formulario para crear cuenta o iniciar sesión
+    2. Redes sociales asociadas a la startup
+    3. Política de privacidad y condiciones de uso
 
-**1. Desktop landing page**
+<br>
 
-1.1. Formulario para crear cuenta o iniciar sesión
+2. Desktop Web Applications
 
-1.2. Redes sociales asociadas a la startup
+    1. Visualización de Perfil de usuario
+    2. Notificaciones de la aplicación
+    3. Política de privacidad y condiciones de uso
 
-1.3. Política de privacidad y condiciones de uso
-
-
-
-
-**2. Desktop Web Applications**
-
-2.2. Visualización de Perfil de usuario
-
-2.3. Notificaciones de la aplicación
-
-2.4. Política de privacidad y condiciones de uso
+<br>
 
 **ESCALA DE SEVERIDAD:**
 
@@ -2335,7 +2350,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 |3|No existe un botón en el navbar que redirija hacia la aplicación|2|IA - Is it findable?|
 
 
-
+<br>
 
 
 **DESCRIPCIÓN DE PROBLEMAS:**
@@ -2354,16 +2369,18 @@ Problema:
 
 En la parte superior izquierda del navbar se encuentra el nombre del servicio, sin embargo no se puede apreciar el logo del mismo, por lo que el usuario no puede asociar de forma adecuada las características visuales del proyecto.
 
+<div align="center">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1169712801795817643/image.png?ex=655666f0&is=6543f1f0&hm=c377540999ea512d8d5293454304dcc9093e79028c75cbe8f9009ed5bd933dc3&=">
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1169712801795817643/image.png">
 
+</div>
 
 
 Recomendación:
 
 Agregar el logo de la aplicación al lado del nombre, para que el usuario pueda asociar ambas características.
 
-
+<br>
 
 
 **PROBLEMA #2:** Las etiquetas de la sección Artículos carecen de funcionalidad.
@@ -2376,16 +2393,17 @@ Problema:
 
 Se presentan ciertas etiquetas a los artículos de información sobre el tema de hidroponía y agricultura, sin embargo estas etiquetas no realizan el filtro para visualizar cierto tipo de artículos.
 
+<div align="center">
 
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1169714317491441694/image.png">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1169714317491441694/image.png?ex=65566859&is=6543f359&hm=dac1776ded616c2354c65608d595a31a0b9d3eb4299dd4354043ed53b555de59&=&width=716&height=100">
-
+</div>
 
 Recomendación:
 
 Desarrollar la funcionalidad de las etiquetas para que al seleccionar una se muestren solo los artículos relacionados.
 
-
+<br>
 
 
 **PROBLEMA #3:** La tipografía en la vista Cursos no coincide con el resto de la aplicación.
@@ -2398,15 +2416,15 @@ Problema:
 
 La fuente utilizada en el texto de la vista Cursos no sigue el patrón de las demás vistas, lo que puede llegar a generar incomodidad en los usuarios al no presentar uniformidad.
 
+<div align="center">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1169714360394985492/image.png?ex=65566863&is=6543f363&hm=f9e71716583520870da58a99e194e995a76bd88c0209d86373cdf1882d49fef8&=&width=716&height=412">
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1169714360394985492/image.png">
 
+</div>
 
 Recomendación:
 
 Adaptar la tipografía utilizada en la vista Cursos para que sea del mismo tipo que el resto de la aplicación.
-
-
 
 
 **2. Landing Page**
@@ -2421,13 +2439,17 @@ Problema:
 
 En la parte superior izquierda del navbar, se encuentra el logo del proyecto, sin embargo, este no se puede apreciar de forma nítida y clara, debido al tamaño que presenta.
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1169713908504858725/image.png?ex=655667f8&is=6543f2f8&hm=f59af75324772bc2575b5a1a190b141896d40b6739fcac07a3d4fd30c59739b6&=&width=716&height=335">
+<div align="center">
+
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1169713908504858725/image.png">
+
+</div>
 
 Recomendación: 
 
 Ajustar el tamaño del logo presentado para una mejor visualización
 
-
+<br>
 
 **PROBLEMA #2:** Las cards de la sección Nuestros Servicios presentan tamaños distintos.
 
@@ -2439,17 +2461,18 @@ Problema:
 
 Dentro de la sección Nuestros Servicios se presentan cards con información, pero difieren en su tamaño, lo cual puede generar disconformidad en el usuario al momento de la visualización. 
 
+<div align="center">
 
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1169713855753105489/image.png">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1169713855753105489/image.png?ex=655667eb&is=6543f2eb&hm=45a451464621dd68f75aeaaaa99461602230cec90a4f77588cd5ef9c4ad897a9&=&width=716&height=377">
-
+</div>
 
 Recomendación: 
 
 Ajustar el tamaño de las cards para que todas tengan un tamaño uniforme.
 
 
-
+<br>
 
 
 **PROBLEMA #3:** No existe un botón en el navbar que redirija hacia la aplicación.
@@ -2462,10 +2485,11 @@ Problema:
 
 En el navbar, no se encuentra implementada una opción en la cual el usuario pueda abrir la aplicación y hacer uso de la misma.
 
+<div align="center">
 
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1169713722420363335/image.png">
 
-<img src="https://media.discordapp.net/attachments/1148057148522233868/1169713722420363335/image.png?ex=655667cb&is=6543f2cb&hm=b8a1ff48c241236178b612c5f1834934844c99db7a15284858fa24ea74788c68&=&width=716&height=138">
-
+</div>
 
 Recomendación:
 
@@ -2519,7 +2543,7 @@ Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/p
 
 - La realización exhaustiva de las entrevistas de validación y la aplicación rigurosa de heurísticas nos brindaron una valiosa perspicacia, permitiéndonos identificar una amplia gama de posibles fallos y oportunidades de mejora. Este proceso nos ha facilitado el camino hacia la creación de un producto mucho más robusto, flexible y ajustado a las necesidades del usuario. Esto implica tanto la incorporación de nuevas funciones como la refinación minuciosa de las características ya implementadas por nuestro dedicado equipo de trabajo.<br><br>
 
-- A través de las entrevistas de validación, hemos obtenido un valioso feedback que ha sido fundamental para la mejora de nuestra plataforma web. Estas conversaciones nos proporcionaron una visión enriquecedora de las necesidades y expectativas de nuestros usuarios, lo que nos permitió identificar oportunidades de mejora y abordar posibles fallos de manera efectiva. Gracias a este proceso, nuestro proyecto se ha fortalecido y ha evolucionado hacia un producto más sólido y adaptado a las necesidades del público objetivo.
+- A través de las entrevistas de validación, hemos obtenido un valioso feedback que ha sido fundamental para la mejora de nuestra plataforma web. Estas conversaciones nos proporcionaron una visión enriquecedora de las necesidades y expectativas de nuestros usuarios, lo que nos permitió identificar oportunidades de mejora y abordar posibles fallos de manera efectiva. Gracias a este proceso, nuestro proyecto se ha fortalecido y ha evolucionado hacia un producto más sólido y adaptado a las necesidades del público objetivo.<br><br>
 
 
 
