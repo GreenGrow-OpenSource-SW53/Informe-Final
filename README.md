@@ -13,7 +13,7 @@ Ciclo 2023-02
 
 # <center>Desarrollo de Aplicaciones Open Source</center>
 
-## TP1 REPORT
+## TB2 REPORT
 
 **Sección:** SW53
 
@@ -35,9 +35,9 @@ Ciclo 2023-02
 
 <br>
 
-Link al video de exposición: [Video de Exposición TP1 - GreenGrow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EXpluRansiVHhXZqxwziNEkBuj8cOn_sDCIRRx0YbRUObw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=389Txv)
+Link al video de exposición: [Video de Exposición TB2 - GreenGrow]()
 
-Septiembre del 2023
+Noviembre del 2023
 
 <br><br>
 
@@ -49,6 +49,7 @@ Septiembre del 2023
 | :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   TB1   | 06/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los Capítulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design |
 | TP1 | 25/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los puntos del Capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
+| TB2 | 02/11/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team |
 
 <br><br>
 
@@ -103,6 +104,41 @@ Septiembre del 2023
     <div align=center>
       <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155954731273957426/image.png"/>
     </div>
+
+<br>
+
+- **TB2:** Para esta entrega, realizamos como equipo las actividades correspondientes al capítulo asignado en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GreenGrow-OpenSource-SW53/Informe-Final)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 3
+    - Sprint Planning 3
+    - Sprint Backlog 3
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+    - Diseño de Entrevistas
+    - Registro de Entrevistas
+    - Evaluaciones según heurísticas
+    - Video About-the-Product
+    - Video About-the-Team
+
+    <div align=center>
+      <img src=""/>      
+    </div>
+
+    <div align=center>
+      <img src=""/>
+    </div>
+
+
 
 <br><br>
 
@@ -193,25 +229,44 @@ Septiembre del 2023
   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-  - [5.2.2. Sprint 2](#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+        - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+        - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Spring Planning 3](#5231-spring-planning-3)
+        - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint-3)
+
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+
+- [5.4. Video About-the-Product](#54-video-about-the-product)
+- [5.4. Video About-the-Team](#54-video-about-the-team)
 
 ### [Conclusiones](#conclusiones)
 
@@ -1678,7 +1733,7 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 #### 5.2.2.1. Sprint Planning 2.
 
-| Sprint 1                         | Implementación de la primera versión del Front-End                                                                                    |
+| Sprint 2                         | Implementación de la primera versión del Front-End                                                                                    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sprint Planning Background       |
 | Date                             | 23/09/2023                                                                                                                                      |
@@ -1804,11 +1859,54 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 
 </div>
 
-# 5.2.3 Sprint 3
-## 5.2.3.1 Sprint Planning 3
-## 5.2.3.2 Sprint Backlog 3
-## 5.2.3.3 Development Evidence for Sprint Review.
-## 5.2.3.4 Testing Suite Evidence for Sprint Review.
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint 3                         | Mejoras en las Funcionalidades de la aplicación                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 18/10/2023                                                                                                                                      |
+| Time                             | 15:00                                                                                                                                           |
+| Location                         | Reunión realizada mediante Discord                                                                                                              |
+| Prepared By                      | Checa Apolinario, Paolo Sebastián                                                                                                               |
+| Attendees (to planning meeting) | Checa Apolinario, Paolo Sebastián/Yance Gutierrez, Franco Felix /Pozo Campos, Rodrigo Jair /Arenas Conde, José Anthony/Cáceres Bueno, Arnol Omar |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Goal                    | Realizar funcionalidades del servicio                                                                                                            |
+| Sprint 1 Velocity                |                                                                                                                                               |
+| Sum of Story Points              |                                                                                                                                               |
+
+
+#### 5.2.3.2. Sprint Backlog 3
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GWS01 | Función Compra    | GS01 | Función de Compra de Cursos (Desarrollado con el framework Angular)         | Desarrollo e implementación de la Función de Pago de cursos, con sus características y estilos correspondientes.      | 5                  | José Arenas  | Done                                   |
+| GWS02 | Función Agregar Curso    | GS02 | Función de Agregar Cursos de Expertos (Desarrollado con el framework Angular)         | Desarrollo e implementación de la Función de Agregar Cursos, con sus características y estilos correspondientes   | 5                  | Rodrigo Pozo | Done                                   |
+| GWS03 | Corrección de datos con Codificación Rígida          | GS03 | Corrección de codificación rígida en el proyecto                             | Corrección e implementación de métodos para obtención de datos de manera externa           | 5                  | Paolo Checa, Rodrigo Pozo   | Done                                   |
+| GWS04 | Función Crear Post    | GS04 | Función de Agregar Post en la Comunidad (Desarrollado con el framework Angular)                             | Desarrollo e implementación de la Función Crear Post, con sus características y estilos correspondientes    | 5                  | Arnol Cáceres  | Done                                   |
+| GWS05 | Perfil de Usuario           | GS05 | Apartado del Perfil de Usuario (Desarrollado con el framework Angular)        | Desarrollo e implementación del apartado Perfil de Usuario, con sus características y estilos correspondientes    | 5                  | Paolo Checa   | In Process                                   |
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1167954811380039804/image.png">
+
+</div>
+
+Link del Trello: https://trello.com/b/0dEjHnpt/sprint-3
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| greengrow-app | feature/fix-hardcoding | d6a1d9e   | fix: hardcoding to dinamic | -                   | 20/10/2023         |
+| greengrow-app | feature/fix-responsive                    | 417c37e   | fix: responsive      | -                   | 25/10/2023         |
+| greengrow-app | feature/add-course                            | 9323c53   | feature: add-course                | -                   | 21/10/2023         |
+| greengrow-app | feature/payment                               | cc55072   | feature: payment                   | -                   | 24/10/2023         |
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
 | Repository   | Branch | Commit Id| Commit Message | Commit Message Body  | Committed on (Date)|
 |---|---|---|---|--|--|
 | acceptance-test| main | 75d37e5 | greengrow01.feature | - | 04/09/2023 |
@@ -1820,10 +1918,10 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 | acceptance-test| main | 5c2db56 | greengrow13.feature | - | 20/10/2023 |
 | acceptance-test| main | 5c2db56 | greengrow14.feature | - | 20/10/2023 |
 
-## 5.2.3.5 Execution Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
 Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
-## 5.2.3.6 Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 |EndPoint|Detalles|
 |--|---|
 |courses|En este endpoint se almacena los detalles de los cursos destacados mostrados en la vista Home|
@@ -1831,8 +1929,9 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 |posts|En este endpoint se almacenan los detalles de los post de la comunidad|
 |trends|En este endpoint se almacenan los detalles de las tendencias actuales relacionadas a la agricultura e hidroponía|
 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews.
 
@@ -1911,11 +2010,11 @@ Ubicación: Distrito de Santiago de Surco, Lima
 Evidencia de la reunión:
 <img src="https://media.discordapp.net/attachments/1148057148522233868/1166883683710550096/image.png?ex=654c1c1d&is=6539a71d&hm=aed47c54fa4a2cc412f0cc18a9ba3317160bcdd3e6c911a2e0568504e43f9f08&=&width=765&height=400" alt="Canvas" width="90%">
 
-Inicio: 
+Inicio: 00:06
 
-Fin:
+Fin: 08:24
 
-**Enlace de entrevista:** []()
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Resumen de la entrevista:**
 Realizamos la entrevista a Jorge Gonzales, un joven apasionado por el mundo de la hidroponía y la agricultura, que desea iniciar en este mundo. Con respecto al Landing Page, mencionó que es una página sencilla y fácil de usar, la cual muestra de manera clara las funcionalidades de la aplicación web. Y con respecto a esta, mencionó que la compra de artículos y la creación de posts le parecieron funciones muy útiles e intuitivas, las cuales pudo usar sin ningún problema. Como mejora, mencionó que las cards presentadas en la vista Home deberían ser de un mismo tamaño para un mejor entendimiento hacia los usuarios
@@ -1931,11 +2030,11 @@ Ubicación: Distrito de San Miguel, Lima
 Evidencia de la reunión:
 <img src="https://media.discordapp.net/attachments/1148057148522233868/1168726349830168586/image.png?ex=6552d03b&is=65405b3b&hm=e2cbc5a06f0697d4e9fdbab253c2c5df9e93eda99d1a3d517f1db982e50b2243&=" alt="Canvas" width="90%">
 
-Inicio: 
+Inicio: 11:59
 
-Fin:
+Fin: 18:37
 
-**Enlace de entrevista:** []()
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Resumen de la entrevista:**
 La entrevista presenta a Alex Espinosa Rosales, un joven de 19 años interesado en la hidroponía desde hace 6 meses. Se discute la landing page de "Green Grow" y su aplicación web. Alex considera que la presentación visual es atractiva pero sugiere mayor claridad en la información sobre los beneficios de la hidroponía. La distribución de la información y el diseño son agradables a la vista. No experimentó problemas de diseño al acceder desde su computadora. Califica el diseño con un 8/10. El apartado de compra de cursos en la aplicación web es fácil de entender y usar. Alex sugiere agregar contenido interactivo, como videos instructivos, y una sección de preguntas frecuentes. También destaca la necesidad de mejorar la sección de comunidad para fomentar una participación más activa. Concluye que el diseño es adecuado pero podría beneficiarse de una apariencia más moderna.
@@ -1947,16 +2046,16 @@ Nombre y apellidos: Freddy Arellano
 
 Edad: 35 años
 
-Ubicación: Surqillo, Lima
+Ubicación: Surquillo, Lima
 
 Evidencia de la reunión:
 <img src="https://media.discordapp.net/attachments/1148057148522233868/1168232482953502810/image.png?ex=65510448&is=653e8f48&hm=f7528e853ee32adeb805cea06d2eee934d106820b961f681f62e7642e93fd2ef&=&width=738&height=401" alt="Canvas" width="90%">
 
-Inicio: 
+Inicio: 08:25
 
-Fin:
+Fin: 11:58
 
-**Enlace de entrevista:** []()
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EQ8PGme0Ba9Kq1dPiW5jUeQBMu1igi0XZyaQw8JTJ43bDg?e=FFuHL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
 
@@ -1967,6 +2066,13 @@ En esta entrevista, cuando le presentamos nuestra landing page y aplicación web
 
 <span class="size" style="font-size:20px">**Segmento 02: Expertos que desean brindar sus conocimientos a los principiantes**</span>
 <br>
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
+
+## 5.4. Video About-the-Team
 
 ## Conclusiones
 
@@ -1988,7 +2094,14 @@ En esta entrevista, cuando le presentamos nuestra landing page y aplicación web
 
 - Este proyecto y el uso de Firebase nos han permitido abrazar la innovación y la adaptación continua como parte fundamental de nuestro proceso de desarrollo. Hemos aprendido que el mundo de las aplicaciones web y móviles está en constante evolución, y es esencial mantenerse actualizado con las últimas tendencias y tecnologías. Firebase nos ha proporcionado la flexibilidad para incorporar nuevas características y funcionalidades de manera eficiente, lo que nos ha permitido satisfacer las necesidades cambiantes de nuestros usuarios y mantenernos competitivos en un mercado en constante cambio. Este enfoque en la innovación y la adaptación continua seguirá siendo un elemento central en nuestro viaje de desarrollo de aplicaciones. <br><br>
 
-- Durante el segundo sprint, logramos cumplir con uno de los objetivos clave que nos habíamos propuesto: la creación de la vista de 'Artículos', que estaba planificada desde el inicio del proyecto. Esta vista es fundamental para proporcionar contenido valioso a nuestros usuarios y enriquecer su experiencia en la plataforma. La implementación exitosa de esta función demuestra la capacidad de nuestro equipo para gestionar eficazmente las prioridades y metas del proyecto, asegurando que cada sprint sea un paso significativo hacia la realización de nuestra visión global. La vista de 'Artículos' ahora complementa las otras funcionalidades del proyecto y refuerza nuestro compromiso de ofrecer una aplicación web completa y atractiva.
+- Durante el segundo sprint, logramos cumplir con uno de los objetivos clave que nos habíamos propuesto: la creación de la vista de 'Artículos', que estaba planificada desde el inicio del proyecto. Esta vista es fundamental para proporcionar contenido valioso a nuestros usuarios y enriquecer su experiencia en la plataforma. La implementación exitosa de esta función demuestra la capacidad de nuestro equipo para gestionar eficazmente las prioridades y metas del proyecto, asegurando que cada sprint sea un paso significativo hacia la realización de nuestra visión global. La vista de 'Artículos' ahora complementa las otras funcionalidades del proyecto y refuerza nuestro compromiso de ofrecer una aplicación web completa y atractiva.<br><br>
+
+- El desarrollo del nuevo Sprint implicó una nueva versión del proyecto, aplicando las mejoras continuas recibidas de la entrega pasada. De esta manera podemos ofrecer hacia el público un producto que contenga soluciones para las dificultades que presenta cada segmento objetivo que abarca nuestro proyecto.<br><br>
+
+- La realización exhaustiva de las entrevistas de validación y la aplicación rigurosa de heurísticas nos brindaron una valiosa perspicacia, permitiéndonos identificar una amplia gama de posibles fallos y oportunidades de mejora. Este proceso nos ha facilitado el camino hacia la creación de un producto mucho más robusto, flexible y ajustado a las necesidades del usuario. Esto implica tanto la incorporación de nuevas funciones como la refinación minuciosa de las características ya implementadas por nuestro dedicado equipo de trabajo.<br><br>
+
+- A través de las entrevistas de validación, hemos obtenido un valioso feedback que ha sido fundamental para la mejora de nuestra plataforma web. Estas conversaciones nos proporcionaron una visión enriquecedora de las necesidades y expectativas de nuestros usuarios, lo que nos permitió identificar oportunidades de mejora y abordar posibles fallos de manera efectiva. Gracias a este proceso, nuestro proyecto se ha fortalecido y ha evolucionado hacia un producto más sólido y adaptado a las necesidades del público objetivo.
+
 
 
 ## Bibliografía
