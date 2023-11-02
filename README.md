@@ -1920,7 +1920,7 @@ Link del Trello: https://trello.com/b/0dEjHnpt/sprint-3
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. 
-<img src="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EYK5TOsX20dMqDFU1ntTp1sB8QdbfNVe7O0T3vxNuASPmA?e=ZcgbMJnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 " alt="Execution Evidence">
+<img src="https://cdn.discordapp.com/attachments/1148057148522233868/1169749205208809562/Captura_de_pantalla_2023-11-02_162425.jpg?ex=655688d7&is=654413d7&hm=b511c12adb680f6f79e6a2c15e3d49c1ad4e548d06884d511f5fc5f914834f60&">
 A continuación el link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EYK5TOsX20dMqDFU1ntTp1sB8QdbfNVe7O0T3vxNuASPmA?e=ZcgbMJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EYK5TOsX20dMqDFU1ntTp1sB8QdbfNVe7O0T3vxNuASPmA?e=ZcgbMJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
