@@ -1929,19 +1929,58 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 |posts|En este endpoint se almacenan los detalles de los post de la comunidad|
 |trends|En este endpoint se almacenan los detalles de las tendencias actuales relacionadas a la agricultura e hidroponía|
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Google Firebase, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: [https://deploy-greengrow.firebaseapp.com/](https://deploy-greengrow.firebaseapp.com/home)
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron.
+![](https://lh7-us.googleusercontent.com/rJGj-1OwfYQqWw92HAooMno6Ip_pEfuzml7qSQzJlrU-yw921T2euY9Dv-mrFv3XS69n2Ow5ZSIO03f-sdL8eU9seiIWbc7gRzMVrkZiFumDWzrBeqRxlAO8-XNqc5q6cLQo8SU29oEAw054vvOPzpY)  
+![](https://lh7-us.googleusercontent.com/Wwlhr9Rl2NA5YcD4v2E2wc4sAExcSGfCBSrqCEd6Tje2V9tEFVjq_ZeZY2JXeSHXfoHvYkE3xVSDTZfqeQMCuoAk2vdZGsq8Pd6YPCKiHBVDcJA0Dxe894B7x2QGLrnJHot2cqgqoCr_f8Dmp7tYo5U)  
+![](https://lh7-us.googleusercontent.com/02crHOZDcEK_9oMhVm9JT0nuG0rKGwx_Msj6Njo4mmVBwL0_BW6FS4NJOj8vO4E7Fmn4jWmjsyucKQYqBJgoxfKZGQ5r3gUmO8O1EmohzwYZyMNaWIoKOGJ1DEpzJHgJA1WRIq-DqTQEAMr2hdI8Oo8)  
 
 ## 5.3. Validation Interviews.
-
 ### 5.3.1. Diseño de Entrevistas.
+**Segmento 1 :** Personas que deseen iniciar en la hidroponía
+-   Presentación del entrevistado
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Hace cuánto quiere iniciar en la hidroponía?
+-   Explicación de los alcances de la demostración
+***Landing Page***
+- Principales tareas en la aplicación
+-   Navegación a través de la aplicación web  
 
-**Segmento 1:**<br>
+**User Flow:** Compra de curso
+1. El usuario ingresa a la Landing Page
+2. Pulsa el botón que redirige hacia la aplicación
+3. Realiza el registro correspondiente
+4. Se redirige a la sección de Cursos
+5. Selecciona un curso de su preferencia
+6. Ingresa los campos solicitados
+7. Confirma la compra
 
+**User Flow:** Post en Comunidad
+1. El usuario ingresa a la Landing Page
+2. Pulsa el botón que redirige hacia la aplicación
+3. Realiza el registro correspondiente
+4. Se redirige a la sección de Comunidad
+5. Selecciona la opción Crear Post
+6. Ingresa los campos solicitados
+7. Crea el post correspondiente
 
-
-
+ 
+**Preguntas Principales**
+- ¿Consideras atractiva la manera en la que nuestro producto está promocionado en la Landing Page?
+- ¿Consideras que el landing page muestra la información necesaria para entender el funcionamiento, propósito y virtudes que ofrece la aplicación?
+- ¿Resulta agradable a la vista la manera en la que la información está distribuída?
+- ¿Qué dispositivo has usado para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+- Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+- ¿Qué opina acerca del apartado de Compra de curso en la aplicación web?
+- ¿Se le presentó con facilidad la opción de compra de cursos?
+- En pocas palabras, ¿cómo describiría nuestra aplicación web?
+- ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+- ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+- ¿Considera que el diseño es adecuado?
 
 
 **Segmento 2: Expertos que desean brindar sus conocimientos a los principiantes.** <br>
