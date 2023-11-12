@@ -260,6 +260,16 @@ Noviembre del 2023
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
+    - [5.2.4. Sprint 4](#523-sprint-4)
+        - [5.2.4.1. Sprint Planning 4](#5231-sprint-planning-4)
+        - [5.2.4.2. Sprint Backlog 4](#5232-sprint-backlog-4)
+        - [5.2.4.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1962,6 +1972,69 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 
 </div>
 
+
+### 5.2.4. Sprint 4
+
+
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint 4                         | IImplementación de Web Service y mejora de Web Application                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 11/11/2023                                                                                                                                      |
+| Time                             | 18:00                                                                                                                                           |
+| Location                         | Reunión realizada mediante Discord                                                                                                              |
+| Prepared By                      | Checa Apolinario, Paolo Sebastián                                                                                                               |
+| Attendees (to planning meeting) | Checa Apolinario, Paolo Sebastián/Yance Gutierrez, Franco Felix /Pozo Campos, Rodrigo Jair /Arenas Conde, José Anthony/Cáceres Bueno, Arnol Omar |
+| **Sprint Goal & User Stories**   |
+| Sprint 4 Goal                    | Implementación de nuestro Web Service para consumir dentro del Web Application                                                                                                            |
+| Sprint 4 Velocity                | 27                                                                                                                                              |
+| Sum of Story Points              | 25                                                                                                                                              |
+
+
+#### 5.2.4.2. Sprint Backlog 4
+
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+| Repository   | Branch | Commit Id| Commit Message | Commit Message Body  | Committed on (Date)|
+|---|---|---|---|--|--|
+| acceptance-test| main | 75d37e5 | greengrow01.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow02.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow03.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow04.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow05.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow07.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow08.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow09.feature | - | 04/09/2023 |
+| acceptance-test| main | 75d37e5 | greengrow10.feature | - | 04/09/2023 |
+| acceptance-test| main | 5c2db56 | greengrow11.feature | - | 20/10/2023 |
+| acceptance-test| main | 5c2db56 | greengrow12.feature | - | 20/10/2023 |
+| acceptance-test| main | 5c2db56 | greengrow13.feature | - | 20/10/2023 |
+| acceptance-test| main | 5c2db56 | greengrow14.feature | - | 20/10/2023 |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 **Segmento 1 :** Personas que deseen iniciar en la hidroponía
@@ -2496,7 +2569,6 @@ Recomendación:
 Añadir el botón para poder redirigir al usuario hacia la aplicación y así pueda hacer uso de esta.
 
 
-
 ## 5.4. Video About-the-Product
 
 <div align="center">
@@ -2516,6 +2588,8 @@ Link al video: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/
 </div>
 
 Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EaNpR2infhpCl63Tc3Dd0NoBRrDJrOP00fKfVhXhtQ-DHg?e=RA8KZX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
 
 ## Conclusiones
 
