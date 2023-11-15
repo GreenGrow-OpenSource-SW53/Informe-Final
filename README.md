@@ -2568,6 +2568,32 @@ Recomendación:
 
 Añadir el botón para poder redirigir al usuario hacia la aplicación y así pueda hacer uso de esta.
 
+# 5.2.4 Sprint 4
+
+## 5.2.4.1 Sprint Planning 4
+
+## Sprint Backlog 4
+
+## 5.2.4.3 Development Evidence for Sprint Review
+
+| Repository| Branch| Commit Id| Commit Message| Commit Message Body| Committed on (Date)|
+|----|----|----|----|----|----|
+| greengrow-app|  |  |  | - | |
+| greengrow-app| Fix-Add Course |be3b394  |fix add-course  | - |09/11/2023 |
+| greengrow-app|  |  |  | - | |
+| greengrow-app|  |  |  | - | |
+| greengrow-app|  |  |  | - | |
+
+
+## 5.2.4.4 Testing Suite Evidence for Sprint Review.
+
+## 5.2.4.5 Execution Evidence for Sprint Review.
+
+## 5.2.4.6 Services Documentation Evidence for Sprint Review.
+
+## 5.2.4.7 Software Deployment Evidence for Sprint Review.
+
+## 5.2.4.8 Team Collaboration Insights during Sprint.
 
 ## 5.4. Video About-the-Product
 
@@ -2588,6 +2614,8 @@ Link al video: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/
 </div>
 
 Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EaNpR2infhpCl63Tc3Dd0NoBRrDJrOP00fKfVhXhtQ-DHg?e=RA8KZX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
 
 
 
