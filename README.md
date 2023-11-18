@@ -35,7 +35,7 @@ Ciclo 2023-02
 
 <br>
 
-Link al video de exposición: [Video de Exposición TB2 - GreenGrow](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EdSx3i3EVDpDn8isp8IYMzcBzfc5Szqd_Mu329ruaXna2g?e=8eOs21&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link al video de exposición: [Video de Exposición TF1 - GreenGrow]()
 
 Noviembre del 2023
 
@@ -50,6 +50,7 @@ Noviembre del 2023
 |   TB1   | 06/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los Capítulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design |
 | TP1 | 25/09/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los puntos del Capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint. |
 | TB2 | 02/11/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team |
+| TF1 | 18/11/2023 | Checa Apolinario, Paolo Sebastián <br><br> Pozo Campos, Rodrigo Jair <br><br> Arenas Conde, José Anthony <br><br> Cáceres Bueno, Arnol Omar <br><br> Yance Gutierrez, Franco Felix | Se realizaron los puntos del Capítulo V: Sprint 4, Sprint Planning 4, Sprint Backlog 4, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 
 <br><br>
 
@@ -138,6 +139,33 @@ Noviembre del 2023
       <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1169756842767941762/image.png"/>
     </div>
 
+<br>
+
+- **TF1:** Para esta entrega, realizamos como equipo las actividades correspondientes al capítulo asignado en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/GreenGrow-OpenSource-SW53/Informe-Final)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 4
+    - Sprint Planning 4
+    - Sprint Backlog 4
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1175558158211612682/image.png"/>      
+    </div>
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1175558501704142948/image.png"/>      
+    </div>
 
 
 <br><br>
@@ -1995,16 +2023,36 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 
 #### 5.2.4.2. Sprint Backlog 4
 
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GWS01 | Fix Add Course    | GS01 | Agregar Curso         | Mejora de la función de agregar un curso      | 5                  | Rodrigo Pozo  | Done                                   |
+| GWS02 | Fix Articles    | GS02 | Mejora de la vista Artículos         | Mejora la vista Artículos y se añade la funcionalidad a categorías.   | 5                  | Franco Yance | Done                                   |
+| GWS03 | Web Service Development          | GS03 | Desarrollo del Web Service APIRest                             | Desarrollo e implementación del Web Service, el cual contiene conexión con nuestra base de datos y con nuestro Web Application           | 10                  | Arnol Cáceres, Rodrigo Pozo, Franco Yance, José Arenas, Paolo Checa   | Done                                   |
+| GWS04 | User Profile    | GS04 | Desarrollo del Perfil de Usuario                             | Desarrollo e implementación del Perfil de Usuario, previamente registrado en la aplicación    | 5                  | José Arenas  | Done                                   |
+| GWS05 | Java Documentation           | GS05 | Documentación en JavaDoc        | Documentación de los elementos, clases y métodos que contiene nuestro Web Service.    | 5                  | Paolo Checa   | Done                                   |
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1174456899731734558/image.png">
+
+</div>
+
+Link del Trello: https://trello.com/b/t9Bs7Tt4/sprint-4
+
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 | Repository| Branch| Commit Id| Commit Message| Commit Message Body| Committed on (Date)|
 |----|----|----|----|----|----|
-| greengrow-app|  |  |  | - | |
-| greengrow-app| Fix-Add Course |be3b394  |fix add-course  | - |09/11/2023 |
-| greengrow-app|  |  |  | - | |
-| greengrow-app|  |  |  | - | |
-| greengrow-app|  |  |  | - | |
+| greengrow-app| Fix-Add Course | be3b394  | fix add-course  | - | 09/11/2023 |
+| greengrow-app | Feature-profile-component  | 2ef7b2f | feature: Update UI and add profile component | - | 11/11/2023 |
+| greengrow-app | feature/update services | f0f61e7 | feat: update services | - | 13/11/2023 |
+| greengrow-app | feature/fix-Articles | 1907efe | feature: fix Articles  | - | 15/11/2023 |
+| greengrow-app | feature/internationalization | a90a33b | feature: internationalization | - | 17/11/2023 |
+| greengrow-app | feature/update-API-url | 80fa84f | update: API url | - | 17/11/2023 |
+| greengrow-backEnd | feature/Backend-v1 | 316d250 | Backend v1 | - | 12/11/2023 |
+| greengrow-backEnd | feature/implements | a5da8bf | Article Model, Controller, Repository, Service and Service Impl | - | 17/11/2023 |
+
 
 
 
@@ -2029,17 +2077,63 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+<div align="center">
+
+  <img src="">
+
+</div>
+
+Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+| EndPoint   | Detalles | 
+|---|---|
+| **GET** - /api/gren-grow/v1/trends  | Obtiene la lista de trends |
+| **POST** - /api/gren-grow/v1/trends  | Registra un nuevo trend | 
+| **GET** - /api/gren-grow/v1/posts  | Obtiene la lista de publicaciones | 
+| **POST** - /api/gren-grow/v1/posts  | Registra una nueva publicación  | 
+| **GET** - /api/green-grow/v1/posts/filterByTag | Obtiene las publicaciones de una sección específica | 
+| **GET** - /api/gren-grow/v1/courses  | Obtiene la lista de cursos | 
+| **POST** - /api/gren-grow/v1/courses  | Registra un nuevo curso | 
+| **GET** - /api/gren-grow/v1/courses/{id}  | Obtiene un curso en específico | 
+| **GET** - /api/gren-grow/v1/articles  | Obtiene la lista de artículos | 
+| **POST** - /api/gren-grow/v1/articles  | Registra un nuevo artículo | 
 
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review
 
+Para realizar el despliegue automático de nuestro Landing Page, utilizamos la función que nos brinda Github Pages, en donde podemos alojar el código de nuestra página para que por medio de la función se pueda visualizar en un enlace autogenerado. El link de nuestro Landing Page es el siguiente: https://greengrow-opensource-sw53.github.io/landing-page/ 
 
+
+Para realizar el despliegue automático de nuestro Web Application, utilizamos la herramienta Google Firebase, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro servicio es el siguiente: https://deploy-greengrow.firebaseapp.com/
+
+
+Para realizar el despliegue automático de nuestro Web Service, nos apoyamos de la herramienta Zeabur, en donde se realiza conexión hacia el repositorio de Github en el que se encuentra nuestro código, para luego realizar el deploy. El link generado en la herramienta Swagger es el siguiente: https://greengrow.zeabur.app/swagger-ui/index.html 
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint
+
+Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron.
+
+<div align="center">
+
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1175255486623404052/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1175255593234202664/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://media.discordapp.net/attachments/1148057148522233868/1175258194860314664/image.png">
+
+</div>
 
 
 ## 5.3. Validation Interviews.
@@ -2580,27 +2674,29 @@ Añadir el botón para poder redirigir al usuario hacia la aplicación y así pu
 
 <div align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1168335065089052744/image.png">
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1175565152523923576/image.png">
 
 </div>
 
-Link al video: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EevzDu4O-stKhNYZpKKXh0kByxuwrcuDLclz-pIsCv9rBA?e=Mr5dsc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link al video: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EfnQCVY1bBtIvscjs6UlBhYBgio8WbrcqHoWoVMdKy51Jg?e=7HTulF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## 5.4. Video About-the-Team
 
 <div align="center">
 
-  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1168024822446575686/image.png">
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1175565501959786636/image.png">
 
 </div>
 
-Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EaNpR2infhpCl63Tc3Dd0NoBRrDJrOP00fKfVhXhtQ-DHg?e=RA8KZX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EUZWxnG_1-VLiM9sqxLNJkYB1LmdENTbfAAI7GNhqkypkw?e=fOSm1I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 
 
 
 ## Conclusiones
+
+**TB1:**
 
 - Mediante el análisis de competidores, hemos obtenido una visión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha brindado una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.<br><br>
 
@@ -2612,9 +2708,11 @@ Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/p
 
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
 
+**TP1:**
+
 - El despliegue utilizando Google Firebase representa una solución altamente efectiva y conveniente para los desarrolladores de aplicaciones web y móviles. Esta plataforma integral ofrece una combinación de facilidad de uso, escalabilidad y seguridad que simplifica significativamente el proceso de desarrollo y despliegue. La capacidad de Firebase para gestionar una amplia gama de servicios, su alojamiento en la infraestructura confiable de Google Cloud y sus herramientas de análisis hacen que sea una elección sólida para crear y lanzar aplicaciones de alta calidad de manera eficiente.<br><br>
 
-- Gracias a la realización de esta TP pudimos observar cuales son los puntos fuertes y débiles de nuestro proyecto. Mientras que realizamos el front-end de nuestra página nos cercioramos que esta cumpla con los estándares que requieren las páginas actuales. Así como tratar todo lo posible de que esta sea responsive y que la experiencia del usuario cuando navegue por nuestra página sea de la mejor manera. Además hemos podido organizarnos mejor para cumplir con las correcciones que tuvimos de la anterior entrega para que esta pueda ser una versión mejorada y con un mejor desarrollo.
+- Gracias a la realización de esta TP pudimos observar cuales son los puntos fuertes y débiles de nuestro proyecto. Mientras que realizamos el front-end de nuestra página nos cercioramos que esta cumpla con los estándares que requieren las páginas actuales. Así como tratar todo lo posible de que esta sea responsive y que la experiencia del usuario cuando navegue por nuestra página sea de la mejor manera. Además hemos podido organizarnos mejor para cumplir con las correcciones que tuvimos de la anterior entrega para que esta pueda ser una versión mejorada y con un mejor desarrollo. <br><br>
 
 - En el segundo Sprint, el equipo logró un avance significativo al completar la implementación del Front-End del proyecto, incluyendo vistas esenciales como Home, Log-In, Sign-Up, Cursos, Artículos y Comunidad. Este logro marca un hito importante en el desarrollo del software, ya que la interfaz de usuario es una parte fundamental de la experiencia del usuario. La colaboración efectiva, el cumplimiento de las estimaciones de tiempo y la adopción de buenas prácticas de desarrollo fueron clave para alcanzar este hito, preparando el terreno para futuros avances y la creación de una aplicación web funcional y atractiva para los usuarios finales. <br><br>
 
@@ -2622,11 +2720,20 @@ Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/p
 
 - Durante el segundo sprint, logramos cumplir con uno de los objetivos clave que nos habíamos propuesto: la creación de la vista de 'Artículos', que estaba planificada desde el inicio del proyecto. Esta vista es fundamental para proporcionar contenido valioso a nuestros usuarios y enriquecer su experiencia en la plataforma. La implementación exitosa de esta función demuestra la capacidad de nuestro equipo para gestionar eficazmente las prioridades y metas del proyecto, asegurando que cada sprint sea un paso significativo hacia la realización de nuestra visión global. La vista de 'Artículos' ahora complementa las otras funcionalidades del proyecto y refuerza nuestro compromiso de ofrecer una aplicación web completa y atractiva.<br><br>
 
+**TB2:**
+
 - El desarrollo del nuevo Sprint implicó una nueva versión del proyecto, aplicando las mejoras continuas recibidas de la entrega pasada. De esta manera podemos ofrecer hacia el público un producto que contenga soluciones para las dificultades que presenta cada segmento objetivo que abarca nuestro proyecto.<br><br>
 
 - La realización exhaustiva de las entrevistas de validación y la aplicación rigurosa de heurísticas nos brindaron una valiosa perspicacia, permitiéndonos identificar una amplia gama de posibles fallos y oportunidades de mejora. Este proceso nos ha facilitado el camino hacia la creación de un producto mucho más robusto, flexible y ajustado a las necesidades del usuario. Esto implica tanto la incorporación de nuevas funciones como la refinación minuciosa de las características ya implementadas por nuestro dedicado equipo de trabajo.<br><br>
 
 - A través de las entrevistas de validación, hemos obtenido un valioso feedback que ha sido fundamental para la mejora de nuestra plataforma web. Estas conversaciones nos proporcionaron una visión enriquecedora de las necesidades y expectativas de nuestros usuarios, lo que nos permitió identificar oportunidades de mejora y abordar posibles fallos de manera efectiva. Gracias a este proceso, nuestro proyecto se ha fortalecido y ha evolucionado hacia un producto más sólido y adaptado a las necesidades del público objetivo.<br><br>
+
+**TF1:**
+
+- Logramos implementar nuestro enfoque inicial de nuestro proyecto, llevando a cabo tanto el desarrollo de la parte visual en el Front-End, como de la parte lógica dentro del Back-End, conectando estos apartados satisfactoriamente para el correcto uso de los usuarios, y lograr brindar una solución a sus impedimentos mediante nuestros conocimientos en tecnología obtenidos a lo largo de nuestro aprendizaje. <br><br>
+
+- Se pudo implementar correctamente el web service de nuestra aplicación y además poder integrarla a nuestro web application, para poder manejar toda la lógica de la misma. Además se arreglaron algunos errores y se añadieron más funcionalidades que vimos necesarias para satisfacer las necesidades de nuestros usuarios.
+
 
 
 
