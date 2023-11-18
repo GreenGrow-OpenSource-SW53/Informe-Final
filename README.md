@@ -1529,7 +1529,7 @@ En el presente diccionario; se mostrarán la utilidad de las clases diseñadas y
 ### 4.8.1. Database Diagram.
 
 <p style = 'text-align:center;'>
-  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1155916658129522739/image.png">
+  <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1175265845082079362/greengrow-2023-11-17_21-45.png">
 </p>
 <br>
 
